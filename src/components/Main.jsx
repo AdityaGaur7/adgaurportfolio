@@ -29,7 +29,7 @@ function Main() {
           innerScale={2}
           outerScale={2}
           outerAlpha={1}
-          trailingSpeed={20} //8
+          trailingSpeed={15} //8
           outerStyle={{
             // border: '3px solid #fff',
             backgroundColor: "white",
@@ -47,7 +47,7 @@ function Main() {
       innerScale={2}
       outerScale={2}
       outerAlpha={1}
-      trailingSpeed={15}
+      trailingSpeed={10}
       outerStyle={{
         // border: '3px solid #fff',
         backgroundColor: "#fff",
