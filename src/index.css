@@ -554,12 +554,14 @@ textarea {
 
 }
 .base h3{
-    color: #00E8F8;
+    color: #8df0f7;
     text-shadow: 0 0 20px #fff, 0 0 50px #00E8F8,  0 0 80px #00E8F8;
  font-family:'Courier New', Courier, monospace;
  margin: 3vh;
  text-align: center;
- 
+ animation: bg 4s 0s infinite linear ;
+ /* box-shadow: 6px 6px 8px#00E8F8; */
+ transition: all ease 1s;
  
 }
 

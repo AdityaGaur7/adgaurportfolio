@@ -5,7 +5,7 @@ const Cont = () => {
     const example = Object.create(autotyper);
     const element = document.querySelector('#element');
     const options = {
-      text: 'Hello World.',
+      text:'WEB DEVELOPER LOVE SKETCHING '
     };
      
     example.init(element, options);
@@ -20,7 +20,7 @@ const Cont = () => {
                 <h1>I'm <span>ADITYA GAUR</span></h1>
                 <span id="element"></span>
                 <p>
-                    SOPHOREMORE BTECH STUDENT || SKILLED AT C++,HTML,CSS,JS and<br/> LEARNING <span>MERN STACK </span>
+                    SOPHOREMORE BTECH STUDENT || SKILLED AT C++, HTML, CSS, JS, REACT JS<br/>and LEARNING <span>MERN STACK </span>
                      <br/> LEARNING TO IMPROVE NOT TO
                     PROVE || LONG WAY TO GO 
                 </p>

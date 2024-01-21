@@ -260,6 +260,15 @@
 .education,.container,.links,.nav,.about ,.msg{
     overflow-x: hidden;
   }
+
+  .hide{
+    display: none;
+
+
+  }
+  .show{
+    display: flex;
+  }
 }
 
-  
+ 
