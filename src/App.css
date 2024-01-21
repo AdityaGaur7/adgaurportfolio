@@ -1,0 +1,265 @@
+@media(max-width:790px) {
+  *{
+    /* overflow-x: hidden; */
+  }
+   
+
+    body {
+        /* overflow-x: hidden; */
+    
+    }
+
+    .logo img {
+        position: absolute;
+        z-index: 2;
+        top: 2vh;
+
+        left: 8vw;
+    }
+
+    .links {
+        overflow-x: hidden;
+        /* display: block; */
+        position: absolute;
+        z-index: 13;
+        top: 4rem;
+        left: 75%;
+        background: #064c51;
+        /* background-color:#1d252f; */
+        height: 15rem;
+        margin: auto;
+        height: auto;
+        width: auto;
+        display: none;
+    }
+
+    #btn-hbg ,#btn-x{
+        display: block;
+        padding: fixed;
+          /* position: absolute; */
+        /* left: 80%; */
+    }
+  #btn-x{
+    display: none;
+  }
+    #bg-x{
+        display: none;
+    }
+
+    .links li {
+        line-height: 3rem;
+    }
+
+    #bg {
+        position:relative;
+        height: 15vh;
+        top: 70%;
+        /* left: 10%; */
+    }
+    #img{
+        position: absolute;
+        margin: auto;
+        left: 20%;
+        top: -40%;
+        text-align: center;
+    }
+
+    @keyframes cyan {
+        from {
+            position: relative;
+            left: 5%;
+        }
+
+        to {
+            position: relative;
+            left: 10%;
+        }
+
+    }
+
+    .frame img {
+        height: 25vh;
+    }
+
+    hr {
+        
+        /* width: auto;*/
+        
+        margin: auto;  
+        text-align: center;
+        width: 100%;
+    }
+
+    .left ,.right{
+        position: relative;
+        z-index: 1;
+        margin: auto;
+        width: 100%;
+        text-align: center;
+
+        /* margin-left: 25vw; */
+    }
+
+    .left h3 {
+        font-size: 17px;
+        margin-bottom: 1vh;
+    }
+
+    .left h1 {
+        font-size: 20px;
+        margin-bottom: 1vh;
+
+    }
+
+    .left p {
+        font-size: 9px;
+        margin-bottom: 1vh;
+
+    }
+
+    #element {
+        font-size: 25px;
+    }
+
+    .photo img {
+        height: 25vh;
+    }
+    .frame{
+        text-align: center;
+        margin: auto;
+    }
+.info{
+    text-align: center;
+}
+    .info p {
+        font-size: 11px;
+    }
+
+    .icon {
+        margin-top: 2vh;
+    }
+
+    .icon i {
+        font-size: 11px;
+    }
+
+    .education {
+        display: block;
+
+    }
+
+    .study {
+        text-align: center;
+        width: 100%;
+
+
+    }
+
+    .edu h2 {
+        font-size: 18px;
+    }
+
+    .edu p {
+        font-size: 13px;
+    }
+
+    .tech {
+        width: 100%;
+        margin-top: 9rem;
+        /* margin-left:3rem; */
+        text-align: center;
+
+    }
+   .tech ul{
+    /* margin-left: 18vw; */
+    /* position: absolute; */
+    left: 35%;
+   }
+
+
+    .tech h2 {
+        font-size: 18px;
+    }
+
+    .bx h2 {
+        font-size: 15px;
+
+    }
+    .bx{
+        margin: 20px;
+        width: 20%;
+    }
+
+    .bx p {
+        font-size: 10px;
+
+    }
+
+
+    .sampark {
+        width: 86%;
+        text-align: center;
+    }
+
+    .sampark input {
+        width: 10rem;
+    }
+
+    .sampark textarea {
+        width: 15rem;
+        margin-right: -18vw;
+    }
+
+    #btn {
+        width: 5rem;
+    }
+
+   .base{
+    width: 100%;
+    font-size: 13px;
+   }
+    .cd button {
+        width: 6rem;
+    }
+   
+
+    .cd img {
+        height: 23vh;
+    }
+
+  
+
+  
+ .layer{
+    width: 50%;
+ }
+.nav{
+        width: 80.6%;
+            /* background: #1d252f; */
+}
+.me,.box{
+    flex-wrap: wrap;
+}
+.baya ul{
+    text-align: center;
+}
+.links{
+    display: none;
+    width: 100%;
+    margin: auto;
+    position: fixed;
+    left: 0px;
+    height: 100vh;
+    top: 10%;
+    background-color: #1d252f;
+    opacity: .8;
+    text-align: center;
+}
+
+
+.education,.container,.links,.nav,.about ,.msg{
+    overflow-x: hidden;
+  }
+}
+
+  
