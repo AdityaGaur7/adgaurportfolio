@@ -29,13 +29,6 @@ const Nav = () => {
     display: (isvisible) ? 'none' : (windowWidth <= 790 ) ? 'block' : 'flex',
      
       };
-      
-    
-      
-     
-   
-      
-
 
     return (
     <div>
@@ -56,24 +49,30 @@ const Nav = () => {
                 <li><a href="#skill">Services</a></li>
                 <li><a href="#contact">Contact</a></li>
             </div>
-            <i className="fa-solid fa-x" id="btn-x"
-
-
-        
-// display: (isvisible) ? 'none' : (windowWidth <= 790 ) ? 'block' : 'flex',
-
+           
+                  <i className="fa-solid fa-x" id="btn-x"
+// display: (isvisible) ? 'none' : (windowWidth <= 790 ) ? 'block' : 'flex',  
              style={
               {display:(windowWidth > 790)
-              ?'none': (isvisible)?'none':'flex'}
+              ?'none': (isvisible)?'none':'flex',backgroundColor: "#575c63",
+                padding:'5px',
+              color: "white",
+              fontSize: "20px" }
              }
-            
+          
               onClick={fun1}></i>
             <i className="fa-solid fa-bars" 
                style={
                 {display:(windowWidth > 790)
-                ?'none': (isvisible)?'flex':'none'}
+                ?'none': (isvisible)?'flex':'none',backgroundColor: "#575c63",
+                padding:'5px',
+                color: "white",
+                fontSize: "20px"}
                }
             id="btn-hbg" onClick={fun1}></i>
+
+         
+            
 
 
           </div>
