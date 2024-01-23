@@ -43,7 +43,7 @@ function Main() {
       }}
       color="#fff"
       innerSize={5}
-      outerSize={60}
+      outerSize={45}
       innerScale={2}
       outerScale={2}
       outerAlpha={1}
