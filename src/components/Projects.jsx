@@ -134,7 +134,7 @@ function Projects() {
             </div>
             <div className="layer">
               <h1>Wassup 💬</h1>
-              <p>Use Roomid - naruto</p>
+              <p>Use Roomid - adgaur</p>
             </div>
           </div>
 
