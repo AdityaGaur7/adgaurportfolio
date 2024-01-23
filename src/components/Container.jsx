@@ -46,7 +46,7 @@ const Cont = () => {
             <div className="right">
                 <div className="frame">
                     {/* <img src="bg-oval.png" id="bg" alt="/">  */}
-                    <img src="images/me.png" alt="" id="img"/>
+                    <img src="images/me.png"  alt="" id="img"/>
 
 
                 </div>

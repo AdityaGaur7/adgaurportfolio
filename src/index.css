@@ -8,8 +8,14 @@
     list-style: none;
     color: white;
     font-family: 'Dosis', sans-serif;font-family: 'Courier New', monospace;
-    font-weight: 500;
+   
    z-index: 1;
+   font-weight: 700;
+}
+p{
+    color:aliceblue;
+    font-weight: 600;
+    
 }
 #ok{
   z-index: 0;
@@ -114,13 +120,17 @@ left: 80%;
 
 .frame {
     margin-top: -5vh;
-
+  
+ 
 }
 
 .frame img {
     width: auto;
     height: 25vw;
     border-radius: 10px;
+    border-bottom-left-radius: 20%;
+  
+    border-bottom-right-radius: 50%;
 }
 
 hr {
@@ -625,6 +635,8 @@ textarea {
     animation: bg 4s 0s infinite linear ;
     /* box-shadow: 6px 6px 8px#00E8F8; */
     transition: all ease 2s;
+    /* filter: drop-shadow(7px 0px 25px  #e70e0e); */
+
   }
   @keyframes bg {
     100%{
