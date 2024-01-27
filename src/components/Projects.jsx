@@ -125,7 +125,7 @@ function Projects() {
               <br />{" "}
               <button>
                 <i className="fa-solid fa-arrow-up-right">
-                  <a href="https://letschat.adgaur027.repl.co/" target="_blank">
+                  <a href="https://71cb05c4-605f-4cda-b5fa-cab168693df0-00-13jxmo7ac53gv.picard.replit.dev/" target="_blank">
                     OPEN
                     <i className="fa-solid fa-arrow-up-right-from-square"></i>
                   </a>
