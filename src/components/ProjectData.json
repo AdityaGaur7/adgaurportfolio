@@ -1,0 +1,131 @@
+[
+    {
+      "title": "MMMUTRESO 📚",
+      "description": "Study resources all at one place",
+      "image": "images/img/MMMURESO.png",
+      "link": "https://mmmut.xyz"
+    },
+    {
+      "title": "SociApp",
+      "description": "Using Express & MongoDB",
+      "image": "images/img/SociApp.png",
+      "link": "https://github.com/AdityaGaur7/Animgram"
+    },
+    {
+      "title": "Embrace Arts",
+      "description": "Using NextJs",
+      "image": "images/img/Artwork.png",
+      "link": "https://art-silk.vercel.app/"
+    },
+    {
+      "title": "Search Pkmn",
+      "description": "Using ReactJs",
+      "image": "images/img/pokemon.png",
+      "link": "https://pokemonsearchbyadgaur.netlify.app/"
+    },
+    {
+      "title": "Wassup 💬",
+      "description": "Use Roomid - adgaur",
+      "image": "images/img/chatapp.png",
+      "link": "https://71cb05c4-605f-4cda-b5fa-cab168693df0-00-13jxmo7ac53gv.picard.replit.dev/"
+    },
+    {
+      "title": "Educate girlchild",
+      "description": "if you educate a girl, educate a nation.",
+      "image": "images/img/educate girl.png",
+      "link": "https://educate-girlchild-by-adgaur.netlify.app/"
+    },
+    {
+      "title": "Image-Generator",
+      "description": "Use this project of mine to get any image you want",
+      "image": "images/img/img-generator.png",
+      "link": "https://adityagaur7.github.io/SearchImage-byAdgaur.github.io/"
+    },
+    {
+      "title": "DateCrush Flipbook🙈",
+      "description": "Use this flipbook to ask for date to your crush💝 but beware",
+      "image": "images/img/dateCrush.png",
+      "link": "https://adityagaur7.github.io/DatingCrush-ByAdgaur/"
+    },
+    {
+      "title": "Robomania Clone",
+      "description": "A Multipage, Responsive Clone.",
+      "image": "images/img/robomania-clone.png",
+      "link": "https://adityagaur7.github.io/robomania-clone-by-adgaur.github.io/"
+    },
+    {
+      "title": "Pet Item Cart",
+      "description": "A place for your Pet's all essential stuffs.",
+      "image": "images/img/landing-page-pet-shop.png",
+      "link": "https://adityagaur7.github.io/Octanet-task1-landing-page-byadgaur/"
+    },
+    {
+      "title": "Konoha Kart",
+      "description": "Naruto Anime Merchandise, Hurry Up! check it out.",
+      "image": "images/img/konoha-kart.png",
+      "link": "https://adityagaur7.github.io/animeadgaur.github.io/"
+    },
+    {
+      "title": "Einstein Tribute Page",
+      "description": "“Anyone who has never made a mistake has never tried anything new.”",
+      "image": "images/img/tribute-page.png",
+      "link": "https://adityagaur7.github.io/tributepage-by-adgaur.github.io/"
+    },
+    {
+      "title": "Proposal To Crush",
+      "description": "You won't get rejected by your crush, check this out.",
+      "image": "images/img/proposal.png",
+      "link": "https://adityagaur7.github.io/proposal-by-adgaur.github.io/"
+    },
+    {
+      "title": "Anime Sketch",
+      "description": "Having hobby as passion is fun isn't it? My Anime Sketch Collection.",
+      "image": "images/img/sketch-anime.png",
+      "link": "https://adityagaur7.github.io/sketch-collection-by-Adgaur.github.io/"
+    },
+    {
+      "title": "Netflix Clone",
+      "description": "Turn it On and Just Chill!",
+      "image": "images/img/netfrlix clone.png",
+      "link": "https://lnkd.in/djM-j3Cr"
+    },
+    {
+      "title": "Myntra Clone",
+      "description": "Wanna buy something! so, What are you waiting for?",
+      "image": "images/img/myntra-clone.png",
+      "link": "https://myntra-clone-by-adgaur.netlify.app/"
+    },
+    {
+      "title": "Tesla Clone",
+      "description": "Advanced Automobiles and technologies are the Future.",
+      "image": "images/img/Tesla-clone.png",
+      "link": "https://tesla-clone-by-adgaur.netlify.app/"
+    },
+    {
+      "title": "Microsoft Clone",
+      "description": "A site where your all needs are met with MS",
+      "image": "images/img/microsoft-clone.png",
+      "link": "https://adityagaur7.github.io/microsoftclonebyadgaur.github.io/"
+    },
+    {
+      "title": "Rock-Paper-Scissor",
+      "description": "Compete with CPU and Beat the AI.",
+      "image": "images/img/rock-paper-scissor.png",
+      "link": "https://rock-paper-scissor-gameby-adgaur.netlify.app/"
+    },
+    {
+      "title": "Weather App",
+      "description": "Use the app to check the weather before going out, who knows when it rains?",
+      "image": "images/img/weather-app.png",
+      "link": "https://adityagaur7.github.io/weather-app-using-js-by-adgaur.github.io/"
+    },
+   
+    {
+      "title": "Calculator",
+      "description": "Basic Calculator to Solve Everyday Math",
+      "image": "images/img/calculator.png",
+      "link": "https://adityagaur7.github.io/Calculator-by-adgaur.github.io/"
+    }
+   
+]
+   

@@ -230,8 +230,14 @@
   
 
   
- .layer{
-    width: 50%;
+ .layer {
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+   
+ }
+ .layer h1{
+    width: 30%;
  }
 .nav{
         width: 80.6%;
