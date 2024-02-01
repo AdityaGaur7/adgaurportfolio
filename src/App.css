@@ -6,7 +6,7 @@
 
     body {
         /* overflow-x: hidden; */
-    
+      background: rgba(86, 91, 187, 0.429);
     }
 
     .logo img {
@@ -277,4 +277,6 @@
   }
 }
 
- 
+ #ok{
+    filter: opacity(0.8);
+ }
