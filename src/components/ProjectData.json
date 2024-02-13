@@ -36,53 +36,19 @@
       "link": "https://educate-girlchild-by-adgaur.netlify.app/"
     },
     {
-      "title": "Image-Generator",
-      "description": "Use this project of mine to get any image you want",
-      "image": "images/img/img-generator.png",
-      "link": "https://adityagaur7.github.io/SearchImage-byAdgaur.github.io/"
-    },
-    {
-      "title": "DateCrush Flipbook🙈",
-      "description": "Use this flipbook to ask for date to your crush💝 but beware",
-      "image": "images/img/dateCrush.png",
-      "link": "https://adityagaur7.github.io/DatingCrush-ByAdgaur/"
-    },
-    {
       "title": "Robomania Clone",
       "description": "A Multipage, Responsive Clone.",
       "image": "images/img/robomania-clone.png",
       "link": "https://adityagaur7.github.io/robomania-clone-by-adgaur.github.io/"
     },
+    
     {
       "title": "Pet Item Cart",
       "description": "A place for your Pet's all essential stuffs.",
       "image": "images/img/landing-page-pet-shop.png",
       "link": "https://adityagaur7.github.io/Octanet-task1-landing-page-byadgaur/"
     },
-    {
-      "title": "Konoha Kart",
-      "description": "Naruto Anime Merchandise, Hurry Up! check it out.",
-      "image": "images/img/konoha-kart.png",
-      "link": "https://adityagaur7.github.io/animeadgaur.github.io/"
-    },
-    {
-      "title": "Einstein Tribute Page",
-      "description": "“Anyone who has never made a mistake has never tried anything new.”",
-      "image": "images/img/tribute-page.png",
-      "link": "https://adityagaur7.github.io/tributepage-by-adgaur.github.io/"
-    },
-    {
-      "title": "Proposal To Crush",
-      "description": "You won't get rejected by your crush, check this out.",
-      "image": "images/img/proposal.png",
-      "link": "https://adityagaur7.github.io/proposal-by-adgaur.github.io/"
-    },
-    {
-      "title": "Anime Sketch",
-      "description": "Having hobby as passion is fun isn't it? My Anime Sketch Collection.",
-      "image": "images/img/sketch-anime.png",
-      "link": "https://adityagaur7.github.io/sketch-collection-by-Adgaur.github.io/"
-    },
+    
     {
       "title": "Netflix Clone",
       "description": "Turn it On and Just Chill!",
@@ -102,10 +68,72 @@
       "link": "https://tesla-clone-by-adgaur.netlify.app/"
     },
     {
+      "title": "Love Calculator",
+      "description": "Check how much  you love someone.",
+      "image": "images/img/love-calculator.png",
+      "link": "https://agreeable-miniskirt-seal.cyclic.app/"
+    },
+    {
       "title": "Microsoft Clone",
       "description": "A site where your all needs are met with MS",
       "image": "images/img/microsoft-clone.png",
       "link": "https://adityagaur7.github.io/microsoftclonebyadgaur.github.io/"
+    },
+    {
+      "title": "Anime Sketch",
+      "description": "Having hobby as passion is fun isn't it? My Anime Sketch Collection.",
+      "image": "images/img/sketch-anime.png",
+      "link": "https://adityagaur7.github.io/sketch-collection-by-Adgaur.github.io/"
+    },
+    {
+      "title": "Konoha Kart",
+      "description": "Naruto Anime Merchandise, Hurry Up! check it out.",
+      "image": "images/img/konoha-kart.png",
+      "link": "https://adityagaur7.github.io/animeadgaur.github.io/"
+    },
+    
+    {
+      "title": "Proposal To Crush",
+      "description": "You won't get rejected by your crush, check this out.",
+      "image": "images/img/proposal.png",
+      "link": "https://adityagaur7.github.io/proposal-by-adgaur.github.io/"
+    },
+    {
+      "title": "Image-Generator",
+      "description": "Use this project of mine to get any image you want",
+      "image": "images/img/img-generator.png",
+      "link": "https://adityagaur7.github.io/SearchImage-byAdgaur.github.io/"
+    },
+    {
+      "title": "DateCrush Flipbook🙈",
+      "description": "Use this flipbook to ask for date to your crush💝 but beware",
+      "image": "images/img/dateCrush.png",
+      "link": "https://adityagaur7.github.io/DatingCrush-ByAdgaur/"
+    },
+  
+    {
+      "title": "Einstein Tribute Page",
+      "description": "“Anyone who has never made a mistake has never tried anything new.”",
+      "image": "images/img/tribute-page.png",
+      "link": "https://adityagaur7.github.io/tributepage-by-adgaur.github.io/"
+    },
+    {
+      "title": "To Do App",
+      "description": "Manage your task",
+      "image": "images/img/to-do-app.png",
+      "link": "https://lnkd.in/dnGfeTqS"
+    },
+    {
+      "title": "Temp Converter",
+      "description": "Check the temperature",
+      "image": "images/img/temp-converter.png",
+      "link": "https://lnkd.in/d86bPJCb"
+    },
+    {
+      "title": "Live Time",
+      "description": "Check the Clock",
+      "image": "images/img/live-time.png",
+      "link": "https://adityagaur7.github.io/adityaproj/"
     },
     {
       "title": "Rock-Paper-Scissor",
@@ -124,7 +152,13 @@
       "title": "Calculator",
       "description": "Basic Calculator to Solve Everyday Math",
       "image": "images/img/calculator.png",
-      "link": "https://adityagaur7.github.io/Calculator-by-adgaur.github.io/"
+      "link": "https://lnkd.in/dipRqRU4"
+    },
+    {
+      "title": "LoginPage",
+      "description": "Using PHP",
+      "image": "images/img/login-byphp.png",
+      "link": "http://beauty7112.000webhostapp.com/"
     }
    
 ]
