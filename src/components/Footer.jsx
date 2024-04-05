@@ -49,7 +49,7 @@ function Footer() {
           </div>
         </div>
         <div className="base">
-          <h3>© 2023 Aditya-All Rights Reserved.</h3>
+          <h3>© 2024 Aditya-All Rights Reserved.</h3>
         </div>
       </div>
     </div>

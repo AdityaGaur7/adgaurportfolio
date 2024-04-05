@@ -6,7 +6,7 @@ function About() {
       <div className="about">
         <div className="me" id="about">
             <div className="photo" data-aos="fade-right">
-                <img src="images/img2.png" alt="image"/>
+                <img src="images/programmer.webp" alt="image"/>
             </div>
             <div className="info" data-aos="fade-left">
                 <h1>About <span>Me</span></h1>

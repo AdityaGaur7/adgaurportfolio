@@ -1,5 +1,7 @@
-import React from 'react'
+import {React,useEffect} from 'react'
 import autotyper from 'autotyper';
+import gsap from 'gsap';
+
 
 const Cont = () => {
     const example = Object.create(autotyper);
@@ -9,6 +11,22 @@ const Cont = () => {
     };
      
     example.init(element, options);
+
+    useEffect(() => {
+        const moveElement = () => {
+          const scrollPosition = window.scrollY;
+          
+          gsap.to('#img', { x: -scrollPosition,y:-scrollPosition, ease: 'none' });
+      
+        };
+    
+        window.addEventListener('scroll', moveElement);
+    
+        return () => {
+          window.removeEventListener('scroll', moveElement);
+        };
+      }, []);
+      
   return (
     
 <>
@@ -20,7 +38,7 @@ const Cont = () => {
                 <h1>I'm <span>ADITYA GAUR</span></h1>
                 <span id="element"></span>
                 <p>
-                    SOPHOREMORE BTECH STUDENT || SKILLED AT C++, HTML, CSS, JS, REACT JS<br/>and LEARNING <span>MERN STACK </span>
+                    SOPHOREMORE BTECH STUDENT || SKILLED AT C++, HTML, CSS, JS, REACT JS, NEXT JS<br/>AND LEARNING BACKEND WITH NODEJS IN <span>MERN STACK </span>
                      <br/> LEARNING TO IMPROVE NOT TO
                     PROVE || LONG WAY TO GO 
                 </p>
@@ -45,11 +63,13 @@ const Cont = () => {
             </div>
             <div className="right">
                 <div className="frame">
-                    {/* <img src="bg-oval.png" id="bg" alt="/">  */}
-                    <img src="images/me.png"  alt="" id="img"/>
-
+                
+                 
+                    <img src="images/adgaur.jpg"  alt="" id="img"/>
+                    
 
                 </div>
+             
 
             </div>
             <div/>

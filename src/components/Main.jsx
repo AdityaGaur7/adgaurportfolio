@@ -11,6 +11,7 @@ import Contact from "./Contact";
 import Projects from "./Projects";
 import Aos from "aos";
 import "aos/dist/aos.css";
+import Animate from "./Animate";
 function Main() {
   useEffect(() => {
     Aos.init({duration:2000});
@@ -57,6 +58,7 @@ function Main() {
       </div> 
       <Nav />
       <Back />
+      <Animate/>
       <Cont />
       <About />
       <Education />

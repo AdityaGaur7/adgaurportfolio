@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&family=Rubik+Scribble&display=swap');
+
+.astro1 {
+    width: auto;
+    height: 40%;
+}
+
+.astro2 {
+    width: auto;
+    left: 75%;
+    height: 65%;
+    top: 30%;
+}
+
+
+.astro1 {
+    position: fixed;
+    z-index: 1;
+    left: 5%;
+    top: 8%;
+    width: auto;
+
+}
+
+.astro2 {
+    position: fixed;
+    z-index: 7;
+}
+
+.asteroid {
+    width: auto;
+    height: 30%;
+    position: fixed;
+    z-index: 6;
+    left: 15%;
+    top: -20%;
+}
+
+.midtext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+    font-size: 3rem;
+
+    /* width: 100%; */
+    position: fixed;
+    left: 25%;
+
+}
+
+.txt {
+    display: block;
+    text-align: center;
+    font-size: 4.5rem;
+   
+}
+
+#first_letter {
+    font-size: 6rem !important;
+}
+
+.midtext h1 {
+    font-family: system-ui;
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.rocket{
+    top: 120%;
+    width: auto;
+    height: 20%;
+    left:80%;
+    z-index: 2;
+}
+
+.satellite {
+    top: 70%;
+    left: 5%;
+    width: auto;
+    height: 35%;
+}
+
+.conti {
+    height: 200vh;
+}
+#img{
+    top: 180%;
+    position: fixed;
+    left: 121%;
+}
+
+@media (max-width: 420px) {
+    .astro1 {
+        width: auto;
+        height: 25%;
+        left: 0;
+        top: 20%;
+    }
+
+    .conti {
+        height: 100vh;
+    }
+
+    .astro2 {
+        width: auto;
+        height: 40%;
+        left: 50%;
+        top: 40%;
+        z-index: 8;
+    }
+
+    .satellite {
+        width: auto;
+        height: 30%;
+        left: -15%;
+    }
+
+    .asteroid {
+        width: auto;
+        height: 20%;
+        top: -3%;
+        left: -20%;
+    }
+    .midtext{
+        font-size: 2rem;
+        left: 7%;
+    }
+    .txt{
+        font-size: 2rem;
+    }
+    .rocket{
+        top: 95%;
+        left: 100%;
+        height: 15%;
+    }
+    #img{
+        top: 95%;
+        position: fixed;
+        left: 210%;
+    }
+}

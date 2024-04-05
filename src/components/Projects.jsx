@@ -37,7 +37,7 @@ function Projects() {
   });
   return (
     <div>
-      <div className="projects">
+      <div className="projects" id="projectsid">
         <div className="proj">
           {projectsData.map((project, index) => (
             <div

@@ -18,6 +18,12 @@
       "link": "https://art-silk.vercel.app/"
     },
     {
+      "title": "CDC Website",
+      "description": "Using Reactjs",
+      "image": "images/img/CDC.png",
+      "link": "https://art-silk.vercel.app/"
+    },
+    {
       "title": "Search Pkmn",
       "description": "Using ReactJs",
       "image": "images/img/pokemon.png",
