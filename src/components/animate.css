@@ -141,7 +141,7 @@
         left: 210%;
     }
 }
-@media (max-width:431px) and (min-width: 413px) {
+@media (max-width:790px) and (min-width: 413px) {
     .midtext{
         /* font-size: 1rem; */
         
