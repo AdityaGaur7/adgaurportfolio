@@ -32,7 +32,7 @@ const Cont = () => {
 <>
         <div className="container">
            <div className="box">
-            <div className="left" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
+            <div className="left" data-aos="fade-up" data-aos-offset="300" data-aos-easing="ease-in-sine">
 
                 <h3>Hi ,it's Me</h3>
                 <h1>I'm <span>ADITYA GAUR</span></h1>

@@ -141,3 +141,44 @@
         left: 210%;
     }
 }
+@media (max-width:431px) and (min-width: 413px) {
+    .midtext{
+        /* font-size: 1rem; */
+        
+    }
+    .astro1{
+        left: -20%;
+        top: 20%;
+        height: 20%;
+        z-index: 2;
+    }
+    .astro2{
+        left: 50%;
+        height: 40%;
+    }
+    .asteroid{
+        top: -2%;
+        z-index: 1;
+        left: -15%;
+    }
+    .txt{
+        font-size: 2rem;
+        left: 8%;
+        position: fixed;
+    
+    }
+    .satellite{
+        left: -30%;
+        top: 70%;
+
+    }
+    .rocket{
+        top: 130%;
+        left: 200%;
+    }
+    #img{
+        left: 390%;
+        top: 190%;
+
+    }
+}
