@@ -12,6 +12,12 @@
       "link": "https://defiant-trench-coat-cow.cyclic.app/"
     },
     {
+      "title": "Love Calculator",
+      "description": "Check how much  you love someone.",
+      "image": "images/img/love-calculator.png",
+      "link": "https://happy-outerwear-dove.cyclic.app/"
+    },
+    {
       "title": "Embrace Arts",
       "description": "Using NextJs",
       "image": "images/img/Artwork.png",
@@ -72,12 +78,6 @@
       "description": "Advanced Automobiles and technologies are the Future.",
       "image": "images/img/Tesla-clone.png",
       "link": "https://tesla-clone-by-adgaur.netlify.app/"
-    },
-    {
-      "title": "Love Calculator",
-      "description": "Check how much  you love someone.",
-      "image": "images/img/love-calculator.png",
-      "link": "https://adityagaur7.github.io/loveCalculator-by-adgaur/"
     },
     {
       "title": "Microsoft Clone",
