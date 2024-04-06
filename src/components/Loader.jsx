@@ -5,7 +5,7 @@ const Loader = () => {
     useEffect(()=>{
         setTimeout(() => {
             const loader = document.querySelector('.load');
-            loader.style.transform = 'translateY(-150%)';
+            loader.style.transform = 'translateY(-200%)';
         }, 5000);
       
      },[])
