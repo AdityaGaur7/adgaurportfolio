@@ -6,7 +6,7 @@ const Loader = () => {
         setTimeout(() => {
             const loader = document.querySelector('.load');
             loader.style.transform = 'translateY(-200%)';
-        }, 5000);
+        }, 4000);
       
      },[])
   return (
