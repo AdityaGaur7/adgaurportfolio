@@ -1,30 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Butterfly+Kids&family=Courgette&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik+Doodle+Shadow&family=Rubik+Scribble&family=Satisfy&display=swap');* {
+@import url('https://fonts.googleapis.com/css2?family=Butterfly+Kids&family=Courgette&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik+Doodle+Shadow&family=Rubik+Scribble&family=Satisfy&display=swap');
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
     color: white;
-    font-family: "Josefin Slab", serif;
-  font-optical-sizing: auto;
-  font-weight: 600;
-  font-style: normal;
-   z-index: 1;
-   font-weight: 700;
-}
-span{
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-   
+    font-family: math;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    z-index: 1;
+    font-weight: 700;
 }
 
-p{
-    color:aliceblue;
+span {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+p {
+    color: aliceblue;
     font-weight: 600;
-    
+
 }
-#ok{
-  z-index: 0;
+
+#ok {
+    z-index: 0;
 }
+
 html {
     scroll-behavior: smooth;
 }
@@ -41,7 +46,7 @@ body {
     justify-content: center;
     align-items: center;
     position: fixed;
-    z-index:12;
+    z-index: 12;
     backdrop-filter: blur(5px);
     top: 0;
     /* background-color: rgb(80, 28, 66); */
@@ -67,7 +72,7 @@ body {
 .logo img {
     width: auto;
     height: 5vh;
-    animation: bg 4s 0s infinite linear ;
+    animation: bg 4s 0s infinite linear;
     /* box-shadow: 6px 6px 8px#00E8F8; */
     transition: all ease 2s;
 }
@@ -78,7 +83,7 @@ body {
     float: right;
     justify-content: center;
     align-items: center;
-    
+
     margin-top: 2vh;
     /* margin-left: 45vw; */
 
@@ -92,18 +97,21 @@ body {
 
 .links li a:hover {
     color: #00E8F8;
-    filter:drop-shadow(4px 3px 2px #00E8F8);
-  
+    filter: drop-shadow(4px 3px 2px #00E8F8);
+
 
 }
-#btn-hbg,#btn-x{
+
+#btn-hbg,
+#btn-x {
     display: none;
     position: absolute;
-left: 80%;
- transition: ease 1s ;
+    left: 80%;
+    transition: ease 1s;
 }
 
-.container , #ok{
+.container,
+#ok {
     width: 100%;
     height: 99vh;
     display: flex;
@@ -112,38 +120,39 @@ left: 80%;
     /* background-color: rgb(29, 51, 70); */
 }
 
-#ok{
+#ok {
     position: fixed;
     overflow: hidden;
 }
+
 .box {
     width: 75%;
     height: 60vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    
+
 }
 
 .frame {
     /* margin-top: 25vh; */
     /* position: absolute;. */
 
- 
+
 }
 
-.frame img{
+.frame img {
     width: auto;
     height: 25vw;
-    border-radius:50%;
+    border-radius: 50%;
     /* border: 2px  #00E8F8; */
-    border-style:groove;
+    border-style: groove;
     /* position: absolute; */
     /* box-shadow: 0px 0px 25px  #00E8F8; */
 }
 
 
-hr{
+hr {
     width: 100%;
     /* text-align: center; */
     margin: auto;
@@ -163,17 +172,19 @@ hr{
 
     left: 55%;
     top: 28%;
-    animation: cyan 3s ease .44s infinite alternate ;
+    animation: cyan 3s ease .44s infinite alternate;
 }
-    /*  glow 1s ease-in-out infinite alternate */
+
+/*  glow 1s ease-in-out infinite alternate */
 @keyframes cyan {
-   from{
+    from {
         left: 54%;
     }
-   to{
+
+    to {
         left: 59%;
     }
-    
+
 }
 
 span {
@@ -195,7 +206,7 @@ span:hover {
 
 #element {
     font-size: 25px;
-    font-weight:700;
+    font-weight: 700;
 }
 
 .handle {
@@ -323,7 +334,8 @@ span:hover {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.tech ul li{
+
+.tech ul li {
     text-align: center;
 }
 
@@ -354,12 +366,14 @@ span:hover {
     /* background-color: antiquewhite; */
     margin: 0vh 10vw;
 }
-.bx i{
-    color:#00E8F8;
+
+.bx i {
+    color: #00E8F8;
     font-size: 23px;
     margin-bottom: 3vh;
 }
-.bx h2{
+
+.bx h2 {
     margin-bottom: 1vh;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -367,27 +381,30 @@ span:hover {
 .tech {
     width: 50%;
 }
-#msg{
+
+#msg {
     margin-top: -16vh;
     position: relative;
     z-index: 2;
 }
 
 .tech ul {
-  
+
     margin: auto;
     margin-top: 5vh;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.tech ul li{
+
+.tech ul li {
     display: flex;
-    margin-bottom:3vh ;
+    margin-bottom: 3vh;
 }
-.tech i{
+
+.tech i {
     font-size: 23px;
-    margin:0px  1vw;
+    margin: 0px 1vw;
     color: #08edfd;
 }
 
@@ -422,35 +439,39 @@ span:hover {
     margin: 2px;
     gap: 10px;
 }
+
 .cd img:hover {
     transform: scale(1.1);
     filter: blur(0px);
 }
-.layer{
+
+.layer {
     position: relative;
     font-weight: 400;
     left: -50%;
     /* background:linear-gradient(black , #00E8F8) ; */
-   
-    font-family:'Courier New', Courier, monospace;
+
+    font-family: 'Courier New', Courier, monospace;
     /* width: 30%; */
     margin-top: -10vh;
     /* left: -17vw; */
     height: auto;
     display: block;
-    
-  
-}
-.layer h1{
-    color: #0509fc;
-    font-size: 25px;
-   
+
 
 }
-.layer p{
+
+.layer h1 {
+    color: #0509fc;
+    font-size: 25px;
+
+
+}
+
+.layer p {
     color: #ff0202;
     text-shadow: 4px 3px 6px rgb(0, 0, 0);
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     height: auto;
     width: auto;
@@ -504,13 +525,15 @@ span:hover {
     justify-content: space-evenly;
     align-items: center;
 }
+
 /* #verti{
     display:block;
 } */
-#vert i:hover{
+#vert i:hover {
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
 
 }
+
 .baya,
 .daya {
     height: 40vh;
@@ -528,11 +551,13 @@ span:hover {
     align-items: center;
 
 }
-.msg{
+
+.msg {
     position: relative;
     font-family: math;
     z-index: 11;
 }
+
 .msg h1 {
     margin: auto;
     text-align: center;
@@ -574,16 +599,17 @@ textarea {
     transform: translateY(-5px);
 
 }
-.base h3{
+
+.base h3 {
     color: #8df0f7;
-    text-shadow: 0 0 20px #fff, 0 0 50px #00E8F8,  0 0 80px #00E8F8;
- font-family:'Courier New', Courier, monospace;
- margin: 3vh;
- text-align: center;
- animation: bg 4s 0s infinite linear ;
- /* box-shadow: 6px 6px 8px#00E8F8; */
- transition: all ease 1s;
- 
+    text-shadow: 0 0 20px #fff, 0 0 50px #00E8F8, 0 0 80px #00E8F8;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 3vh;
+    text-align: center;
+    animation: bg 4s 0s infinite linear;
+    /* box-shadow: 6px 6px 8px#00E8F8; */
+    transition: all ease 1s;
+
 }
 
 
@@ -604,12 +630,12 @@ textarea {
     }
   } */
 
-  .projects {
+.projects {
     display: flex;
     flex-wrap: nowrap;
     width: 100%;
     overflow-x: scroll;
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
 }
 
 .proj {
@@ -629,42 +655,53 @@ textarea {
     overflow-x: auto;
     white-space: nowrap;
     margin-bottom: 20px;
-  }
-  #resume{
-    
-        height: 0px;
-    
-  }
-  @media (max-width:720px) {
-    #resume{
+}
+
+#resume {
+
+    height: 0px;
+
+}
+
+@media (max-width:720px) {
+    #resume {
         height: 5vh;
     }
-    .links{
+
+    .links {
         height: 100vh;
         z-index: 1;
         backdrop-filter: blur(0px);
     }
-    
-  }
-  
-  #img{
-    animation: bg 4s 0s infinite linear ;
+
+}
+
+#img {
+    animation: bg 4s 0s infinite linear;
     /* box-shadow: 6px 6px 8px#00E8F8; */
     transition: all ease 2s;
     /* filter: drop-shadow(7px 0px 25px  #e70e0e); */
 
-  }
-  @keyframes bg {
-    100%{
-        filter: drop-shadow(0px 0px 25px  #00E8F8);
-    }75%{
-        filter: drop-shadow(0px 0px 20px #00E8F8);
-    }
-    50%{
-        filter: drop-shadow(0px 0px 10px  #00E8F8);
-    }25%{
-        filter: drop-shadow(0px 0px 20px #00E8F8);
-    }0%{
+}
+
+@keyframes bg {
+    100% {
         filter: drop-shadow(0px 0px 25px #00E8F8);
     }
-  }
+
+    75% {
+        filter: drop-shadow(0px 0px 20px #00E8F8);
+    }
+
+    50% {
+        filter: drop-shadow(0px 0px 10px #00E8F8);
+    }
+
+    25% {
+        filter: drop-shadow(0px 0px 20px #00E8F8);
+    }
+
+    0% {
+        filter: drop-shadow(0px 0px 25px #00E8F8);
+    }
+}
