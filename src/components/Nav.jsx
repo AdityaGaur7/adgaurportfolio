@@ -3,11 +3,12 @@ import React, { useState, useEffect } from 'react'
 const Nav = () => {
     const[isvisible,setvisible]= useState(false);
     const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+    
   
     const handleResize = () => {
       setWindowWidth(window.innerWidth);
     };
-  
+   
     useEffect(() => {
       window.addEventListener('resize', handleResize);
       return () => {

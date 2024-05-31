@@ -12,27 +12,27 @@ const Cont = () => {
      
     example.init(element, options);
 
-    useEffect(() => {
-        const moveElement = () => {
-          const scrollPosition = window.scrollY;
+    // useEffect(() => {
+    //     const moveElement = () => {
+    //       const scrollPosition = window.scrollY;
           
-          gsap.to('#img', { x: -scrollPosition,y:-scrollPosition, ease: 'none' });
+    //       gsap.to('#img', { x: -scrollPosition,y:-scrollPosition, ease: 'none' });
       
-        };
+    //     };
     
-        window.addEventListener('scroll', moveElement);
+    //     window.addEventListener('scroll', moveElement);
     
-        return () => {
-          window.removeEventListener('scroll', moveElement);
-        };
-      }, []);
+    //     return () => {
+    //       window.removeEventListener('scroll', moveElement);
+    //     };
+    //   }, []);
       
   return (
     
 <>
         <div className="container">
            <div className="box">
-            <div className="left" data-aos="fade-up" data-aos-offset="300" data-aos-easing="ease-in-sine">
+            <div className="left" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
 
                 <h3>Hi ,it's Me</h3>
                 <h1>I'm <span>ADITYA GAUR</span></h1>
@@ -62,7 +62,7 @@ const Cont = () => {
                 </div>
             </div>
             <div className="right">
-                <div className="frame">
+                <div className="frame"  data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
                 
                  
                     <img src="images/adgaur.jpg"  alt="" id="img"/>

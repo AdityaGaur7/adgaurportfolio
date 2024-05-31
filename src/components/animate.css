@@ -86,9 +86,9 @@
     height: 200vh;
 }
 #img{
-    top: 180%;
+    /* top: 180%;
     position: fixed;
-    left: 121%;
+    left: 121%; */
 }
 
 @media (max-width: 420px) {
@@ -136,9 +136,9 @@
         height: 15%;
     }
     #img{
-        top: 95%;
+        /* top: 95%;
         position: fixed;
-        left: 210%;
+        left: 210%; */
     }
 }
 @media (max-width:790px) and (min-width: 413px) {

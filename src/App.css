@@ -68,11 +68,11 @@
             top: 12%;
     }
     #img{
-        position: absolute;
+        /* position: absolute;
         margin: auto;
         left: 20%;
         top: -40%;
-        text-align: center;
+        text-align: center; */
     }
     
 
@@ -290,6 +290,11 @@
   .show{
     display: flex;
   }
+  .box{
+    display: flex;
+    flex-direction: column-reverse;
+}
+  
 }
 
  #ok{
