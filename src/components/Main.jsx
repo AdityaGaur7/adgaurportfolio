@@ -44,8 +44,8 @@ function Main() {
         backgroundColor: "#333"
       }}
       color="#fff"
-      innerSize={5}
-      outerSize={45}
+      innerSize={6}
+      outerSize={55}
       innerScale={2}
       outerScale={2}
       outerAlpha={1}
