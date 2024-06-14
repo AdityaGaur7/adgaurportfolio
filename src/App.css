@@ -15,10 +15,13 @@
 
     .logo img {
         position: absolute;
-        z-index: 2;
+        z-index: 22;
         top: 2vh;
        
         left: 8vw;
+    }
+    .logo{
+        z-index: 22;
     }
 
     .links {
@@ -251,6 +254,7 @@
     }
 
   
+  
 
   
  .layer {
@@ -261,6 +265,9 @@
  }
  .layer h1{
     width: 30%;
+ }
+ .education{
+    height: 100vh;
  }
 .nav{
         /* width: 80.6%; */
@@ -286,11 +293,15 @@
     opacity: .9;
     backdrop-filter:blur(5px);
     text-align: center;
-}
 
+}
+.projects {
+    overflow-x: auto; /* Ensure horizontal scroll is enabled */
+}
 
 .education,.container,.links,.nav,.about ,.msg{
     overflow-x: hidden;
+    overflow-y: scroll;
   }
 
   .hide{

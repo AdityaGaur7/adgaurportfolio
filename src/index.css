@@ -640,12 +640,14 @@ textarea {
     }
   } */
 
-.projects {
+  .projects {
     display: flex;
     flex-wrap: nowrap;
     width: 100%;
-    overflow-x: scroll;
+    overflow-x: auto; 
     scroll-behavior: smooth;
+    white-space: nowrap;
+    margin-bottom: 20px;
 }
 
 .proj {
@@ -654,7 +656,6 @@ textarea {
     width: 100%;
     white-space: nowrap;
 }
-
 
 .projects:hover {
     overflow-x: hidden;

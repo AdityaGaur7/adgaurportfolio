@@ -3,7 +3,7 @@ import React from 'react'
 function Education() {
   return ( 
    <>
-       <div className="education">
+       <div className="education" >
          <div className="study" id="skill" data-aos="fade-right">
             <div className="edu">
                 <div className="msg">

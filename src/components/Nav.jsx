@@ -43,7 +43,7 @@ const Nav = () => {
      
       };
       const indexing  ={
-        zIndex:(isvisible)?'22':'22',
+        zIndex:(isvisible)?((windowWidth < 790 )?'0':'3'):'22',
         
       }
 
@@ -75,7 +75,9 @@ const Nav = () => {
                }
             id="btn-hbg" onClick={fun1}></i>
       </div>
-        <div className="nav"   style={indexing }   >
+        <div className="nav" 
+          style={indexing }  
+           >
           <div className="navbar">
             <div className="logo">
                 <img src="images/logo2.png" alt=""/>
