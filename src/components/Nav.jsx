@@ -37,7 +37,7 @@ const Nav = () => {
     const linksStyle = {
         
     display: (isvisible) ? 'block' : (windowWidth < 790 ) ? 'flex' : 'flex',
-     left:(isvisible) ? '0%' : '-100%',
+     left:(!isvisible) ? '0%' : '-100%',
      transition:'.55s ease',
      display:(windowWidth < 790 ) ?'block':'flex',
      
@@ -52,7 +52,7 @@ const Nav = () => {
       <div style={{position:'fixed',left:'90%',top:'2%',zIndex:'23'}}>
 
       
-        <i className="fa-solid fa-bars" id="btn-x"
+        <i className="fa-solid fa-x" id="btn-x"
 // display: (isvisible) ? 'none' : (windowWidth <= 790 ) ? 'block' : 'flex',  
              style={
               {display:(windowWidth > 790)
@@ -64,7 +64,7 @@ const Nav = () => {
              }
           
               onClick={fun1}></i>
-            <i className="fa-solid fa-x" 
+            <i className="fa-solid fa-bars" 
                style={
                 {display:(windowWidth > 790)
                 ?'none': (isvisible)?'flex':'none',backgroundColor: "#575c63",
