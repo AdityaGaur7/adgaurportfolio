@@ -75,6 +75,8 @@ body {
     animation: bg 4s 0s infinite linear;
     /* box-shadow: 6px 6px 8px#00E8F8; */
     transition: all ease 2s;
+    border: 1px solid #00E8F8;
+    margin-top: -1vh;
 }
 
 .links {
@@ -84,7 +86,7 @@ body {
     justify-content: center;
     align-items: center;
 
-    margin-top: 2vh;
+    /* margin-top: 2vh; */
     /* margin-left: 45vw; */
 
 }
@@ -93,12 +95,20 @@ body {
     margin: 1vw;
     font-weight: 900;
     transition: ease .15s;
+    padding: 1rem;
+    background-color: #1d252f;
+    border: 1px solid white;
 }
 
 .links li a:hover {
     color: #00E8F8;
     filter: drop-shadow(4px 3px 2px #00E8F8);
+    border: 1px solid white;
 
+}
+.links li a:active{
+    color: #00E8F8;
+    filter: drop-shadow(4px 3px 2px #00E8F8);
 
 }
 

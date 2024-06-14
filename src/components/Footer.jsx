@@ -42,7 +42,7 @@ function Footer() {
               </li>
               <li>
                 <a href="https://twitter.com/Aditya7112027">
-                  <i className="fa-brands fa-twitter"></i>
+                  <i className="fa-brands fa-x-twitter"></i>
                 </a>
               </li>
             </div>
