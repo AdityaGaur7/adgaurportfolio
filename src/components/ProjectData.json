@@ -9,14 +9,21 @@
       "title": "SociApp",
       "description": "Using Express & MongoDB",
       "image": "images/img/SociApp.png",
-      "link": "https://defiant-trench-coat-cow.cyclic.app/"
+      "link": "https://animgram.onrender.com/"
     },
     {
       "title": "Love Calculator",
       "description": "Check how much  you love someone.",
       "image": "images/img/love-calculator.png",
-      "link": "https://happy-outerwear-dove.cyclic.app/"
+      "link": "https://test-cpxn.onrender.com/"
     },
+    {
+      "title": "Weather App",
+      "description": "Use the app to check the weather before going out, who knows when it rains?",
+      "image": "images/img/weather-app.png",
+      "link": "https://weather-api-five-delta.vercel.app/"
+    }
+   ,
     {
       "title": "Embrace Arts",
       "description": "Using NextJs",
@@ -117,55 +124,15 @@
       "link": "https://adityagaur7.github.io/DatingCrush-ByAdgaur/"
     },
   
-    {
-      "title": "Einstein Tribute Page",
-      "description": "“Anyone who has never made a mistake has never tried anything new.”",
-      "image": "images/img/tribute-page.png",
-      "link": "https://adityagaur7.github.io/tributepage-by-adgaur.github.io/"
-    },
-    {
-      "title": "To Do App",
-      "description": "Manage your task",
-      "image": "images/img/to-do-app.png",
-      "link": "https://lnkd.in/dnGfeTqS"
-    },
-    {
-      "title": "Temp Converter",
-      "description": "Check the temperature",
-      "image": "images/img/temp-converter.png",
-      "link": "https://lnkd.in/d86bPJCb"
-    },
-    {
-      "title": "Live Time",
-      "description": "Check the Clock",
-      "image": "images/img/live-time.png",
-      "link": "https://adityagaur7.github.io/adityaproj/"
-    },
+   
+    
     {
       "title": "Rock-Paper-Scissor",
       "description": "Compete with CPU and Beat the AI.",
       "image": "images/img/rock-paper-scissor.png",
       "link": "https://rock-paper-scissor-gameby-adgaur.netlify.app/"
-    },
-    {
-      "title": "Weather App",
-      "description": "Use the app to check the weather before going out, who knows when it rains?",
-      "image": "images/img/weather-app.png",
-      "link": "https://adityagaur7.github.io/weather-app-using-js-by-adgaur.github.io/"
-    },
-   
-    {
-      "title": "Calculator",
-      "description": "Basic Calculator to Solve Everyday Math",
-      "image": "images/img/calculator.png",
-      "link": "https://lnkd.in/dipRqRU4"
-    },
-    {
-      "title": "LoginPage",
-      "description": "Using PHP",
-      "image": "images/img/login-byphp.png",
-      "link": "http://beauty7112.000webhostapp.com/"
     }
+   
    
 ]
    
