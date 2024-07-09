@@ -1,139 +1,134 @@
 [
     {
       "title": "MMMUTRESO 📚",
-      "description": "Study resources all at one place",
+      "description": "STUDY RESOURCES ALL AT ONE PLACE",
       "image": "images/img/MMMURESO.png",
       "link": "https://mmmut.xyz"
     },
     {
-      "title": "SociApp",
-      "description": "Using Express & MongoDB",
+      "title": "ADMIN PANEL",
+      "description": "MERN BASED ADMIN PANEL FOR ECOMM APP",
+      "image": "images/img/AdminPanel.png",
+      "link": "https://mern-ecomm-yk9t.vercel.app/"
+    },
+    {
+      "title": "SOCIAPP",
+      "description": "USING EXPRESS & MONGODB",
       "image": "images/img/SociApp.png",
       "link": "https://animgram.onrender.com/"
     },
-   
     {
-      "title": "CDC Website",
-      "description": "Using Reactjs",
+      "title": "CDC WEBSITE",
+      "description": "USING MERN",
       "image": "images/img/CDC.png",
       "link": "https://cdc-website-vrqu.vercel.app/"
     },
     {
-      "title": "Search Pkmn",
-      "description": "Using ReactJs",
+      "title": "SEARCH PKMN",
+      "description": "USING REACTJS",
       "image": "images/img/pokemon.png",
       "link": "https://pokemonsearchbyadgaur.netlify.app/"
     },
     {
-      "title": "Wassup 💬",
-      "description": "Use Roomid - adgaur",
+      "title": "WASSUP 💬",
+      "description": "USE ROOMID - ADGAUR",
       "image": "images/img/chatapp.png",
       "link": "https://wassup-by-adgaur.vercel.app/"
     },
-     {
-      "title": "Love Calculator",
-      "description": "Check how much  you love someone.",
+    {
+      "title": "LOVE CALCULATOR",
+      "description": "CHECK HOW MUCH YOU LOVE SOMEONE.",
       "image": "images/img/love-calculator.png",
       "link": "https://lovecalculator-by-adgaur-qv3s.onrender.com/"
     },
     {
-      "title": "Weather App",
-      "description": "Use the app to check the weather before going out, who knows when it rains?",
+      "title": "WEATHER APP",
+      "description": "USE THE APP TO CHECK THE WEATHER BEFORE GOING OUT, WHO KNOWS WHEN IT RAINS?",
       "image": "images/img/weather-app.png",
       "link": "https://weather-api-five-delta.vercel.app/"
-    }
-   ,
+    },
     {
-      "title": "Embrace Arts",
-      "description": "Using NextJs",
+      "title": "EMBRACE ARTS",
+      "description": "USING NEXTJS",
       "image": "images/img/Artwork.png",
       "link": "https://art-silk.vercel.app/"
     },
     {
-      "title": "Educate girlchild",
-      "description": "if you educate a girl, educate a nation.",
+      "title": "EDUCATE GIRLCHILD",
+      "description": "IF YOU EDUCATE A GIRL, EDUCATE A NATION.",
       "image": "images/img/educate girl.png",
       "link": "https://educate-girlchild-by-adgaur.netlify.app/"
     },
     {
-      "title": "Robomania Clone",
-      "description": "A Multipage, Responsive Clone.",
+      "title": "ROBOMANIA CLONE",
+      "description": "A MULTIPAGE, RESPONSIVE CLONE.",
       "image": "images/img/robomania-clone.png",
       "link": "https://adityagaur7.github.io/robomania-clone-by-adgaur.github.io/"
     },
-    
     {
-      "title": "Pet Item Cart",
-      "description": "A place for your Pet's all essential stuffs.",
+      "title": "PET ITEM CART",
+      "description": "A PLACE FOR YOUR PET'S ALL ESSENTIAL STUFFS.",
       "image": "images/img/landing-page-pet-shop.png",
       "link": "https://adityagaur7.github.io/Octanet-task1-landing-page-byadgaur/"
     },
-    
     {
-      "title": "Netflix Clone",
-      "description": "Turn it On and Just Chill!",
+      "title": "NETFLIX CLONE",
+      "description": "TURN IT ON AND JUST CHILL!",
       "image": "images/img/netfrlix clone.png",
       "link": "https://lnkd.in/djM-j3Cr"
     },
     {
-      "title": "Myntra Clone",
-      "description": "Wanna buy something! so, What are you waiting for?",
+      "title": "MYNTRA CLONE",
+      "description": "WANNA BUY SOMETHING! SO, WHAT ARE YOU WAITING FOR?",
       "image": "images/img/myntra-clone.png",
       "link": "https://myntra-clone-by-adgaur.netlify.app/"
     },
     {
-      "title": "Tesla Clone",
-      "description": "Advanced Automobiles and technologies are the Future.",
+      "title": "TESLA CLONE",
+      "description": "ADVANCED AUTOMOBILES AND TECHNOLOGIES ARE THE FUTURE.",
       "image": "images/img/Tesla-clone.png",
       "link": "https://tesla-clone-by-adgaur.netlify.app/"
     },
     {
-      "title": "Microsoft Clone",
-      "description": "A site where your all needs are met with MS",
+      "title": "MICROSOFT CLONE",
+      "description": "A SITE WHERE YOUR ALL NEEDS ARE MET WITH MS",
       "image": "images/img/microsoft-clone.png",
       "link": "https://adityagaur7.github.io/microsoftclonebyadgaur.github.io/"
     },
     {
-      "title": "Anime Sketch",
-      "description": "Having hobby as passion is fun isn't it? My Anime Sketch Collection.",
+      "title": "ANIME SKETCH",
+      "description": "HAVING HOBBY AS PASSION IS FUN ISN'T IT? MY ANIME SKETCH COLLECTION.",
       "image": "images/img/sketch-anime.png",
       "link": "https://adityagaur7.github.io/sketch-collection-by-Adgaur.github.io/"
     },
     {
-      "title": "Konoha Kart",
-      "description": "Naruto Anime Merchandise, Hurry Up! check it out.",
+      "title": "KONOHA KART",
+      "description": "NARUTO ANIME MERCHANDISE, HURRY UP! CHECK IT OUT.",
       "image": "images/img/konoha-kart.png",
       "link": "https://adityagaur7.github.io/animeadgaur.github.io/"
     },
-    
     {
-      "title": "Proposal To Crush",
-      "description": "You won't get rejected by your crush, check this out.",
+      "title": "PROPOSAL TO CRUSH",
+      "description": "YOU WON'T GET REJECTED BY YOUR CRUSH, CHECK THIS OUT.",
       "image": "images/img/proposal.png",
       "link": "https://adityagaur7.github.io/proposal-by-adgaur.github.io/"
     },
     {
-      "title": "Image-Generator",
-      "description": "Use this project of mine to get any image you want",
+      "title": "IMAGE-GENERATOR",
+      "description": "USE THIS PROJECT OF MINE TO GET ANY IMAGE YOU WANT",
       "image": "images/img/img-generator.png",
       "link": "https://adityagaur7.github.io/SearchImage-byAdgaur.github.io/"
     },
     {
-      "title": "DateCrush Flipbook🙈",
-      "description": "Use this flipbook to ask for date to your crush💝 but beware",
+      "title": "DATECRUSH FLIPBOOK🙈",
+      "description": "USE THIS FLIPBOOK TO ASK FOR DATE TO YOUR CRUSH💝 BUT BEWARE",
       "image": "images/img/dateCrush.png",
       "link": "https://adityagaur7.github.io/DatingCrush-ByAdgaur/"
     },
-  
-   
-    
     {
-      "title": "Rock-Paper-Scissor",
-      "description": "Compete with CPU and Beat the AI.",
+      "title": "ROCK-PAPER-SCISSOR",
+      "description": "COMPETE WITH CPU AND BEAT THE AI.",
       "image": "images/img/rock-paper-scissor.png",
       "link": "https://rock-paper-scissor-gameby-adgaur.netlify.app/"
     }
-   
-   
 ]
-   
