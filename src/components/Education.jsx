@@ -26,7 +26,7 @@ function Education() {
          </div>
          <div className="tech" data-aos="fade-left">
             <div className="msg" id="msg">
-                <h1> Tech<span>Stack</span></h1>
+                <h1> Achie<span>vement</span></h1>
             </div>
             <ul>
                 <li>
@@ -41,8 +41,7 @@ function Education() {
                         <i className="fa-brands fa-css3-alt"></i>
                         <i className="fa-brands fa-square-js"></i>
 
-                         {/* <i className="fa-brands fa-angular"></i>
-                         <i className="fa-brands fa-react"></i> */}
+                    
                     </span>
                 </li>
                 <li>
@@ -51,7 +50,6 @@ function Education() {
                         <i className="fa-brands fa-node"></i>
                         <i className="fa-brands fa-php"></i>
                         <i className="fa-solid fa-database"></i>
-                        {/* <i className="fa-solid fa-e"></i>  */}
                     </span>
 
                 </li>

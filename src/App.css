@@ -2,6 +2,7 @@
   *{
     /* overflow-x: hidden; */
   }
+  
   .nav{
     height: 100vh;
     z-index: 12;
@@ -316,7 +317,7 @@
     display: flex;
     flex-direction: column-reverse;
 }
-  
+
 }
 
  #ok{

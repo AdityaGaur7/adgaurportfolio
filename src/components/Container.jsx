@@ -38,7 +38,7 @@ const Cont = () => {
                 <h1>I'm <span>ADITYA GAUR</span></h1>
                 <span id="element"></span>
                 <p>
-                    SOPHOREMORE BTECH STUDENT || SKILLED AT C++, HTML, CSS, JS, REACT JS, NEXT JS<br/>AND LEARNING BACKEND WITH NODEJS IN <span>MERN STACK </span>
+                    PRE FINAL YEAR BTECH STUDENT || SKILLED AT C++, MERN, ANGULAR JS,NEXT JS<br/>AND DOING COMPETITIVE PROGRAMMING & BACKEND WITH RESTFUL-API IN <span>MERN STACK </span>
                      <br/> LEARNING TO IMPROVE NOT TO
                     PROVE || LONG WAY TO GO 
                 </p>

@@ -13,6 +13,8 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import Animate from "./Animate";
 import Loader from "./Loader";
+import Skills from "./Tech-Skill";
+import CodingProfile from "./CodingProfile"
 function Main() {
   useEffect(() => {
     Aos.init({duration:2000});
@@ -64,6 +66,8 @@ function Main() {
       <About />
       <Education />
       <Loader/>
+      <Skills/>
+      <CodingProfile/>
       <Services />
       <Projects />
       <Contact />
