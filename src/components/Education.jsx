@@ -28,40 +28,13 @@ function Education() {
             <div className="msg" id="msg">
                 <h1> Achie<span>vement</span></h1>
             </div>
-            <ul>
-                <li>
-                    <h2>Programming -</h2>
-                    <span> <i className="fa-light fa-c"></i>
-                        <i className="fa-light fa-c">++</i>
-                    </span>
-                </li>
-                <li>
-                    <h2>Front-end -</h2>
-                    <span><i className="fa-brands fa-html5"></i>
-                        <i className="fa-brands fa-css3-alt"></i>
-                        <i className="fa-brands fa-square-js"></i>
-
-                    
-                    </span>
-                </li>
-                <li>
-                    <h2>Back-end -</h2>
-                    <span>
-                        <i className="fa-brands fa-node"></i>
-                        <i className="fa-brands fa-php"></i>
-                        <i className="fa-solid fa-database"></i>
-                    </span>
-
-                </li>
-                <li>
-                    <h2>Frameworks</h2>
-                    <span>
-                        <i className="fa-brands fa-bootstrap"></i>
-                        <i className="fa-brands fa-react"></i>
-                        <i>Next.Js</i>
-                    </span>
-                </li>
-            </ul>
+         <ul>
+            <li>Open Source Contributor in HacktoberFest'23</li>
+            <li>Campus Ambassdor at GFG</li>
+            <li>Developed a MERN application for CDC club</li>
+            <li>FrontEnd Developer at MMMUT Foundation</li>
+            <li>Solved over total of 700 problems on different coding platforms</li>
+        </ul>
 
          </div>
        </div>

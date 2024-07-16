@@ -27,6 +27,7 @@ const Animate = () => {
   }, []);
 
   return (
+    <>
     <div className='conti'>
     
    
@@ -42,6 +43,8 @@ const Animate = () => {
             </div>
     </div>
     </div>
+    <hr/>
+    </>
   );
 };
 

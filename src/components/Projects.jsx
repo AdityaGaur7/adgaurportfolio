@@ -36,16 +36,17 @@ function Projects() {
     });
   });
   return (
+    <>
     <div>
       <div className="projects" id="projectsid">
         <div className="proj">
           {projectsData.map((project, index) => (
             <div
-              key={index}
-              className="card"
-              data-aos="flip-up"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="2000"
+            key={index}
+            className="card"
+            data-aos="flip-up"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
             >
               <div className="cd">
                 <img src={project.image} alt={project.title} />
@@ -68,6 +69,8 @@ function Projects() {
         </div>
       </div>
     </div>
+    <hr/>
+          </>
   );
 
 }
