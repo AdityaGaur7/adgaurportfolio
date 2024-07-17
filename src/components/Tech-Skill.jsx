@@ -27,8 +27,8 @@ const backendSkills = [
   { name: 'Next.js', src: 'https://cdn.worldvectorlogo.com/logos/nextjs-2.svg', url: 'https://nextjs.org/' },
   { name: 'Pug', src: 'https://cdn.worldvectorlogo.com/logos/pug.svg', url: 'https://pugjs.org' },
   { name: 'Docker', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg', url: 'https://www.docker.com/' },
-  { name: 'Kubernetes', src: 'https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg', url: 'https://kubernetes.io' },
-  { name: 'Jest', src: 'https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg', url: 'https://jestjs.io' },
+//   { name: 'Kubernetes', src: 'https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg', url: 'https://kubernetes.io' },
+//   { name: 'Jest', src: 'https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg', url: 'https://jestjs.io' },
 ];
 
 const databaseSkills = [
