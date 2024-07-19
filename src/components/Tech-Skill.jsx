@@ -26,6 +26,7 @@ const backendSkills = [
   { name: 'Postman', src: 'https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg', url: 'https://postman.com' },
   { name: 'Next.js', src: 'https://cdn.worldvectorlogo.com/logos/nextjs-2.svg', url: 'https://nextjs.org/' },
   { name: 'Pug', src: 'https://cdn.worldvectorlogo.com/logos/pug.svg', url: 'https://pugjs.org' },
+  { name: 'Pug', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg', url: 'https://handlebarsjs.com' },
   { name: 'Docker', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg', url: 'https://www.docker.com/' },
 //   { name: 'Kubernetes', src: 'https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg', url: 'https://kubernetes.io' },
 //   { name: 'Jest', src: 'https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg', url: 'https://jestjs.io' },
@@ -33,6 +34,7 @@ const backendSkills = [
 
 const databaseSkills = [
   { name: 'MySQL', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg', url: 'https://www.mysql.com/' },
+  { name: 'PostgreSql', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg', url: 'https://www.postgresql.org/' },
   { name: 'MongoDB', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg', url: 'https://www.mongodb.com/' },
   { name: 'Firebase', src: 'https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg', url: 'https://firebase.google.com/' },
   { name: 'GCP', src: 'https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg', url: 'https://cloud.google.com' },
