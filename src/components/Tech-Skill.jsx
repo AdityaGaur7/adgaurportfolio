@@ -26,11 +26,13 @@ const backendSkills = [
   { name: 'Postman', src: 'https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg', url: 'https://postman.com' },
   { name: 'Next.js', src: 'https://cdn.worldvectorlogo.com/logos/nextjs-2.svg', url: 'https://nextjs.org/' },
   { name: 'Pug', src: 'https://cdn.worldvectorlogo.com/logos/pug.svg', url: 'https://pugjs.org' },
-  { name: 'Pug', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg', url: 'https://handlebarsjs.com' },
+  { name: 'Hbs', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg', url: 'https://handlebarsjs.com' },
   { name: 'Docker', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg', url: 'https://www.docker.com/' },
+  { name: 'Docker', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg', url: 'https://golang.org/' },
 //   { name: 'Kubernetes', src: 'https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg', url: 'https://kubernetes.io' },
 //   { name: 'Jest', src: 'https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg', url: 'https://jestjs.io' },
 ];
+
 
 const databaseSkills = [
   { name: 'MySQL', src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg', url: 'https://www.mysql.com/' },
