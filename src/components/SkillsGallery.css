@@ -40,7 +40,7 @@
     border-radius: 8px;
     transition: transform 0.3s, box-shadow 0.3s;
     padding: 1rem;
-    background: #1d252f;
+    /* background: #1d252f; */
     border: 2px solid #ddd;
   }
   
