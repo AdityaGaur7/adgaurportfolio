@@ -7,12 +7,12 @@ const skills = [
     {
         name: 'Github',
         url: 'https://github.com/AdityaGaur7',
-        img: 'https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg'
+        img: 'icon/github.png'
       },
       {
         name: 'HackerRank',
         url: 'https://www.hackerrank.com/adgaur027',
-        img: 'https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg'
+        img: 'icon/hk.png'
       },
   {
     name: 'CodeChef',
@@ -22,17 +22,17 @@ const skills = [
   {
     name: 'Codeforces',
     url: 'https://codeforces.com/profile/adgaur027',
-    img: 'https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg'
+    img: 'icon/cf.png'
 },
 {
   name: 'GeeksforGeeks',
   url: 'https://auth.geeksforgeeks.org/user/adgaur027',
-  img: 'https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg'
+  img: 'icon/gfg.png'
 },
   {
     name: 'LeetCode',
     url: 'https://www.leetcode.com/aditya027_',
-    img: 'https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg'
+    img: 'icon/lc.png'
   },
 //   {
 //     name: 'CodingNinja',

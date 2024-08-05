@@ -1,6 +1,6 @@
 import {React,useEffect} from 'react'
 import autotyper from 'autotyper';
-import gsap from 'gsap';
+
 
 
 const Cont = () => {
@@ -56,10 +56,11 @@ const Cont = () => {
                 </div>
                 <div className="card" id="resume" >
                     <div className="cd">
-                        <button><i className="fa-solid fa-arrow-up-right"><a
-                                    href="https://drive.google.com/drive/folders/1eRyFBaDK-_hK39pe2BVZYCIDAM6jto8g?lfhs=2" target="_blank">RESUME</a></i></button>
+                        <button><i className="fa-solid fa-arrow-up-right">
+                            <a href="https://drive.google.com/drive/folders/1eRyFBaDK-_hK39pe2BVZYCIDAM6jto8g?lfhs=2" target="_blank"  rel="noreferrer">RESUME</a></i></button>
                     </div>
                 </div>
+               
             </div>
             <div className="right">
                 <div className="frame"  data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">

@@ -1,4 +1,5 @@
 import React from 'react'
+import Birthday from './Birthday'
 
 function About() {
   return (
@@ -6,7 +7,7 @@ function About() {
       <div className="about">
         <div className="me" id="about">
             <div className="photo" data-aos="fade-right">
-                <img src="images/programmer.webp" alt="image"/>
+                <img src="images/programmer.webp" alt="ok"/>
             </div>
             <div className="info" data-aos="fade-left">
                 <h1>About <span>Me</span></h1>
@@ -20,6 +21,7 @@ function About() {
                     <i className="fa-solid fa-envelope"></i><a href="mailto:adgaur027@gmail.com">adgaur027@gmail.com</a>
                 </div>
                 <a href="#contact"> <button>Lets talk</button></a>
+                <Birthday/>
             </div>
         </div>
      <div/>
