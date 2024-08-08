@@ -20,7 +20,7 @@ function About() {
                     <i className="fa-solid fa-phone"></i><a href="tel:+917408677090">+91 7408677090</a> <br/>
                     <i className="fa-solid fa-envelope"></i><a href="mailto:adgaur027@gmail.com">adgaur027@gmail.com</a>
                 </div>
-                <a href="https://wa.me/7408677090" target="_blank"> <button>DM me</button></a>
+                <a href="https://wa.me/7408677090" target="_blank"> <button>WhatsApp me</button></a>
                 <Birthday/>
             </div>
         </div>
