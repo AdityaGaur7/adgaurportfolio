@@ -208,7 +208,9 @@
     left: 35%;
    }
 
-
+.acheivement{
+    text-align: left;
+}
     .tech h2 {
         font-size: 18px;
     }
@@ -234,7 +236,7 @@
         text-align: center;
     }
 
-    .sampark input {
+    .sampark input,textarea {
         width: 10rem;
          border: 1px solid white;
     }
@@ -276,7 +278,7 @@
     width: 30%;
  }
  .education{
-    height: 100vh;
+    height: 120vh;
  }
 .nav{
         /* width: 80.6%; */
@@ -313,7 +315,9 @@
     overflow-y: scroll;
     
   }
-
+.about{
+    height: 140vh;
+}
   .hide{
     display: none;
 

@@ -10,7 +10,7 @@ function About() {
                 <img src="images/programmer.webp" alt="ok"/>
             </div>
             <div className="info " data-aos="fade-left">
-                <h1 style={{ fontFamily:'monospace',textShadow:'black 4px 4px 2px'}}><span>About </span>Me</h1>
+                <h1 style={{ fontFamily:'monospace',textShadow:'black 4px 4px 2px'}}><span>ABOUT </span>ME</h1>
                 <p>An Engineering Enthusiastic Learning to quench the curiosity<br/>and Exploring different Stuffs of
                     Tech . I enjoy
                     building, learning Websites and I'm always looking <br/>for new challenges and opportunities to

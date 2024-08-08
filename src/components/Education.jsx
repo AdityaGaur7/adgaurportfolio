@@ -7,7 +7,7 @@ function Education() {
          <div className="study" id="skill" data-aos="fade-right">
             <div className="edu">
                 <div className="msg">
-                    <h1> <span>Edu</span>cation</h1>
+                    <h1> <span>EDU</span>CATION</h1>
                 </div><br/>
 
                 <h2>Btech Computer Science & Engineering (Current)</h2>
@@ -26,14 +26,14 @@ function Education() {
          </div>
          <div className="tech" data-aos="fade-left">
             <div className="msg" id="msg">
-                <h1> <span>Achi</span>evement</h1>
+                <h1> <span>ACHIE</span>VEMENT</h1>
             </div>
-         <ul>
-            <li>Open Source Contributor in HacktoberFest'23</li>
-            <li>Campus Ambassdor at GFG</li>
-            <li>Developed a MERN application for CDC club</li>
-            <li>FrontEnd Developer at MMMUT Foundation</li>
-            <li>Solved over total of 700 problems on different coding platforms</li>
+         <ul className='acheivement'>
+            <li>FULL STACK DEVELOPMENT INTERN @IVEGTech</li>
+            {/* <li>Open Source Contributor in HacktoberFest'23</li> */}
+            <li>FRONTEND DEVELOPER @CDC</li>
+            <li>FRONTEND DEVELOPER @MMMUT FOOUNDATION</li>
+            <li>SOLVED OVER 800+ CODING PROBLEMS ON DIFFERENT PLATFORMS </li>
         </ul>
 
          </div>

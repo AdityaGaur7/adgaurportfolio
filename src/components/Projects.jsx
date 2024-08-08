@@ -38,7 +38,7 @@ function Projects() {
   return (
     <>
     <div>
-      <h3 className="project-title proj-title">Projects:</h3>
+      <h3 className="project-title proj-title">PROJECTS:</h3>
       <div className="projects" id="projectsid">
         <div className="proj">
           {projectsData.map((project, index) => (

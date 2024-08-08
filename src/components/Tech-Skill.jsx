@@ -67,17 +67,17 @@ const SkillsGallery = () => {
   return (
     <>
     <div className="skills-gallery">
-      <h3 className="skills-title">Languages and Tools:</h3>
+      <h3 className="skills-title">LANGUAGES AND TOOLS:</h3>
       <div className="skills-category">
-        <h4><span>Frontend</span></h4>
+        <h4><span>FRONTEND</span></h4>
         <div className="skills-container">{renderSkills(frontendSkills)}</div>
       </div>
       <div className="skills-category">
-        <h4>Backend</h4>
+        <h4>BACKEND</h4>
         <div className="skills-container">{renderSkills(backendSkills)}</div>
       </div>
       <div className="skills-category">
-        <h4>Database</h4>
+        <h4>DATABASE</h4>
         <div className="skills-container">{renderSkills(databaseSkills)}</div>
       </div>
      

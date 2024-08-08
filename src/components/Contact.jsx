@@ -4,16 +4,16 @@ function Contact() {
   return (
     <div>
          <div class="msg">
-        <h1 id="cnt"><span id="contact">Leave </span>Message</h1>
+        <h1 id="cnt"><span id="contact">LEAVE </span>MESSAGE</h1>
     </div>
          <div class="contact" data-aos="zoom-in">
     
          <div class="sampark">
            <form action="#">
-        <input type="text" placeholder="First Name"/><input type="text" placeholder="Last Name"/><br/>
-        <input type="email" placeholder="Email"/><input type="number" placeholder="Phone no."/><br/>
-        <textarea name="" id="" cols="20" rows="10" placeholder="Write Message"></textarea>
-        <br/><button type="submit" id="btn">Send</button>
+        <input type="text" placeholder="FIRST NAME"/><input type="text" placeholder="LAST NAME"/><br/>
+        <input type="email" placeholder="EMAIL"/><input type="number" placeholder="PHONE NO."/><br/>
+        <textarea name="" id="" cols="20" rows="10" placeholder="WRITE MESSAGE"></textarea>
+        <br/><button type="submit" id="btn">SEND</button>
            </form>
          </div>
          </div>
