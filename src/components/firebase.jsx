@@ -46,7 +46,7 @@ const VisitCounter = () => {
  
   <div className="fancy"  >
   <span className="top-key"></span>
-  <span className="text">Visit count: {visitCount}</span>
+  <span className="text">Total Visit: {visitCount}</span>
   <span className="bottom-key-1"></span>
   <span className="bottom-key-2"></span>
 </div>
