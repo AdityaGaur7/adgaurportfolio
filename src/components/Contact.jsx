@@ -4,7 +4,7 @@ function Contact() {
   return (
     <div>
          <div class="msg">
-        <h1 id="cnt">Leave <span id="contact">Message</span></h1>
+        <h1 id="cnt"><span id="contact">Leave </span>Message</h1>
     </div>
          <div class="contact" data-aos="zoom-in">
     

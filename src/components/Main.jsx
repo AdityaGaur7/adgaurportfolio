@@ -13,6 +13,7 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import Animate from "./Animate";
 import Loader from "./Loader";
+import Visit from './firebase'
 import Skills from "./Tech-Skill";
 import CodingProfile from "./CodingProfile"
 function Main() {
@@ -63,6 +64,7 @@ function Main() {
       <Back />
       <Animate/>
       <Cont />
+      <Visit/>
       <About />
       <Education />
       <Loader/>

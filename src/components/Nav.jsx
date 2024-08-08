@@ -92,6 +92,7 @@ const Nav = () => {
                 <li><a href="#projectsid" onClick={ (windowWidth < 790 ) ? fun1:fun2}>Projects</a></li>
                 <li><a href="#skill" onClick={ (windowWidth < 790 ) ? fun1:fun2}>Services</a></li>
                 <li><a href="#contact" onClick={ (windowWidth < 790 ) ? fun1:fun2}>Contact</a></li>
+                
             </div>
            
                 

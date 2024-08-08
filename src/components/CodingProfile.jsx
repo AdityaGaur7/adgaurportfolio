@@ -61,7 +61,7 @@ const Tilt = ({ children }) => {
 const SkillsGallery = () => {
   return (
     <>
-<h3 className="skills-title"><span>Coding Profiles</span></h3>
+<h3 className="skills-title">Coding Profiles</h3>
     <div className="skills-gall">
     
       {skills.map((skill, index) => (

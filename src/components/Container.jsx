@@ -35,7 +35,7 @@ const Cont = () => {
             <div className="left" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
 
                 <h3>Hi ,it's Me</h3>
-                <h1>I'm <span>ADITYA GAUR</span></h1>
+                <h1>I'm <span style={{ fontFamily:'monospace',textShadow:'black 4px 4px 2px',fontSize:'40px'}}>ADITYA GAUR</span></h1>
                 <span id="element"></span>
                 <p>
                     PRE FINAL YEAR BTECH STUDENT || SKILLED AT C++, MERN, ANGULAR JS,NEXT JS<br/>AND DOING COMPETITIVE PROGRAMMING & BACKEND WITH RESTFUL-API IN <span>MERN STACK </span>
@@ -58,10 +58,12 @@ const Cont = () => {
                     <div className="cd">
                         <button><i className="fa-solid fa-arrow-up-right">
                             <a href="https://drive.google.com/drive/folders/1eRyFBaDK-_hK39pe2BVZYCIDAM6jto8g?lfhs=2" target="_blank"  rel="noreferrer">RESUME</a></i></button>
+                 
                     </div>
                 </div>
                
             </div>
+               
             <div className="right">
                 <div className="frame"  data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
                 
@@ -74,6 +76,7 @@ const Cont = () => {
 
             </div>
             <div/>
+          
         </div>
         </div>
      <hr />

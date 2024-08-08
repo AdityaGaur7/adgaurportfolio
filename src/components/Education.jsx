@@ -26,7 +26,7 @@ function Education() {
          </div>
          <div className="tech" data-aos="fade-left">
             <div className="msg" id="msg">
-                <h1> Achie<span>vement</span></h1>
+                <h1> <span>Achi</span>evement</h1>
             </div>
          <ul>
             <li>Open Source Contributor in HacktoberFest'23</li>

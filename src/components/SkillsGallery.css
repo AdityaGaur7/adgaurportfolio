@@ -6,14 +6,19 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     max-width: 800px;
     margin: 0 auto;
+    position: relative;
   }
   
   .skills-title {
     font-size: 2rem;
     margin: 2rem;
-    color: #dbf800;
+    color: #fafaf7;
+    text-shadow:black 4px 4px 2px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid white;
+    position: relative;
+    padding: 0.5rem;
   }
   
   .skills-category {
@@ -21,10 +26,12 @@
   }
   
   .skills-category h4 {
+  
     font-size: 2rem;
     margin-bottom: 1rem;
     color: #00e8f8;
     text-align: center;
+    text-shadow:black 4px 4px 2px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   

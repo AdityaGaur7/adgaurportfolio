@@ -11,18 +11,18 @@ const Birthday = () => {
             setsize("extra-small");
           }else{
             setWindowWidth(window.innerWidth);
-            setsize("medium");
+            setsize("small");
           }
     },[windowWidth,size])
   return (
     <div className="birthday">
-        <h1 style={{textAlign:'center',padding:'10px'}}>
+        <h1 style={{textAlign:'center',padding:'10px',fontFamily:'monospace',textShadow:'black 4px 4px 2px '}}>
             Wish me after  
         </h1>
       <FlipCountdown
         size={size}
         titlePosition="bottom"
-        theme="light"
+        theme="dark"
         //  yearTitle='Year'
         hideYear
         monthTitle="Months"

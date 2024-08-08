@@ -2,7 +2,7 @@
   *{
     /* overflow-x: hidden; */
   }
-  
+
   .nav{
     height: 100vh;
     z-index: 12;
@@ -157,6 +157,11 @@
     }
 .info{
     text-align: center;
+   
+}
+.info h1{
+     font-family:monospace;
+    text-shadow:black 4px 4px 2px ;
 }
     .info p {
         font-size: 11px;
@@ -244,6 +249,7 @@
    .base{
     width: 100%;
     font-size: 13px;
+    text-shadow:black 4px 4px 2px;
    }
     .cd button {
         width: 6rem;
@@ -303,6 +309,7 @@
 .education,.container,.links,.nav,.about ,.msg{
     overflow-x: hidden;
     overflow-y: scroll;
+    
   }
 
   .hide{
@@ -319,11 +326,14 @@
 }
 .birthday {
 flex-direction: column;
+
+
 }
 .me {
     
     height: 110vh;
 }
+
 }
 
  #ok{
@@ -332,7 +342,7 @@ flex-direction: column;
  
 .birthday{
     border: 1px solid white;
-    border-radius: 10px;
+    box-shadow: black 3px 3px 2px;
     display: flex;
     justify-content: center;
     align-items: center;
