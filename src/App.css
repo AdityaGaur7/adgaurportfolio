@@ -230,11 +230,13 @@
 
     .sampark {
         width: 86%;
+        outline: white;
         text-align: center;
     }
 
     .sampark input {
         width: 10rem;
+         border: 1px solid white;
     }
 
     .sampark textarea {
