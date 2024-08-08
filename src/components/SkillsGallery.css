@@ -9,7 +9,7 @@
     position: relative;
   }
   
-  .skills-title {
+  .skills-title ,.project-title{
     font-size: 2rem;
     margin: 2rem;
     color: #fafaf7;
@@ -19,6 +19,10 @@
     border: 1px solid white;
     position: relative;
     padding: 0.5rem;
+  }
+  .coding-profile,.proj-title{
+    margin: 2rem auto;
+    max-width: 700px;
   }
   
   .skills-category {
@@ -119,5 +123,9 @@
     }
       .tiltcard{
         padding: 1rem;
+      }
+      .coding-profile,.proj-title{
+        
+        max-width: 350px;
       }
   }
