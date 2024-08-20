@@ -1,0 +1,197 @@
+[
+  {
+    "title": "MMMUTRESO 📚",
+    "description": "A centralized platform for accessing study resources. MMMUTRESO offers a one-stop solution for students to find and utilize various educational materials and tools, simplifying the process of accessing and organizing study resources.",
+    "image": "images/img/MMMURESO.png",
+    "link": "https://mmmut.xyz"
+  },
+  {
+    "title": "LOVE CALCULATOR",
+    "description": "An interactive tool that calculates the compatibility between two people based on their names. This fun and engaging application provides a playful way to check how much you 'love' someone.",
+    "image": "images/img/love-calculator.png",
+    "link": "https://lovecalculator-by-adgaur-qv3s.onrender.com/"
+  },
+  {
+    "title": "ADMIN PANEL",
+    "description": "A robust admin panel built using the MERN stack (MongoDB, Express, React, Node.js) for managing an eCommerce application. This tool allows administrators to efficiently handle products, orders, and user interactions.",
+    "image": "images/img/AdminPanel.png",
+    "link": "https://mern-ecomm-yk9t.vercel.app/"
+  },
+  {
+    "title": "SOCIAPP",
+    "description": "A social media application developed with Express and MongoDB. SOCIAPP provides a platform for users to connect, share updates, and engage with a community of like-minded individuals.",
+    "image": "images/img/SociApp.png",
+    "link": "https://animgram.onrender.com/"
+  },
+  
+    {
+      "title": "TRAVEL & TOURS",
+      "description": "Explore a comprehensive travel website that lists renowned travel destinations around the world. This platform offers detailed information about popular tourist spots, including highlights, attractions, and essential travel tips to help you plan your next adventure. With an intuitive interface and engaging visuals, it makes discovering new places a breeze.",
+      "image": "images/img/Travel&Tours.png",
+      "link": "https://tripowa-tours-pvt-ltd-task.vercel.app/"
+    },
+    {
+      "title": "PAYMENT GATEWAY INTEGRATION",
+      "description": "A sophisticated payment gateway solution that supports multiple payment methods including PhonePe, credit cards, and Stripe. It also integrates Google Authentication for secure login. This platform is designed to streamline the payment process for users and businesses, ensuring a seamless and secure transaction experience.",
+      "image": "images/img/paymentGateway.png",
+      "link": "https://cal-al-frontend.vercel.app/"
+    },
+    {
+      "title": "INVOICE GENERATOR",
+      "description": "An efficient tool for creating and managing invoices tailored for sales and marketing companies. This application allows users to generate professional invoices with customizable templates, track payments, and manage billing information. It simplifies the invoicing process, ensuring accuracy and efficiency in financial management.",
+      "image": "images/img/InvoiceGen.png",
+      "link": "https://invoice-generator-sand-six.vercel.app/"
+    },
+    {
+      "title": "MOVIE LISTING",
+      "description": "A dynamic website showcasing a curated list of popular movies. This platform features a comprehensive database of films, complete with detailed information, including genres, ratings, and descriptions. Users can easily filter movies based on various criteria to find their next watch, making it a go-to resource for movie enthusiasts.",
+      "image": "images/img/MovieList.png",
+      "link": "https://mymovie-phi.vercel.app/"
+    },
+  
+  
+  {
+    "title": "CDC WEBSITE",
+    "description": "A website developed using the MERN stack, designed to provide information and resources related to the CDC (Centers for Disease Control and Prevention). It features a user-friendly interface and comprehensive data.",
+    "image": "images/img/CDC.png",
+    "link": "https://cdc-website-vrqu.vercel.app/"
+  },
+  {
+    "title": "SEARCH PKMN",
+    "description": "A Pokémon search application built with React.js. This tool allows users to search for and view information about various Pokémon, including their stats and abilities.",
+    "image": "images/img/pokemon.png",
+    "link": "https://pokemonsearchbyadgaur.netlify.app/"
+  },
+  {
+    "title": "WASSUP 💬",
+    "description": "A chat application where users can communicate in real-time. Use the room ID 'ADGAUR' to join the chat room and start conversing with others.",
+    "image": "images/img/chatapp.png",
+    "link": "https://wassup-by-adgaur.vercel.app/"
+  },
+  {
+    "title": "WEATHER APP",
+    "description": "An application designed to provide weather updates before you head out. It helps you check the current weather conditions and forecasts to plan your day accordingly.",
+    "image": "images/img/weather-app.png",
+    "link": "https://weather-api-five-delta.vercel.app/"
+  },
+  {
+    "title": "EMBRACE ARTS",
+    "description": "A Next.js-based platform showcasing various artworks. EMBRACE ARTS serves as a digital gallery to explore and appreciate different forms of art.",
+    "image": "images/img/Artwork.png",
+    "link": "https://art-silk.vercel.app/"
+  },
+  {
+    "title": "EDUCATE GIRLCHILD",
+    "description": "A project dedicated to promoting the education of girls. This initiative emphasizes the importance of educating girls and its impact on the development of communities and nations.",
+    "image": "images/img/educate girl.png",
+    "link": "https://educate-girlchild-by-adgaur.netlify.app/"
+  },
+  {
+    "title": "ROBOMANIA CLONE",
+    "description": "A responsive clone of the Robomania website. This multipage site replicates the original design and functionality, providing a seamless user experience.",
+    "image": "images/img/robomania-clone.png",
+    "link": "https://adityagaur7.github.io/robomania-clone-by-adgaur.github.io/"
+  },
+  {
+    "title": "PET ITEM CART",
+    "description": "An eCommerce landing page for pet products. PET ITEM CART offers a variety of essential items for pets, including food, toys, and accessories.",
+    "image": "images/img/landing-page-pet-shop.png",
+    "link": "https://adityagaur7.github.io/Octanet-task1-landing-page-byadgaur/"
+  },
+  {
+    "title": "NETFLIX CLONE",
+    "description": "A clone of the Netflix interface that allows users to browse and stream movies and TV shows. It replicates the Netflix experience with a similar design and functionality.",
+    "image": "images/img/netfrlix clone.png",
+    "link": "https://lnkd.in/djM-j3Cr"
+  },
+  {
+    "title": "MYNTRA CLONE",
+    "description": "A clone of the Myntra eCommerce website. This project provides an online shopping experience similar to Myntra, with features for browsing and purchasing fashion items.",
+    "image": "images/img/myntra-clone.png",
+    "link": "https://myntra-clone-by-adgaur.netlify.app/"
+  },
+  {
+    "title": "TESLA CLONE",
+    "description": "A website clone for Tesla, showcasing advanced automobiles and technologies. The site emulates Tesla's design and features to provide an engaging user experience.",
+    "image": "images/img/Tesla-clone.png",
+    "link": "https://tesla-clone-by-adgaur.netlify.app/"
+  },
+  {
+    "title": "MICROSOFT CLONE",
+    "description": "A site that mimics Microsoft's design and functionality, offering a similar user experience to Microsoft's official site. It covers various services and products provided by Microsoft.",
+    "image": "images/img/microsoft-clone.png",
+    "link": "https://adityagaur7.github.io/microsoftclonebyadgaur.github.io/"
+  },
+  {
+    "title": "ANIME SKETCH",
+    "description": "A collection of anime sketches showcasing personal artwork. This project highlights various sketches and illustrations inspired by anime characters and themes.",
+    "image": "images/img/sketch-anime.png",
+    "link": "https://adityagaur7.github.io/sketch-collection-by-Adgaur.github.io/"
+  },
+  {
+    "title": "KONOHA KART",
+    "description": "A merchandise store for Naruto anime fans. KONOHA KART offers a range of Naruto-themed products, including clothing, accessories, and collectibles.",
+    "image": "images/img/konoha-kart.png",
+    "link": "https://adityagaur7.github.io/animeadgaur.github.io/"
+  },
+  {
+    "title": "PROPOSAL TO CRUSH",
+    "description": "A creative web page designed for making a proposal to your crush. This project provides a fun and engaging way to express your feelings.",
+    "image": "images/img/proposal.png",
+    "link": "https://adityagaur7.github.io/proposal-by-adgaur.github.io/"
+  },
+  {
+    "title": "IMAGE-GENERATOR",
+    "description": "An image generation tool that allows users to search for and generate images based on specific queries. This project enables easy access to a wide range of images.",
+    "image": "images/img/img-generator.png",
+    "link": "https://adityagaur7.github.io/SearchImage-byAdgaur.github.io/"
+  },
+  {
+    "title": "DATECRUSH FLIPBOOK🙈",
+    "description": "A digital flipbook for asking someone out on a date. This playful project combines creativity with interactive design to make a memorable impression.",
+    "image": "images/img/dateCrush.png",
+    "link": "https://adityagaur7.github.io/DatingCrush-ByAdgaur/"
+  },
+  {
+    "title": "ROCK-PAPER-SCISSOR",
+    "description": "A classic rock-paper-scissors game where you can compete against an AI. This project provides a fun way to test your luck and strategy against a computer opponent.",
+    "image": "images/img/rock-paper-scissor.png",
+    "link": "https://rock-paper-scissor-gameby-adgaur.netlify.app/"
+  },
+  {
+    "title": "Calculator",
+    "description": "A basic calculator designed to perform everyday mathematical operations. This tool is straightforward and user-friendly, ideal for quick calculations.",
+    "image": "images/img/calculator.png",
+    "link": "https://lnkd.in/dipRqRU4"
+  },
+  {
+    "title": "LoginPage",
+    "description": "A login page implemented using PHP. This project features a simple and secure login interface for user authentication.",
+    "image": "images/img/login-byphp.png",
+    "link": "http://beauty7112.000webhostapp.com/"
+  },
+  {
+    "title": "Temp Converter",
+    "description": "A temperature conversion tool that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. Useful for quickly converting temperature values.",
+    "image": "images/img/temp-converter.png",
+    "link": "https://lnkd.in/d86bPJCb"
+  },
+  {
+    "title": "Live Time",
+    "description": "A live clock application that displays the current time. This project offers a straightforward way to keep track of time.",
+    "image": "images/img/live-time.png",
+    "link": "https://adityagaur7.github.io/adityaproj/"
+  },
+  {
+    "title": "Einstein Tribute Page",
+    "description": "A tribute page dedicated to Albert Einstein, featuring quotes and information about his contributions to science. This project celebrates Einstein's legacy with a well-designed tribute.",
+    "image": "images/img/tribute-page.png",
+    "link": "https://adityagaur7.github.io/tributepage-by-adgaur.github.io/"
+  },
+  {
+    "title": "To Do App",
+    "description": "A task management application that helps users organize and track their to-do items. This tool is designed to increase productivity by providing an easy way to manage tasks.",
+    "image": "images/img/to-do-app.png",
+    "link": "https://lnkd.in/dnGfeTqS"
+  }
+]

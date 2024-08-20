@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import VanillaTilt from 'vanilla-tilt';
-import './SkillsGallery.css';
+import '../About/SkillsGallery.css';
 
 const skills = [
 

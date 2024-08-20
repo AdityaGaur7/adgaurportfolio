@@ -1,26 +1,27 @@
 import React, { useEffect } from "react";
 import AnimatedCursor from "react-animated-cursor";
-import Nav from "./Nav";
-import Footer from "./Footer";
-import Back from "./Backg";
-import Education from "./Education";
-import About from "./About";
-import Cont from "./Container";
-import Services from "./Services";
-import Contact from "./Contact";
-import Projects from "./Projects";
+import Nav from "./MainComp/Nav";
+import Footer from "./MainComp/Footer";
+import Back from "./MainComp/Backg";
+
+
+import Services from "./Services/Services";
+import Contact from "./Contact/Contact";
+import Projects from "./project/Projects";
+import About from "./About/About";
 import Aos from "aos";
 import "aos/dist/aos.css";
-import Animate from "./Animate";
-import Loader from "./Loader";
-import Visit from './firebase'
-import Skills from "./Tech-Skill";
-import CodingProfile from "./CodingProfile"
+
+import Home from "./Home/Home";
+
+
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 function Main() {
   useEffect(() => {
     Aos.init({duration:2000});
   }, []);
   return (
+    <Router>
     <div>
        <div className="App">
         <AnimatedCursor
@@ -62,19 +63,19 @@ function Main() {
       </div> 
       <Nav />
       <Back />
-      <Animate/>
-      <Cont />
-      <Visit/>
-      <About />
-      <Education />
-      <Loader/>
-      <Skills/>
-      <CodingProfile/>
-      <Services />
-      <Projects />
-      <Contact />
+     
+      
+
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/project" element={<Projects />} />
+        <Route path="/profile" element={<Services />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
       <Footer />
     </div>
+    </Router>
   );
 }
 

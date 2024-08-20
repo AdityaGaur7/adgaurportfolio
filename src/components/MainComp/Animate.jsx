@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import VisitCounter from './firebase';
+import VisitCounter from '../About/firebase';
 import gsap from 'gsap';
 import "./animate.css"
 const Animate = () => {

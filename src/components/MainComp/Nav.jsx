@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-
+import { NavLink } from 'react-router-dom';
 const Nav = () => {
     const[isvisible,setvisible]= useState(false);
     const [windowWidth, setWindowWidth] = useState(window.innerWidth);
@@ -87,11 +87,11 @@ const Nav = () => {
             //  style={isvisible ?{display:'flex'}:{display:'none'} } >
              style={linksStyle} 
              >
-                <li><a href="#" onClick={ (windowWidth < 790 )? fun1:fun2}>Home</a></li>
-                <li><a href="#about" onClick={ (windowWidth < 790 ) ? fun1:fun2}>About</a></li>
-                <li><a href="#projectsid" onClick={ (windowWidth < 790 ) ? fun1:fun2}>Projects</a></li>
-                <li><a href="#skill" onClick={ (windowWidth < 790 ) ? fun1:fun2}>Services</a></li>
-                <li><a href="#contact" onClick={ (windowWidth < 790 ) ? fun1:fun2}>Contact</a></li>
+                <li><NavLink to="/" onClick={ (windowWidth < 790 )? fun1:fun2}>Home</NavLink></li>
+                <li><NavLink to="/about" onClick={ (windowWidth < 790 ) ? fun1:fun2}>About</NavLink></li>
+                <li><NavLink to="/project" onClick={ (windowWidth < 790 ) ? fun1:fun2}>Projects</NavLink></li>
+                <li><NavLink to="/profile" onClick={ (windowWidth < 790 ) ? fun1:fun2}>Profiles</NavLink></li>
+                <li><NavLink to="/contact" onClick={ (windowWidth < 790 ) ? fun1:fun2}>Contact</NavLink></li>
                 
             </div>
            

@@ -1,11 +1,11 @@
 import React from 'react'
-
+import CodingProfile from "./CodingProfile"
 function Services() {
   return (
-    <div>
+    <div className='servicesection'>
          <div class="msg">
         <h1 id="cnt"> <span>SERV</span>ICES</h1>
-    </div>
+         </div>
        <div className="services">
         <div className="service">
             <div className="bx" data-aos="flip-up">
@@ -27,6 +27,7 @@ function Services() {
 
     </div>
     <hr />
+    <CodingProfile/>
     </div>
   )
 }

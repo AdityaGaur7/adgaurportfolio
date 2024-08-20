@@ -1,5 +1,7 @@
 import React from 'react'
 import Birthday from './Birthday'
+import Education from './Education'
+import Skills from "./Tech-Skill";
 
 function About() {
   return (
@@ -27,6 +29,12 @@ function About() {
      <div/>
    </div>
    <hr />
+        
+   <Education />
+   
+   <Skills/>
+ 
+   
    </>
   )
 }

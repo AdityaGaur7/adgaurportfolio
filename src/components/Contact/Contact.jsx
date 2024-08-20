@@ -2,10 +2,10 @@ import React from 'react'
 
 function Contact() {
   return (
-    <div>
+    <div className='contactsection'>
          <div class="msg">
         <h1 id="cnt"><span id="contact">LEAVE </span>MESSAGE</h1>
-    </div>
+        </div>
          <div class="contact" data-aos="zoom-in">
     
          <div class="sampark">

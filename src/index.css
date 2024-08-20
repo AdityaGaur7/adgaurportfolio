@@ -491,7 +491,9 @@ span:hover {
 }
 
 
-
+.contactsection{
+    margin: 7rem 0px;
+}
 .card {
     display: flex;
     justify-content: center;
@@ -504,7 +506,7 @@ span:hover {
 }
 
 .card button {
-    background-color: #1d252f;
+    /* background-color: #1d252f; */
     border: 1px solid #00E8F8;
     padding: 8px 10px;
     border-radius: 3px;
@@ -593,6 +595,7 @@ textarea {
     color: #f5f3f3;
     padding: 7px;
     margin: 10px;
+    border: 1px solid white;
     width: 15vw;
     border: 0;
 
@@ -848,4 +851,11 @@ textarea {
     .fancy:hover .bottom-key-2 {
     right: 0;
     width: 0;
+   }
+
+   .sampark input , .sampark textarea{
+    border: 1px solid white;
+   }
+   #btn{
+    margin: 10px;
    }
