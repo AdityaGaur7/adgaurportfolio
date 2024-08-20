@@ -55,8 +55,8 @@ const Cont = () => {
                     <li><a href="https://twitter.com/Aditya7112027"><i className="fa-brands fa-twitter"></i></a></li>
                 </div>
                 <div className="card" id="resume" >
-                    <div className="cd">
-                        <button><i className="fa-solid fa-arrow-up-right">
+                    <div className="cdc" id='resumesection'>
+                        <button className='resumebutton'><i className="fa-solid fa-arrow-up-right">
                             <a href="https://drive.google.com/drive/folders/1eRyFBaDK-_hK39pe2BVZYCIDAM6jto8g?lfhs=2" target="_blank"  rel="noreferrer">RESUME</a></i></button>
                  
                     </div>

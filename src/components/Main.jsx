@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import AnimatedCursor from "react-animated-cursor";
 import Nav from "./MainComp/Nav";
 import Footer from "./MainComp/Footer";
-import Back from "./MainComp/Backg";
+import Back from "./Home/Backg";
 
 
 import Services from "./Services/Services";

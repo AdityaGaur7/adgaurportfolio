@@ -1,9 +1,9 @@
 import React from 'react'
 
-import Animate from '../MainComp/Animate';
-import Cont from '../MainComp/Container';
+import Animate from './Animate';
+import Cont from './Container';
 import Visit from '../About/firebase';
-import Loader from '../MainComp/Loader';
+import Loader from './Loader';
 
 
 const Home = () => {

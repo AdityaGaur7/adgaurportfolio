@@ -506,13 +506,13 @@ span:hover {
 }
 
 .card button {
-    /* background-color: #1d252f; */
+    background-color: #1d252f;
     border: 1px solid #00E8F8;
     padding: 8px 10px;
     border-radius: 3px;
 
     margin: 2vh auto;
-    width: 6vw;
+    width: auto;
     transition: all .35s ease;
 }
 
@@ -858,4 +858,7 @@ textarea {
    }
    #btn{
     margin: 10px;
+   }
+   #resumebutton{
+    width: auto;
    }
