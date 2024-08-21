@@ -37,7 +37,7 @@
     },
     {
       "title": "PAYMENT GATEWAY INTEGRATION (MERN)",
-      "description": "A sophisticated payment gateway solution that supports multiple payment methods including PhonePe, credit cards, and Stripe. It also integrates Google Authentication for secure login. This platform is designed to streamline the payment process for users and businesses, ensuring a seamless and secure transaction experience.",
+      "description": "A sophisticated payment gateway solution that supports multiple payment methods including Paypal, credit cards, and Stripe. It also integrates Google Authentication for secure login. This platform is designed to streamline the payment process for users and businesses, ensuring a seamless and secure transaction experience.",
       "image": "images/img/paymentGateway.png",
       "link": "https://cal-al-frontend.vercel.app/"
     },
@@ -57,13 +57,13 @@
   
   {
     "title": "CDC WEBSITE (MERN)",
-    "description": "A website developed using the MERN stack, designed to provide information and resources related to the CDC (Centers for Disease Control and Prevention). It features a user-friendly interface and comprehensive data.",
+    "description": "A website developed using the MERN stack, designed to provide information and resources related to the CDC (Coders And Developers Club) events , Upcoming Contest , Query Resolver , Certificate Verifier. It features a user-friendly interface and comprehensive data.",
     "image": "images/img/CDC.png",
     "link": "https://cdc-website-vrqu.vercel.app/"
   },
   {
     "title": "SEARCH PKMN (REACTJS)",
-    "description": "A Pokémon search application built with React.js. This tool allows users to search for and view information about various Pokémon, including their stats and abilities.",
+    "description": "A Pokémon search application built with React.js. This tool allows users to search for and view information about various Pokémon with their images.",
     "image": "images/img/pokemon.png",
     "link": "https://pokemonsearchbyadgaur.netlify.app/"
   },
