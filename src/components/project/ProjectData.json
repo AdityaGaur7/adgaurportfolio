@@ -38,7 +38,7 @@
     {
       "title": "PAYMENT GATEWAY INTEGRATION (MERN)",
       "description": "A sophisticated payment gateway solution that supports multiple payment methods including Paypal, credit cards, and Stripe. It also integrates Google Authentication for secure login. This platform is designed to streamline the payment process for users and businesses, ensuring a seamless and secure transaction experience.",
-      "image": "images/img/paymentGateway.png",
+      "image": "images/img/PaymentGateway.png",
       "link": "https://cal-al-frontend.vercel.app/"
     },
     {
