@@ -29,11 +29,13 @@ function Education() {
                 <h1> <span>ACHIE</span>VEMENT</h1>
             </div>
          <ul className='acheivement'>
-            <li>FULL STACK DEVELOPMENT INTERN @IVEGTech</li>
-            {/* <li>Open Source Contributor in HacktoberFest'23</li> */}
-            <li>FRONTEND DEVELOPER @CDC</li>
-            <li>FRONTEND DEVELOPER @MMMUT FOOUNDATION</li>
+            <li>Ranked Rating 1820 @LEETCODE </li>
+            <li>Open Source Contributor in HacktoberFest'23</li>
             <li>SOLVED OVER 800+ CODING PROBLEMS ON DIFFERENT PLATFORMS </li>
+            <li>Ranked 717 out of 35721 contestants in leetcode biweekly contest 139 </li>
+           
+
+
         </ul>
 
          </div>

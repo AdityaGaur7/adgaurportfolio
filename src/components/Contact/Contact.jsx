@@ -18,7 +18,9 @@ function Contact() {
          </div>
          </div>
          <hr />
+      
    </div>
+
 
   )
 }

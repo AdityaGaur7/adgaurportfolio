@@ -2,10 +2,11 @@ import React from 'react'
 import Birthday from './Birthday'
 import Education from './Education'
 import Skills from "./Tech-Skill";
-
+import Timeline from './Experience';
 function About() {
   return (
 <>
+
       <div className="about">
         <div className="me" id="about">
             <div className="photo" data-aos="fade-right">
@@ -29,11 +30,12 @@ function About() {
      <div/>
    </div>
    <hr />
+   <Timeline/>
         
    <Education />
    
    <Skills/>
- 
+
    
    </>
   )
