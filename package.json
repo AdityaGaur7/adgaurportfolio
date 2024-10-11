@@ -22,7 +22,6 @@
     "react-spring": "^9.7.4",
     "vanilla-tilt": "^1.8.1",
     "vanta": "^0.5.24",
-    "vertical-timeline-component-for-react": "^1.0.7",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
