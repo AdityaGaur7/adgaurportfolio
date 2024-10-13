@@ -40,8 +40,7 @@ const Cont = () => {
                 <p>
                     PRE FINAL YEAR BTECH STUDENT || SKILLED AT C++, MERN, ANGULAR JS,NEXT JS<br/>AND DOING COMPETITIVE PROGRAMMING & <span>BACKEND</span> WITH RESTFUL-API IN <span>MERN STACK </span>
                      <br/> LEARNING TO IMPROVE NOT TO
-                    PROVE || LONG WAY TO GO ||<br/> MAKING MOM <span>PROUD</span>,
-                    ONE STEP AT A TIME. 💖
+                    PROVE || LONG WAY TO GO ||<br/> WILL MAKE MOM <span>PROUD</span>💖 ONE DAY 
                 </p>
               
 
