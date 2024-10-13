@@ -38,9 +38,10 @@ const Cont = () => {
                 <h1>I'm <span style={{ fontFamily:'monospace',textShadow:'black 4px 4px 2px',fontSize:'40px'}}>ADITYA GAUR</span></h1>
                 <span id="element"></span>
                 <p>
-                    PRE FINAL YEAR BTECH STUDENT || SKILLED AT C++, MERN, ANGULAR JS,NEXT JS<br/>AND DOING COMPETITIVE PROGRAMMING & BACKEND WITH RESTFUL-API IN <span>MERN STACK </span>
+                    PRE FINAL YEAR BTECH STUDENT || SKILLED AT C++, MERN, ANGULAR JS,NEXT JS<br/>AND DOING COMPETITIVE PROGRAMMING & <span>BACKEND</span> WITH RESTFUL-API IN <span>MERN STACK </span>
                      <br/> LEARNING TO IMPROVE NOT TO
-                    PROVE || LONG WAY TO GO 
+                    PROVE || LONG WAY TO GO ||<br/> MAKING MOM <span>PROUD</span>,
+                    ONE STEP AT A TIME. 💖
                 </p>
               
 
