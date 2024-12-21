@@ -32,7 +32,7 @@ const Birthday = () => {
         secondTitle="Seconds"
         endAtZero
        
-        endAt={"2024-12-20 23:59:59"} // Date/Time
+        endAt={"2025-12-19 23:59:59"} // Date/Time
         onTimeUp={() => console.log("Happy Birthday Aditya 🥳🎉🎊")}
       />
     </div>
