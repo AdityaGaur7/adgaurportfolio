@@ -6,14 +6,39 @@
     "link": "https://mmmut.xyz"
   },
   {
+    "title": "SWASTHMITRA",
+    "description": "A platform for providing medical assistance to the needy. SWASTHMITRA offers a one-stop solution for providing medical assistance to the needy, simplifying the process of accessing and organizing medical resources.",
+    "image": "images/img/swasthmitra.png",
+    "link": "https://swasthmitra.com"
+  },
+  {
+    "title": "PUSHPAKVIMANDRONE",
+    "description": "A comprehensive e-commerce platform built for selling drones, IoT components, and 3D printing tools. Features include secure Razorpay payment integration, product catalog management, shopping cart functionality, and order tracking. The platform provides a seamless shopping experience for customers interested in cutting-edge technology and maker tools.",
+    "image": "images/img/shop_pushpakviman.png",
+    "link": "https://shop.pushpakdroneviman.in/"
+  },
+  {
+    "title": "FLYTIUMDRONE",
+    "description": "A comprehensive e-commerce platform with dynamic content management capabilities. Features include role-based admin dashboard, customizable product categories, flexible homepage component management, secure payment gateway integration, and robust user authentication. The platform enables complete control over product listings, content, and user roles while providing a seamless shopping experience.",
+    "image": "images/img/flytiumdrone.png",
+    "link": "https://www.flytiumdrones.com/"
+  },
+  {
+    "title": "MMMUTFOUNDATION",
+    "description": "A comprehensive platform providing industry mentorship, financial assistance, academic support, networking opportunities, and high-tech resources. Features include expert guidance from industry professionals, financial aid programs, academic counseling, networking events, hands-on learning experiences, and access to cutting-edge technology resources to support student growth and development.",
+    "image": "images/img/mmmut_foundation.png",
+    "link": "https://mmmut-foundation-weld.vercel.app/"
+  },
+  {
     "title": "LOVE CALCULATOR (EJS)",
     "description": "An interactive tool that calculates the compatibility between two people based on their names. This fun and engaging application provides a playful way to check how much you 'love' someone.",
     "image": "images/img/love-calculator.png",
     "link": "https://lovecalculator-by-adgaur-qv3s.onrender.com/"
-  },{
-"title": "AI INTEGRATED FLASHCARDS (MERN)",
-"description": "Developed an AI-driven flashcard app with Google Login for secure access, supporting over 1,000 users. Engineered an Mongodb database for 1,000+ Q&A with efficient CRUD operations. Utilized AI for detailed explanations on 100+ questions and implemented Web Speech API for text-to-speech functionality.",
-"image": "images/img/flashcard.png",
+  },
+  {
+    "title": "AI INTEGRATED FLASHCARDS (MERN)",
+    "description": "Developed an AI-driven flashcard app with Google Login for secure access, supporting over 1,000 users. Engineered an Mongodb database for 1,000+ Q&A with efficient CRUD operations. Utilized AI for detailed explanations on 100+ questions and implemented Web Speech API for text-to-speech functionality.",
+    "image": "images/img/flashcard.png",
     "link": "https://tuf-task-frontend-nu.vercel.app/"
   },
   {
@@ -28,33 +53,30 @@
     "image": "images/img/SociApp.png",
     "link": "https://animgram.onrender.com/"
   },
-  
-    {
-      "title": "TRAVEL & TOURS (NEXTJS)",
-      "description": "Explore a comprehensive travel website that lists renowned travel destinations around the world. This platform offers detailed information about popular tourist spots, including highlights, attractions, and essential travel tips to help you plan your next adventure. With an intuitive interface and engaging visuals, it makes discovering new places a breeze.",
-      "image": "images/img/Travel&Tours.png",
-      "link": "https://tripowa-tours-pvt-ltd-task.vercel.app/"
-    },
-    {
-      "title": "PAYMENT GATEWAY INTEGRATION (MERN)",
-      "description": "A sophisticated payment gateway solution that supports multiple payment methods including Paypal, credit cards, and Stripe. It also integrates Google Authentication for secure login. This platform is designed to streamline the payment process for users and businesses, ensuring a seamless and secure transaction experience.",
-      "image": "images/img/PaymentGateway.png",
-      "link": "https://cal-al-frontend.vercel.app/"
-    },
-    {
-      "title": "INVOICE GENERATOR (REACTJS)",
-      "description": "An efficient tool for creating and managing invoices tailored for sales and marketing companies. This application allows users to generate professional invoices with customizable templates, track payments, and manage billing information. It simplifies the invoicing process, ensuring accuracy and efficiency in financial management.",
-      "image": "images/img/InvoiceGen.png",
-      "link": "https://invoice-generator-sand-six.vercel.app/"
-    },
-    {
-      "title": "MOVIE LISTING (REACTJS)",
-      "description": "A dynamic website showcasing a curated list of popular movies. This platform features a comprehensive database of films, complete with detailed information, including genres, ratings, and descriptions. Users can easily filter movies based on various criteria to find their next watch, making it a go-to resource for movie enthusiasts.",
-      "image": "images/img/MovieList.png",
-      "link": "https://mymovie-phi.vercel.app/"
-    },
-  
-  
+  {
+    "title": "TRAVEL & TOURS (NEXTJS)",
+    "description": "Explore a comprehensive travel website that lists renowned travel destinations around the world. This platform offers detailed information about popular tourist spots, including highlights, attractions, and essential travel tips to help you plan your next adventure. With an intuitive interface and engaging visuals, it makes discovering new places a breeze.",
+    "image": "images/img/Travel&Tours.png",
+    "link": "https://tripowa-tours-pvt-ltd-task.vercel.app/"
+  },
+  {
+    "title": "PAYMENT GATEWAY INTEGRATION (MERN)",
+    "description": "A sophisticated payment gateway solution that supports multiple payment methods including Paypal, credit cards, and Stripe. It also integrates Google Authentication for secure login. This platform is designed to streamline the payment process for users and businesses, ensuring a seamless and secure transaction experience.",
+    "image": "images/img/PaymentGateway.png",
+    "link": "https://cal-al-frontend.vercel.app/"
+  },
+  {
+    "title": "INVOICE GENERATOR (REACTJS)",
+    "description": "An efficient tool for creating and managing invoices tailored for sales and marketing companies. This application allows users to generate professional invoices with customizable templates, track payments, and manage billing information. It simplifies the invoicing process, ensuring accuracy and efficiency in financial management.",
+    "image": "images/img/InvoiceGen.png",
+    "link": "https://invoice-generator-sand-six.vercel.app/"
+  },
+  {
+    "title": "MOVIE LISTING (REACTJS)",
+    "description": "A dynamic website showcasing a curated list of popular movies. This platform features a comprehensive database of films, complete with detailed information, including genres, ratings, and descriptions. Users can easily filter movies based on various criteria to find their next watch, making it a go-to resource for movie enthusiasts.",
+    "image": "images/img/MovieList.png",
+    "link": "https://mymovie-phi.vercel.app/"
+  },
   {
     "title": "CDC WEBSITE (MERN)",
     "description": "A website developed using the MERN stack, designed to provide information and resources related to the CDC (Coders And Developers Club) events , Upcoming Contest , Query Resolver , Certificate Verifier. It features a user-friendly interface and comprehensive data.",

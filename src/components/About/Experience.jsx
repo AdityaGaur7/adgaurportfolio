@@ -4,29 +4,30 @@ import "./Timeline.css";
 
 const events = [
   {
-    icon: <DiAndroid className="img" />,
-    title: "FULL STACK DEVELOPER INTERN",
-    company: "IVEGTECH",
-    date: "AUG 2024 - PRESENT",
-    description: [
-      "🛒 Developed an eCommerce application using AngularJS and Bootstrap",
-      "🔧 Implemented backend using Java Spring Boot and PostgreSQL",
-      "📱 Created responsive UI components and RESTful APIs",
-    ],
-    position: "left",
-  },
-  {
     icon: <DiCodeigniter className="img" />,
-    title: "MEAN STACK DEVELOPER INTERN",
+    title: "MERN STACK DEVELOPER INTERN",
     company: "PUSHPAK VIMAN PVT. LTD.",
-    date: "JUN 2024 - AUG 2024",
+    date: "DEC 2024 - PRESENT",
     description: [
       "🚀 Built a MERN e-commerce platform for electronics components",
       "💻 Implemented secure payment gateway and user authentication",
       "📊 Developed admin dashboard for inventory management",
     ],
+    position: "left",
+  },
+  {
+    icon: <DiAndroid className="img" />,
+    title: "FULL STACK DEVELOPER INTERN",
+    company: "IVEGTECH",
+    date: "AUG 2024 - DEC 2024",
+    description: [
+      "🛒 Developed an eCommerce application using AngularJS and Bootstrap",
+      "🔧 Implemented backend using Java Spring Boot and PostgreSQL",
+      "📱 Created responsive UI components and RESTful APIs",
+    ],
     position: "right",
   },
+
   {
     icon: <DiCodeigniter className="img" />,
     title: "REACTJS DEVELOPER",
