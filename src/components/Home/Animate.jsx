@@ -44,8 +44,8 @@ const Animate = () => {
       <div className='midtext'>
         <div className='txt'>
       
-        <h1 className='wlcm'>WELCOME </h1>
-            <h1 className='to'> TO MY</h1> <h1 className='astrospace'>VERSE</h1>
+        <h1 className='wlcm'>Welcome </h1>
+            <h1 className='to'> To My</h1> <h1 className='astrospace'>Space</h1>
             </div>
     </div>
     </div>
