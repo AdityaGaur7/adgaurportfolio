@@ -45,7 +45,7 @@ const Animate = () => {
         <div className='txt'>
       
         <h1 className='wlcm'>WELCOME </h1>
-            <h1 className='to'> TO MY</h1> <h1 className='astrospace'>PORTFOLIO</h1>
+            <h1 className='to'> TO MY</h1> <h1 className='astrospace'>VERSE</h1>
             </div>
     </div>
     </div>
