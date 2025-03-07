@@ -1,7 +1,14 @@
-import React, { useState, useEffect } from 'react';
-import { initializeApp } from 'firebase/app';
-import {NavLink} from 'react-router-dom'
-import { getDatabase, ref, onValue, set ,runTransaction  } from 'firebase/database';
+import React, { useState, useEffect } from "react";
+import { initializeApp } from "firebase/app";
+import { NavLink } from "react-router-dom";
+import {
+  getDatabase,
+  ref,
+  onValue,
+  set,
+  runTransaction,
+  off,
+} from "firebase/database";
 const firebaseConfig = {
   apiKey: "AIzaSyC5Sg7oRUv24SGOjTm79Z6kU0zEvGTECXQ",
   authDomain: "visitcounter-26e5a.firebaseapp.com",
@@ -21,7 +28,19 @@ const VisitCounter = () => {
 
   useEffect(() => {
     let visitCountRef = ref(db, "visitCount");
+    // Check if we've already counted this session
+    const hasVisited = sessionStorage.getItem("hasVisited");
 
+    if (!hasVisited) {
+      // Only increment if we haven't counted this session
+      runTransaction(visitCountRef, (currentValue) => {
+        return (currentValue || 0) + 1;
+      });
+      // Mark this session as counted
+      sessionStorage.setItem("hasVisited", "true");
+    }
+
+    // Listen for updates to the count
     onValue(visitCountRef, (snapshot) => {
       if (!snapshot.exists()) {
         set(visitCountRef, 0);
@@ -29,29 +48,23 @@ const VisitCounter = () => {
         setVisitCount(snapshot.val());
       }
     });
+
+    // Cleanup subscription on unmount
+    return () => {
+      // Unsubscribe from the listener
+      off(visitCountRef);
+    };
   }, []);
-
-  const incrementVisitCount = () => {
-    let visitCountRef = ref(db, "visitCount");
-    runTransaction(visitCountRef, (currentValue) => currentValue + 0.5);
-  };
-
-  useEffect(() => {
-    incrementVisitCount();
-  }, []);
-
 
   return (
-<div className="visit-counter">
- 
-  <div className="fancy"  >
-  <span className="top-key"></span>
-  <span className="text">Total Visit: {visitCount}</span>
-  <span className="bottom-key-1"></span>
-  <span className="bottom-key-2"></span>
-</div>
-</div>
-
+    <div className="visit-counter">
+      <div className="fancy">
+        <span className="top-key"></span>
+        <span className="text">Total Visit: {visitCount}</span>
+        <span className="bottom-key-1"></span>
+        <span className="bottom-key-2"></span>
+      </div>
+    </div>
   );
 };
 
