@@ -3,13 +3,18 @@ import Birthday from "./Birthday";
 import Education from "./Education";
 import Skills from "./Tech-Skill";
 import Timeline from "./Experience";
+import Certificates from "./Certificates";
+import DynamicIconCloud from "./DynamicIconCloud";
 function About() {
   return (
     <>
       <div className="about">
         <div className="me" id="about">
-          <div className="photo" data-aos="fade-right">
+          {/* <div className="photo" data-aos="fade-right">
             <img src="images/programmer.webp" alt="ok" />
+          </div> */}
+          <div className="dynamic-icon-cloud">
+            <DynamicIconCloud />
           </div>
           <div className="info " data-aos="fade-left">
             <h1
@@ -47,6 +52,8 @@ function About() {
       <Timeline />
 
       <Education />
+
+      <Certificates />
 
       <Skills />
     </>
