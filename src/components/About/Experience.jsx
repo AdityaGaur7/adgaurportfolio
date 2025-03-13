@@ -1,10 +1,11 @@
 import React, { useEffect, useRef } from "react";
-import { DiAndroid, DiCodeigniter } from "react-icons/di";
+
+import { GoCheckCircle } from "react-icons/go";
 import "./Timeline.css";
 
 const events = [
   {
-    icon: <DiCodeigniter className="img" />,
+    icon: <GoCheckCircle className="img" />,
     title: "MERN STACK DEVELOPER INTERN",
     company: "PUSHPAK VIMAN PVT. LTD.",
     date: "DEC 2024 - PRESENT",
@@ -16,7 +17,7 @@ const events = [
     position: "left",
   },
   {
-    icon: <DiAndroid className="img" />,
+    icon: <GoCheckCircle className="img" />,
     title: "FULL STACK DEVELOPER INTERN",
     company: "IVEGTECH",
     date: "AUG 2024 - DEC 2024",
@@ -29,7 +30,7 @@ const events = [
   },
 
   {
-    icon: <DiCodeigniter className="img" />,
+    icon: <GoCheckCircle className="img" />,
     title: "REACTJS DEVELOPER",
     company: "MMMUT FOUNDATION",
     date: "APR 2024 - JUN 2024",
@@ -41,7 +42,7 @@ const events = [
     position: "left",
   },
   {
-    icon: <DiCodeigniter className="img" />,
+    icon: <GoCheckCircle className="img" />,
     title: "MERN STACK DEVELOPER",
     company: "CODERS AND DEVELOPERS CLUB",
     date: "JAN 2024 - APR 2024",

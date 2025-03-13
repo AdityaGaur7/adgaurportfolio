@@ -86,7 +86,8 @@
 }
 
 .project-info {
-  padding: 25px;
+  padding: 0px 25px;
+  text-align: center;
   background: rgba(29, 37, 47, 0.8);
 }
 
@@ -118,7 +119,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 1000;
+  z-index: 100;
   padding: 25px;
 }
 
@@ -389,7 +390,7 @@
 /* Add these new styles */
 .show-more-btn {
   display: block;
-  margin: 40px auto 0;
+  margin: 40px auto;
   background: transparent;
   border: 2px solid #00e9f8;
   color: #00e9f8;

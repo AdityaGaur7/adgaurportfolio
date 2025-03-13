@@ -8,7 +8,7 @@ function Projects() {
   const [selectedProject, setSelectedProject] = useState(null);
   const [showAll, setShowAll] = useState(false);
 
-  const displayedProjects = showAll ? projectsData : projectsData.slice(0, 8);
+  const displayedProjects = showAll ? projectsData : projectsData.slice(0, 6);
 
   useEffect(() => {
     VanillaTilt.init(document.querySelectorAll(".cd"), {
@@ -63,7 +63,7 @@ function Projects() {
               </div>
               <div className="project-info">
                 <h1>{project.title}</h1>
-                <p>{project.description}</p>
+                {/* <p>{project.description}</p> */}
               </div>
             </div>
           ))}
