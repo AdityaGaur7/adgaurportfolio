@@ -86,8 +86,8 @@
 }
 
 .project-info {
-  padding: 0px 25px;
-  text-align: center;
+  padding: 25px;
+  /* text-align: center; */
   background: rgba(29, 37, 47, 0.8);
 }
 
