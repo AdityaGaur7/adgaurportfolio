@@ -1,0 +1,1061 @@
+[
+    {
+        "title": "MMMUTRESO 📚",
+        "description": "A centralized platform for accessing study resources. MMMUTRESO offers a one-stop solution for students to find and utilize various educational materials and tools, simplifying the process of accessing and organizing study resources.",
+        "image": "images/img/MMMURESO.png",
+        "link": "https://mmmut.xyz",
+        "tags": [
+            "React",
+            "MongoDB",
+            "Express",
+            "Node.js",
+            "Education"
+        ],
+        "longDescription": "MMMUTRESO is a comprehensive educational platform that serves as a central hub for students to access and organize their study materials. The platform features a user-friendly interface, advanced search capabilities, and organized categorization of resources.",
+        "features": [
+            "Centralized resource management",
+            "User authentication",
+            "Search functionality",
+            "Resource categorization",
+            "Mobile responsive design"
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "JWT Authentication"
+        ]
+    },
+    {
+        "title": "SWASTHMITRA",
+        "description": "A platform for providing medical assistance to the needy. SWASTHMITRA offers a one-stop solution for providing medical assistance to the needy, simplifying the process of accessing and organizing medical resources.",
+        "image": "images/img/swasthmitra.png",
+        "link": "https://swasthmitra.com",
+        "tags": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Healthcare"
+        ],
+        "longDescription": "SWASTHMITRA is a comprehensive healthcare platform designed to bridge the gap between medical resources and those in need. The platform facilitates easy access to medical assistance, resource management, and coordination between healthcare providers and patients.",
+        "features": [
+            "Medical resource management",
+            "Healthcare provider directory",
+            "Appointment scheduling",
+            "Resource allocation tracking",
+            "Emergency assistance requests",
+            "Real-time availability updates"
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Socket.io",
+            "JWT Authentication"
+        ]
+    },
+    {
+        "title": "PUSHPAKVIMANDRONE",
+        "description": "A comprehensive e-commerce platform built for selling drones, IoT components, and 3D printing tools. Features include secure Razorpay payment integration, product catalog management, shopping cart functionality, and order tracking.",
+        "image": "images/img/shop_pushpakviman.png",
+        "link": "https://shop.pushpakdroneviman.in/",
+        "tags": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "E-commerce",
+            "Razorpay"
+        ],
+        "longDescription": "PUSHPAKVIMANDRONE is a specialized e-commerce platform catering to drone enthusiasts, IoT developers, and 3D printing professionals. The platform offers a comprehensive catalog of high-quality drones, components, and tools, with secure payment processing and efficient order management.",
+        "features": [
+            "Product catalog management",
+            "Shopping cart functionality",
+            "Secure payment integration",
+            "Order tracking system",
+            "User authentication",
+            "Admin dashboard",
+            "Inventory management"
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Razorpay API",
+            "Redux",
+            "JWT Authentication"
+        ]
+    },
+    {
+        "title": "FLYTIUMDRONE",
+        "description": "A comprehensive e-commerce platform with dynamic content management capabilities.",
+        "image": "images/img/flytiumdrone.png",
+        "link": "https://www.flytiumdrones.com/",
+        "tags": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "CMS",
+            "E-commerce"
+        ],
+        "longDescription": "FLYTIUMDRONE is a sophisticated e-commerce platform that combines powerful content management capabilities with robust e-commerce functionality. The platform features a flexible admin dashboard for complete control over product listings and content management.",
+        "features": [
+            "Dynamic content management",
+            "Role-based access control",
+            "Product category management",
+            "Custom homepage builder",
+            "Order management system",
+            "User authentication",
+            "Payment gateway integration"
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Redux",
+            "JWT",
+            "Payment Gateway APIs"
+        ]
+    },
+    {
+        "title": "MMMUTFOUNDATION",
+        "description": "A comprehensive platform providing industry mentorship, financial assistance, academic support, networking opportunities, and high-tech resources.",
+        "image": "images/img/mmmut_foundation.png",
+        "link": "https://mmmut-foundation-weld.vercel.app/",
+        "tags": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Education",
+            "Mentorship"
+        ],
+        "longDescription": "MMMUTFOUNDATION is a comprehensive platform designed to support student growth and development through various initiatives. The platform connects industry professionals with students, provides financial assistance programs, and offers academic support services to enhance the educational experience.",
+        "features": [
+            "Industry mentorship program",
+            "Financial aid management",
+            "Academic counseling",
+            "Networking events organization",
+            "Resource allocation system",
+            "Progress tracking",
+            "Expert guidance portal"
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "JWT Authentication",
+            "Socket.io"
+        ]
+    },
+    {
+        "title": "LOVE CALCULATOR (EJS)",
+        "description": "An interactive tool that calculates the compatibility between two people based on their names.",
+        "image": "images/img/love-calculator.png",
+        "link": "https://lovecalculator-by-adgaur-qv3s.onrender.com/",
+        "tags": [
+            "EJS",
+            "Node.js",
+            "Express",
+            "CSS",
+            "Entertainment"
+        ],
+        "longDescription": "The Love Calculator is a fun and engaging web application that uses name compatibility algorithms to determine potential romantic matches. It provides users with an entertaining way to explore relationships through name analysis.",
+        "features": [
+            "Name compatibility calculation",
+            "Interactive user interface",
+            "Result visualization",
+            "Share results functionality",
+            "Custom animation effects"
+        ],
+        "technologies": [
+            "EJS templating",
+            "Node.js",
+            "Express",
+            "CSS3 animations",
+            "JavaScript"
+        ]
+    },
+    {
+        "title": "AI INTEGRATED FLASHCARDS (MERN)",
+        "description": "Developed an AI-driven flashcard app with Google Login for secure access, supporting over 1,000 users.",
+        "image": "images/img/flashcard.png",
+        "link": "https://tuf-task-frontend-nu.vercel.app/",
+        "tags": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "AI",
+            "Education"
+        ],
+        "longDescription": "An innovative flashcard application that leverages artificial intelligence to enhance learning experiences. The platform supports thousands of users with AI-powered explanations and text-to-speech functionality for comprehensive learning.",
+        "features": [
+            "AI-powered explanations",
+            "Google Authentication",
+            "Text-to-speech functionality",
+            "CRUD operations for flashcards",
+            "Progress tracking",
+            "Search and filter capabilities"
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "MongoDB",
+            "Google OAuth",
+            "AI APIs",
+            "Web Speech API"
+        ]
+    },
+    {
+        "title": "ADMIN PANEL (MERN)",
+        "description": "A robust admin panel built using the MERN stack for managing an eCommerce application.",
+        "image": "images/img/AdminPanel.png",
+        "link": "https://mern-ecomm-yk9t.vercel.app/",
+        "tags": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Admin Dashboard"
+        ],
+        "longDescription": "A comprehensive admin dashboard that provides complete control over an eCommerce platform. The panel offers intuitive interfaces for managing products, orders, users, and analytics.",
+        "features": [
+            "Product management",
+            "Order processing",
+            "User management",
+            "Analytics dashboard",
+            "Inventory tracking",
+            "Sales reporting"
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Chart.js",
+            "JWT Authentication"
+        ]
+    },
+    {
+        "title": "SOCIAPP (EJS)",
+        "description": "A social media application developed with Express and MongoDB.",
+        "image": "images/img/SociApp.png",
+        "link": "https://animgram.onrender.com/",
+        "tags": [
+            "EJS",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Social Media"
+        ],
+        "longDescription": "SOCIAPP is a feature-rich social media platform that enables users to connect, share content, and interact with their community. The application provides a seamless experience for users to express themselves and engage with others through various social features.",
+        "features": [
+            "User profile management",
+            "Post creation and sharing",
+            "Real-time interactions",
+            "Comment system",
+            "Like functionality",
+            "Follow/Unfollow system",
+            "Feed customization"
+        ],
+        "technologies": [
+            "EJS templating",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Socket.io",
+            "JWT Authentication"
+        ]
+    },
+    {
+        "title": "TRAVEL & TOURS (NEXTJS)",
+        "description": "A comprehensive travel website that lists renowned travel destinations around the world.",
+        "image": "images/img/Travel&Tours.png",
+        "link": "https://tripowa-tours-pvt-ltd-task.vercel.app/",
+        "tags": [
+            "Next.js",
+            "React",
+            "Node.js",
+            "MongoDB",
+            "Travel"
+        ],
+        "longDescription": "A sophisticated travel platform that showcases destinations worldwide, providing detailed information about tourist spots, attractions, and travel tips. The website offers an immersive experience for travel enthusiasts to discover and plan their next adventure.",
+        "features": [
+            "Destination catalog",
+            "Interactive maps",
+            "Travel guides",
+            "Booking system",
+            "User reviews",
+            "Travel tips",
+            "Photo galleries"
+        ],
+        "technologies": [
+            "Next.js",
+            "React",
+            "Node.js",
+            "MongoDB",
+            "Google Maps API",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "PAYMENT GATEWAY INTEGRATION (MERN)",
+        "description": "A sophisticated payment gateway solution supporting multiple payment methods.",
+        "image": "images/img/PaymentGateway.png",
+        "link": "https://cal-al-frontend.vercel.app/",
+        "tags": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Payment Gateway"
+        ],
+        "longDescription": "A robust payment processing system that integrates multiple payment methods including PayPal, credit cards, and Stripe. The platform ensures secure transactions with Google Authentication and provides a seamless payment experience for users and businesses.",
+        "features": [
+            "Multiple payment methods",
+            "Google Authentication",
+            "Transaction history",
+            "Payment analytics",
+            "Secure processing",
+            "User dashboard",
+            "Receipt generation"
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Stripe API",
+            "PayPal API",
+            "Google OAuth"
+        ]
+    },
+    {
+        "title": "INVOICE GENERATOR (REACTJS)",
+        "description": "An efficient tool for creating and managing invoices for sales and marketing companies.",
+        "image": "images/img/InvoiceGen.png",
+        "link": "https://invoice-generator-sand-six.vercel.app/",
+        "tags": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "Business",
+            "Finance"
+        ],
+        "longDescription": "A comprehensive invoice management system designed for businesses to create, track, and manage professional invoices. The application streamlines the billing process with customizable templates and efficient tracking features.",
+        "features": [
+            "Custom invoice templates",
+            "Payment tracking",
+            "Client management",
+            "PDF generation",
+            "Email integration",
+            "Financial reporting",
+            "Tax calculation"
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "MongoDB",
+            "PDF.js",
+            "Email API",
+            "Cloud Storage"
+        ]
+    },
+    {
+        "title": "MOVIE LISTING (REACTJS)",
+        "description": "A dynamic website showcasing a curated list of popular movies.",
+        "image": "images/img/MovieList.png",
+        "link": "https://mymovie-phi.vercel.app/",
+        "tags": [
+            "React",
+            "API Integration",
+            "CSS",
+            "Entertainment"
+        ],
+        "longDescription": "A comprehensive movie database platform that provides detailed information about films, including genres, ratings, and descriptions. The website features an intuitive interface for users to discover and explore movies based on their preferences.",
+        "features": [
+            "Movie search",
+            "Genre filtering",
+            "Rating system",
+            "Watchlist creation",
+            "Movie recommendations",
+            "Detailed movie info",
+            "Responsive design"
+        ],
+        "technologies": [
+            "React.js",
+            "Movie Database API",
+            "CSS3",
+            "Local Storage",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "CDC WEBSITE (MERN)",
+        "description": "A website for the Coders And Developers Club providing information and resources.",
+        "image": "images/img/CDC.png",
+        "link": "https://cdc-website-vrqu.vercel.app/",
+        "tags": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Education"
+        ],
+        "longDescription": "A comprehensive platform for the Coders And Developers Club that manages events, contests, and resources. The website serves as a central hub for club activities, providing features for event management, contest participation, and certificate verification.",
+        "features": [
+            "Event management",
+            "Contest tracking",
+            "Query resolution system",
+            "Certificate verification",
+            "Resource library",
+            "Member management",
+            "Announcement system"
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "JWT Authentication",
+            "Cloud Storage"
+        ]
+    },
+    {
+        "title": "SEARCH PKMN (REACTJS)",
+        "description": "A Pokémon search application built with React.js. This tool allows users to search for and view information about various Pokémon with their images.",
+        "image": "images/img/pokemon.png",
+        "link": "https://pokemonsearchbyadgaur.netlify.app/",
+        "tags": [
+            "React",
+            "API Integration",
+            "CSS",
+            "Entertainment"
+        ],
+        "longDescription": "A Pokémon search application built with React.js. This tool allows users to search for and view information about various Pokémon with their images.",
+        "features": [
+            "Pokémon search",
+            "Image display",
+            "Detailed information",
+            "Responsive design"
+        ],
+        "technologies": [
+            "React.js",
+            "PokéAPI",
+            "CSS3",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "WASSUP 💬 (NODEJS)",
+        "description": "A chat application where users can communicate in real-time. Use the room ID 'ADGAUR' to join the chat room and start conversing with others.",
+        "image": "images/img/chatapp.png",
+        "link": "https://wassup-by-adgaur.vercel.app/",
+        "tags": [
+            "Node.js",
+            "Socket.io",
+            "Chat Application"
+        ],
+        "longDescription": "A chat application where users can communicate in real-time. Use the room ID 'ADGAUR' to join the chat room and start conversing with others.",
+        "features": [
+            "Real-time chat",
+            "Room-based communication",
+            "User authentication",
+            "Message history",
+            "Typing indicators",
+            "Responsive design"
+        ],
+        "technologies": [
+            "Node.js",
+            "Socket.io",
+            "Express",
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
+    },
+    {
+        "title": "WEATHER APP (REACTJS)",
+        "description": "An application designed to provide weather updates before you head out. It helps you check the current weather conditions and forecasts to plan your day accordingly.",
+        "image": "images/img/weather-app.png",
+        "link": "https://weather-api-five-delta.vercel.app/",
+        "tags": [
+            "React",
+            "API Integration",
+            "Weather"
+        ],
+        "longDescription": "An application designed to provide weather updates before you head out. It helps you check the current weather conditions and forecasts to plan your day accordingly.",
+        "features": [
+            "Real-time weather updates",
+            "Hourly and daily forecasts",
+            "Location-based weather",
+            "Responsive design",
+            "User-friendly interface"
+        ],
+        "technologies": [
+            "React.js",
+            "OpenWeatherMap API",
+            "CSS3",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "EMBRACE ARTS (NEXTJS)",
+        "description": "A Next.js-based platform showcasing various artworks. EMBRACE ARTS serves as a digital gallery to explore and appreciate different forms of art.",
+        "image": "images/img/Artwork.png",
+        "link": "https://art-silk.vercel.app/",
+        "tags": [
+            "Next.js",
+            "Art Gallery",
+            "Responsive Design"
+        ],
+        "longDescription": "A sophisticated digital art gallery platform built with Next.js that provides art enthusiasts with an immersive experience to explore and appreciate various forms of artwork. The platform features high-quality image displays, artist information, and interactive gallery navigation.",
+        "features": [
+            "Artwork display",
+            "Artist profiles",
+            "Artistic insights",
+            "Responsive design",
+            "User-friendly interface"
+        ],
+        "technologies": [
+            "Next.js",
+            "React",
+            "CSS3",
+            "Responsive Design",
+            "Image Optimization",
+            "Cloud Storage"
+        ]
+    },
+    {
+        "title": "EDUCATE GIRLCHILD",
+        "description": "A project dedicated to promoting the education of girls. This initiative emphasizes the importance of educating girls and its impact on the development of communities and nations.",
+        "image": "images/img/educate girl.png",
+        "link": "https://educate-girlchild-by-adgaur.netlify.app/",
+        "tags": [
+            "React",
+            "Responsive Design",
+            "Education"
+        ],
+        "longDescription": "An advocacy platform dedicated to promoting girls' education worldwide. The project showcases success stories, educational resources, and initiatives aimed at breaking down barriers to girls' education. It serves as an information hub and call-to-action platform for supporting girls' education.",
+        "features": [
+            "Success stories showcase",
+            "Educational resources",
+            "Donation integration",
+            "Impact metrics",
+            "Awareness campaigns"
+        ],
+        "technologies": [
+            "React.js",
+            "CSS3",
+            "Responsive Design",
+            "Analytics Integration",
+            "Content Management System"
+        ]
+    },
+    {
+        "title": "ROBOMANIA CLONE",
+        "description": "A responsive clone of the Robomania website. This multipage site replicates the original design and functionality, providing a seamless user experience.",
+        "image": "images/img/robomania-clone.png",
+        "link": "https://adityagaur7.github.io/robomania-clone-by-adgaur.github.io/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Responsive Design"
+        ],
+        "longDescription": "A meticulously crafted clone of the Robomania website that maintains the original site's functionality and design aesthetics. This multipage responsive website demonstrates advanced CSS implementations and modern web development practices.",
+        "features": [
+            "Responsive layout",
+            "Interactive UI elements",
+            "Cross-browser compatibility",
+            "Performance optimization",
+            "Modern design principles"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Responsive Design",
+            "CSS Grid/Flexbox"
+        ]
+    },
+    {
+        "title": "PET ITEM CART",
+        "description": "An eCommerce landing page for pet products. PET ITEM CART offers a variety of essential items for pets, including food, toys, and accessories.",
+        "image": "images/img/landing-page-pet-shop.png",
+        "link": "https://adityagaur7.github.io/Octanet-task1-landing-page-byadgaur/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Responsive Design"
+        ],
+        "longDescription": "A modern e-commerce landing page specialized in pet products, featuring an intuitive interface for browsing and purchasing pet supplies. The design focuses on user experience and conversion optimization.",
+        "features": [
+            "Product showcases",
+            "Category filtering",
+            "Responsive design",
+            "Quick view functionality",
+            "Shopping cart preview"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Responsive Design",
+            "Local Storage"
+        ]
+    },
+    {
+        "title": "NETFLIX CLONE",
+        "description": "A clone of the Netflix interface that allows users to browse and stream movies and TV shows. It replicates the Netflix experience with a similar design and functionality.",
+        "image": "images/img/netfrlix clone.png",
+        "link": "https://lnkd.in/djM-j3Cr",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Responsive Design"
+        ],
+        "longDescription": "A faithful recreation of Netflix's user interface, demonstrating advanced front-end development skills. The clone features responsive design, dynamic content loading, and smooth animations similar to the original platform.",
+        "features": [
+            "Responsive layout",
+            "Dynamic content loading",
+            "Carousel implementation",
+            "Search functionality",
+            "Category browsing"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Responsive Design",
+            "CSS Animations"
+        ]
+    },
+    {
+        "title": "MYNTRA CLONE",
+        "description": "A clone of the Myntra eCommerce website. This project provides an online shopping experience similar to Myntra, with features for browsing and purchasing fashion items.",
+        "image": "images/img/myntra-clone.png",
+        "link": "https://myntra-clone-by-adgaur.netlify.app/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "E-commerce",
+            "Responsive Design"
+        ],
+        "longDescription": "A comprehensive clone of Myntra's e-commerce platform that replicates the core shopping experience. The project demonstrates advanced front-end development techniques and responsive design principles to create a seamless fashion shopping interface.",
+        "features": [
+            "Product catalog display",
+            "Category navigation",
+            "Search functionality",
+            "Wishlist management",
+            "Shopping cart",
+            "Responsive layout"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Local Storage",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "TESLA CLONE",
+        "description": "A website clone for Tesla, showcasing advanced automobiles and technologies. The site emulates Tesla's design and features to provide an engaging user experience.",
+        "image": "images/img/Tesla-clone.png",
+        "link": "https://tesla-clone-by-adgaur.netlify.app/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Automotive",
+            "Responsive Design"
+        ],
+        "longDescription": "A pixel-perfect recreation of Tesla's official website, showcasing their electric vehicles and innovative technologies. The clone features smooth animations, responsive design, and interactive elements that mirror Tesla's premium brand experience.",
+        "features": [
+            "Vehicle showcase",
+            "Interactive galleries",
+            "Smooth scrolling animations",
+            "Responsive design",
+            "Product specifications",
+            "Custom UI components"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "CSS Animations",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "MICROSOFT CLONE",
+        "description": "A site that mimics Microsoft's design and functionality, offering a similar user experience to Microsoft's official site. It covers various services and products provided by Microsoft.",
+        "image": "images/img/microsoft-clone.png",
+        "link": "https://adityagaur7.github.io/microsoftclonebyadgaur.github.io/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Corporate",
+            "Responsive Design"
+        ],
+        "longDescription": "A detailed reproduction of Microsoft's corporate website, featuring their products, services, and company information. The clone demonstrates modern web development practices and maintains Microsoft's professional aesthetic and functionality.",
+        "features": [
+            "Product showcases",
+            "Navigation menus",
+            "News sections",
+            "Interactive elements",
+            "Responsive grid layout",
+            "Cross-browser compatibility"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "CSS Grid",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "ANIME SKETCH",
+        "description": "A collection of anime sketches showcasing personal artwork. This project highlights various sketches and illustrations inspired by anime characters and themes.",
+        "image": "images/img/sketch-anime.png",
+        "link": "https://adityagaur7.github.io/sketch-collection-by-Adgaur.github.io/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Art Gallery",
+            "Responsive Design"
+        ],
+        "longDescription": "A digital gallery showcasing a collection of hand-drawn anime artwork. The platform provides an elegant way to display and navigate through various anime-inspired sketches while maintaining optimal image quality and presentation.",
+        "features": [
+            "Image gallery",
+            "Artwork categorization",
+            "Lightbox view",
+            "Artist information",
+            "Responsive image grid"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Image Optimization",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "KONOHA KART",
+        "description": "A merchandise store for Naruto anime fans. KONOHA KART offers a range of Naruto-themed products, including clothing, accessories, and collectibles.",
+        "image": "images/img/konoha-kart.png",
+        "link": "https://adityagaur7.github.io/animeadgaur.github.io/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "E-commerce",
+            "Anime",
+            "Responsive Design"
+        ],
+        "longDescription": "An e-commerce platform dedicated to Naruto anime merchandise, featuring a wide range of products for fans. The store combines attractive design with user-friendly shopping experience, catering to anime enthusiasts.",
+        "features": [
+            "Product catalog",
+            "Shopping cart",
+            "Category filtering",
+            "Product search",
+            "Responsive design",
+            "Anime-themed UI"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Local Storage",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "PROPOSAL TO CRUSH",
+        "description": "A creative web page designed for making a proposal to your crush. This project provides a fun and engaging way to express your feelings.",
+        "image": "images/img/proposal.png",
+        "link": "https://adityagaur7.github.io/proposal-by-adgaur.github.io/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Interactive",
+            "Responsive Design"
+        ],
+        "longDescription": "An interactive and playful web application designed to create a memorable way of expressing romantic interest. The project features creative animations and engaging user interactions to make the proposal experience unique.",
+        "features": [
+            "Interactive elements",
+            "Custom animations",
+            "Multiple choice options",
+            "Responsive design",
+            "Personalized messages"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "CSS Animations",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "IMAGE-GENERATOR",
+        "description": "An image generation tool that allows users to search for and generate images based on specific queries. This project enables easy access to a wide range of images.",
+        "image": "images/img/img-generator.png",
+        "link": "https://adityagaur7.github.io/SearchImage-byAdgaur.github.io/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "API Integration",
+            "Responsive Design"
+        ],
+        "longDescription": "A powerful image search and generation tool that leverages API integration to provide users with access to a vast library of images. The application offers efficient search functionality and image preview capabilities.",
+        "features": [
+            "Image search",
+            "Filter options",
+            "Preview functionality",
+            "Download capability",
+            "Responsive gallery"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "RESTful APIs",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "DATECRUSH FLIPBOOK🙈",
+        "description": "A digital flipbook for asking someone out on a date. This playful project combines creativity with interactive design to make a memorable impression.",
+        "image": "images/img/dateCrush.png",
+        "link": "https://adityagaur7.github.io/DatingCrush-ByAdgaur/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Interactive",
+            "Responsive Design"
+        ],
+        "longDescription": "An interactive digital flipbook that creates an engaging way to ask someone on a date. The project features smooth page transitions, animated elements, and a story-like progression to create a memorable experience.",
+        "features": [
+            "Page flip animations",
+            "Interactive elements",
+            "Progressive story",
+            "Custom illustrations",
+            "Response handling"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "CSS Animations",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "ROCK-PAPER-SCISSOR",
+        "description": "A classic rock-paper-scissors game where you can compete against an AI. This project provides a fun way to test your luck and strategy against a computer opponent.",
+        "image": "images/img/rock-paper-scissor.png",
+        "link": "https://rock-paper-scissor-gameby-adgaur.netlify.app/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Game",
+            "Responsive Design"
+        ],
+        "longDescription": "A modern implementation of the classic rock-paper-scissors game with an AI opponent. The game features smooth animations, score tracking, and an intuitive interface for an engaging gaming experience.",
+        "features": [
+            "Game logic",
+            "Score tracking",
+            "AI opponent",
+            "Animations",
+            "Round history"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Game Logic",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "Calculator",
+        "description": "A basic calculator designed to perform everyday mathematical operations. This tool is straightforward and user-friendly, ideal for quick calculations.",
+        "image": "images/img/calculator.png",
+        "link": "https://lnkd.in/dipRqRU4",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Utility",
+            "Responsive Design"
+        ],
+        "longDescription": "A fully functional calculator application that handles basic arithmetic operations with a clean, modern interface. The calculator features real-time calculation and a responsive design for various screen sizes.",
+        "features": [
+            "Basic arithmetic",
+            "Clear function",
+            "History tracking",
+            "Keyboard support",
+            "Error handling"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Math Operations",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "LoginPage",
+        "description": "A login page implemented using PHP. This project features a simple and secure login interface for user authentication.",
+        "image": "images/img/login-byphp.png",
+        "link": "http://beauty7112.000webhostapp.com/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "PHP",
+            "Authentication",
+            "Responsive Design"
+        ],
+        "longDescription": "A secure login interface implementing PHP-based authentication. The page features form validation, secure password handling, and a clean, professional design suitable for various applications.",
+        "features": [
+            "User authentication",
+            "Form validation",
+            "Error handling",
+            "Security measures",
+            "Remember me function"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "PHP",
+            "MySQL",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "Temp Converter",
+        "description": "A temperature conversion tool that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. Useful for quickly converting temperature values.",
+        "image": "images/img/temp-converter.png",
+        "link": "https://lnkd.in/d86bPJCb",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Utility",
+            "Responsive Design"
+        ],
+        "longDescription": "A temperature conversion utility that allows users to convert between different temperature scales. The tool provides instant conversion results with a clean, user-friendly interface.",
+        "features": [
+            "Multiple scale conversion",
+            "Real-time updates",
+            "Input validation",
+            "Clear function",
+            "Conversion history"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Math Functions",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "Live Time",
+        "description": "A live clock application that displays the current time. This project offers a straightforward way to keep track of time.",
+        "image": "images/img/live-time.png",
+        "link": "https://adityagaur7.github.io/adityaproj/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Utility",
+            "Responsive Design"
+        ],
+        "longDescription": "A real-time clock application that displays current time with precision. The clock features multiple display formats and smooth updates, providing an accurate time-keeping solution.",
+        "features": [
+            "Real-time updates",
+            "Multiple time formats",
+            "Digital display",
+            "Time zone support",
+            "Clean interface"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Date Object",
+            "Responsive Design"
+        ]
+    },
+    {
+        "title": "Einstein Tribute Page",
+        "description": "A tribute page dedicated to Albert Einstein, featuring quotes and information about his contributions to science. This project celebrates Einstein's legacy with a well-designed tribute.",
+        "image": "images/img/tribute-page.png",
+        "link": "https://adityagaur7.github.io/tributepage-by-adgaur.github.io/",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Educational",
+            "Biography",
+            "Responsive Design"
+        ],
+        "longDescription": "A comprehensive tribute page honoring Albert Einstein's life and contributions to science. The page presents his achievements, quotes, and impact on modern physics through an engaging and informative layout.",
+        "features": [
+            "Biography timeline",
+            "Quote collection",
+            "Scientific achievements",
+            "Image gallery",
+            "Educational content"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "Responsive Design",
+            "CSS Grid",
+            "Image Optimization"
+        ]
+    },
+    {
+        "title": "To Do App",
+        "description": "A task management application that helps users organize and track their to-do items. This tool is designed to increase productivity by providing an easy way to manage tasks.",
+        "image": "images/img/to-do-app.png",
+        "link": "https://lnkd.in/dnGfeTqS",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Responsive Design"
+        ],
+        "longDescription": "A practical task management application that helps users organize their daily activities. Features include task creation, completion tracking, and priority management, all wrapped in a clean and intuitive interface.",
+        "features": [
+            "Task creation and editing",
+            "Priority settings",
+            "Task categories",
+            "Progress tracking",
+            "Data persistence"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Local Storage",
+            "Responsive Design"
+        ]
+    }
+]

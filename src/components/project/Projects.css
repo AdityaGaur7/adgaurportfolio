@@ -87,8 +87,25 @@
 
 .project-info {
   padding: 25px;
-  /* text-align: center; */
   background: rgba(29, 37, 47, 0.8);
+}
+
+.client-info {
+  margin-top: 10px !important;
+  font-size: 0.9em !important;
+  color: #00e9f8 !important;
+  font-style: italic;
+}
+
+.client-type {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin: 0;
+  padding: 5px 15px;
+  background: rgba(0, 233, 248, 0.08);
+  border-radius: 8px;
+  display: inline-block;
 }
 
 .project-info h1 {

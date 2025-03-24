@@ -64,6 +64,7 @@ function Projects() {
               <div className="project-info">
                 <h1>{project.title}</h1>
                 <p>{project.description}</p>
+                <p className="client-info">{project.client}</p>
               </div>
             </div>
           ))}
@@ -99,6 +100,11 @@ function Projects() {
                     <li key={index}>{feature}</li>
                   ))}
                 </ul>
+              </div>
+
+              <div className="modal-section">
+                <h3>Client</h3>
+                <p className="client-type">{selectedProject.client}</p>
               </div>
 
               <div className="modal-section">
