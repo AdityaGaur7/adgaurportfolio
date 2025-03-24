@@ -55,7 +55,7 @@ const Cont = () => {
               Passionate about <strong>Competitive Programming</strong> &{" "}
               <strong>Backend Development</strong> with RESTful APIs. <br />
               Built <strong>Scalable Systems</strong> using{" "}
-              <strong>Socket.IO, Redis, Kafka, PostgreSQL, Spring Boot</strong>,
+              <strong>Socket.IO, Redis, Kafka, PostgreSQL,Next.Js</strong>,
               and <strong>JWT Authentication</strong>. <br />
               Learning to Improve, Not Just to Prove | Will Make Mom{" "}
               <strong>PROUD</strong> 💖
