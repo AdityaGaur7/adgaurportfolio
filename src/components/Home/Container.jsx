@@ -35,7 +35,7 @@ const Cont = () => {
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
           >
-            <h3>Hi ,it's Me</h3>
+            <h3>Hi, it's Me</h3>
             <h1>
               I'm{" "}
               <span
@@ -49,14 +49,16 @@ const Cont = () => {
               </span>
             </h1>
             <span id="element"></span>
-            <p>
-              PRE FINAL YEAR BTECH STUDENT || SKILLED AT C++, MERN, ANGULAR
-              JS,NEXT JS
-              <br />
-              AND DOING COMPETITIVE PROGRAMMING & <span>BACKEND</span> WITH
-              RESTFUL-API IN <span>MERN STACK </span>
-              <br /> LEARNING TO IMPROVE NOT TO PROVE || LONG WAY TO GO ||
-              <br /> WILL MAKE MOM <span>PROUD</span>💖 ONE DAY
+            <p className="text-cont">
+              PRE-FINAL YEAR B.TECH STUDENT | Skilled in C++, MERN, AngularJS,
+              Next.js <br />
+              Passionate about <strong>Competitive Programming</strong> &{" "}
+              <strong>Backend Development</strong> with RESTful APIs. <br />
+              Built <strong>Scalable Systems</strong> using{" "}
+              <strong>Socket.IO, Redis, Kafka, PostgreSQL, Spring Boot</strong>,
+              and <strong>JWT Authentication</strong>. <br />
+              Learning to Improve, Not Just to Prove | Will Make Mom{" "}
+              <strong>PROUD</strong> 💖
             </p>
 
             <div className="handle glow">

@@ -59,6 +59,11 @@
     color: #fff;
 }
 
+.text-cont {
+    font-family: 'DM Sans';
+    /* text-align: left; */
+}
+
 .certificate-info p {
     margin: 5px 0;
     color: #ccc;
