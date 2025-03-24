@@ -4,6 +4,25 @@ import "./About.css";
 function Certificates() {
   const certificates = [
     {
+      "title": "Software Developer Intern",
+      "issuer": "IVEGTech",
+      "date": "Aug 2024 - Dec 2024",
+      "image": "images/certificates/ivegtech.png",
+      "link": "https://drive.google.com/file/d/1cfmCj-m_wyrpxeMuBcpgmduKXmmDC6AZ/view",
+      "skills": [
+          "AngularJS",
+          "Bootstrap",
+          "Java",
+          "Spring Boot",
+          "SQL",
+          "JWT Authentication",
+          "Product Management",
+          "User Authentication System",
+          "Admin Controls",
+          "High-performance Optimization"
+      ]
+  },
+    {
       title: "Postman API Fundamentals Student Expert",
       issuer: "Postman",
       date: "Nov 2024",
@@ -70,7 +89,7 @@ function Certificates() {
 
   return (
     <div className="certificates-section" id="certificates">
-      <h1 className="section-title" data-aos="fade-up">
+      <h1 className="section-title skills-title" data-aos="fade-up">
         Certificates
       </h1>
       <div className="certificates-grid">

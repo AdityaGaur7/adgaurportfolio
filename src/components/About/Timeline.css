@@ -1,6 +1,6 @@
 .experience {
   padding: 4rem 2rem;
-  background-color: #1d252f;
+  /* background-color: #0c0c0e; */
   position: relative;
 }
 
@@ -60,7 +60,7 @@
   right: -20px;
   top: 32px;
   z-index: 10;
-  background: #1d252f;
+  background: #0c0c0e;
   border: 2px solid #00E8F8;
   border-radius: 50%;
   display: flex;
@@ -76,7 +76,7 @@
 
 .text-box {
   padding: 20px 30px;
-  background: #2b3541;
+  background: #2b35411f;
   position: relative;
   border-radius: 6px;
   border: 1px solid #00E8F8;

@@ -23,16 +23,22 @@ function About() {
                 textShadow: "black 4px 4px 2px",
               }}
             >
-              <span>ABOUT </span>ME
+              <span>ABOUT</span> ME
             </h1>
             <p>
-              An Engineering Enthusiastic Learning to quench the curiosity
+              An Engineering Enthusiast driven by curiosity and a passion for
+              technology.
               <br />
-              and Exploring different Stuffs of Tech . I enjoy building,
-              learning Websites and I'm always looking <br />
-              for new challenges and opportunities to grow my skills. Let's
-              connect and create something great together!
+              I thrive on building and learning scalable applications,
+              constantly exploring new technologies to enhance my skill set.
+              <br />
+              From developing real-time distributed systems to creating dynamic
+              web applications, I'm always seeking new challenges to grow and
+              innovate.
+              <br />
+              Let's connect and turn exciting ideas into reality!
             </p>
+
             <div className="icon">
               <i className="fa-solid fa-phone"></i>
               <a href="tel:+917408677090">+91 7408677090</a> <br />

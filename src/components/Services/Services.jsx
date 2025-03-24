@@ -3,8 +3,8 @@ import CodingProfile from "./CodingProfile"
 function Services() {
   return (
     <div className='servicesection'>
-         <div class="msg">
-        <h1 id="cnt"> <span>SERV</span>ICES</h1>
+         <div class="msg ">
+        <h1 id="cnt "> <span>SERV</span>ICES</h1>
          </div>
        <div className="services">
         <div className="service">

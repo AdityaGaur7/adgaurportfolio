@@ -36,7 +36,7 @@ html {
 }
 
 body {
-    background-color: #1d252f;
+    background-color: #0c0c0e;
     overflow-x: hidden;
 }
 
@@ -97,7 +97,7 @@ body {
     font-weight: 900;
     transition: ease .15s;
     padding: 1rem;
-    background-color: #1d252f;
+    background-color: #0c0c0e;
     border: 1px solid white;
 }
 
@@ -256,7 +256,7 @@ span:hover {
 }
 
 .info button {
-    background-color: #1d252f;
+    background-color: #0c0c0e;
     border: 1px solid #00E8F8;
     padding: 8px 10px;
     border-radius: 3px;
@@ -274,13 +274,13 @@ span:hover {
 @keyframes glow {
     from {
         background-color: #00E8F8;
-        color: #1d252f;
+        color: #0c0c0e;
         transform: translateY(2px);
 
     }
 
     to {
-        background-color: #1d252f;
+        background-color: #0c0c0e;
         color: rgb(247, 246, 246);
         transform: translateY(-2px);
 
@@ -508,7 +508,7 @@ span:hover {
 }
 
 .card button {
-    background-color: #1d252f;
+    background-color: #0c0c0e;
     border: 1px solid #00E8F8;
     padding: 8px 10px;
     border-radius: 3px;
@@ -593,7 +593,7 @@ span:hover {
 
 .sampark input,
 textarea {
-    background-color: #1d252f;
+    background-color: #0c0c0e;
     color: #f5f3f3;
     padding: 7px;
     margin: 10px;
@@ -604,7 +604,7 @@ textarea {
 }
 
 #btn {
-    background-color: #1d252f;
+    background-color: #0c0c0e;
     border: 1px solid #00E8F8;
     padding: 8px 10px;
     border-radius: 3px;

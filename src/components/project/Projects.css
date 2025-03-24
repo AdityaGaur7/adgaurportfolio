@@ -87,7 +87,7 @@
 
 .project-info {
   padding: 25px;
-  background: rgba(29, 37, 47, 0.8);
+  /* background: rgba(29, 37, 47, 0.8); */
 }
 
 .client-info {
@@ -141,7 +141,7 @@
 }
 
 .modal-content {
-  background: linear-gradient(135deg, #1d252f 0%, #151b22 100%);
+  background: linear-gradient(135deg, #0c0c0e 0%, #151b22 100%);
   border: 1px solid rgba(0, 233, 248, 0.3);
   border-radius: 20px;
   width: 95%;
@@ -306,7 +306,7 @@
   align-items: center;
   gap: 10px;
   background: linear-gradient(135deg, #00e9f8 0%, #00c6d1 100%);
-  color: #1d252f;
+  color: #0c0c0e;
   padding: 14px 14px;
   border-radius: 50%;
   text-decoration: none;

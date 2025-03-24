@@ -85,7 +85,7 @@ const Timeline = () => {
 
   return (
     <div className="experience">
-      <h3 className="experience-title">Experience & Works</h3>
+      <h3 className="experience-title skills-title">Experience & Works</h3>
       <div ref={timelineRef} className="timeline">
         {events.map((event, index) => (
           <div
