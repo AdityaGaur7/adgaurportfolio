@@ -3,7 +3,7 @@
     "title": "Real-time Distributed Chat System",
     "description": "A scalable real-time chat application enabling low-latency communication using a microservices architecture built with Next.js, Socket.IO, Redis, Apache Kafka, and PostgreSQL.",
     "image": "images/img/realtime-chat-system.png",
-    "link": "https://yourchatapp.com",
+    "link": "https://github.com/AdityaGaur7/Real-time-Distributed-Chat-System",
     "client": "Personal Project",
     "tags": [
       "Next.js",
