@@ -13,7 +13,24 @@ import "aos/dist/aos.css";
 
 import Home from "./Home/Home";
 
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  useLocation,
+} from "react-router-dom";
+
+// Create a new ScrollToTop component
+function ScrollToTop() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+}
+
 function Main() {
   useEffect(() => {
     Aos.init({ duration: 2000 });
@@ -21,6 +38,7 @@ function Main() {
   return (
     <Router>
       <div>
+        <ScrollToTop />
         <div className="App">
           <AnimatedCursor
             hasBlendMode={true}
