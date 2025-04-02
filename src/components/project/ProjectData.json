@@ -199,7 +199,7 @@
     "title": "LOVE CALCULATOR (EJS)",
     "description": "An interactive tool that calculates the compatibility between two people based on their names.",
     "image": "images/img/love-calculator.png",
-    "link": "https://lovecalculator-by-adgaur-qv3s.onrender.com/",
+    "link": "https://love-calculator-by-adgaur-67j6.vercel.app",
     "client": "Personal Project",
     "tags": [
       "EJS",
