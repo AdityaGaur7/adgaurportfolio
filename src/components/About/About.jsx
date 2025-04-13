@@ -61,7 +61,7 @@ function About() {
 
       <Certificates />
 
-      <Skills />
+      {/* <Skills /> */}
     </>
   );
 }
