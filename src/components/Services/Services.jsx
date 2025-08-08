@@ -13,33 +13,35 @@ function Services() {
         <div className="service">
           <div className="bx" data-aos="flip-up">
             <span>
-              <i class="fa-solid fa-code-compare"></i>
+              <i class="fa-solid fa-laptop-code"></i>
             </span>
-            <h2>WEB DEV</h2>
+            <h2>SOFTWARE DEVELOPER</h2>
             <p>
-              Has deep understanding of Frontend as well as Backend Frameworks
-              with Github and AWS
+              Expert in full-stack development with proficiency in modern
+              frameworks, databases, and cloud technologies to build scalable
+              applications
             </p>
           </div>
           <div className="bx" data-aos="flip-up">
             <span>
               {" "}
-              <i className="fa-solid fa-crop-simple"></i>
+              <i className="fa-solid fa-bug"></i>
             </span>
-            <h2>UI/UX</h2>
+            <h2>SOFTWARE TESTING</h2>
             <p>
-              Can create a Positive and Attractive User Interface, User Friendly
-              Experience
+              Skilled in manual and automated testing methodologies, ensuring
+              high-quality software delivery through comprehensive testing
+              strategies
             </p>
           </div>
           <div className="bx" data-aos="flip-up">
             <span>
-              <i className="fa-solid fa-code "></i>
+              <i className="fa-solid fa-tasks"></i>
             </span>
-            <h2>PROBLEM SOLVER</h2>
+            <h2>PROJECT MANAGEMENT</h2>
             <p>
-              Have Good Grasp over data Structure & Algorithm and has solved
-              over 400+ problems
+              Experienced in Agile methodologies, team coordination, and project
+              planning to deliver projects on time and within scope
             </p>
           </div>
         </div>

@@ -7,6 +7,7 @@ import Back from "./Home/Backg";
 import Services from "./Services/Services";
 import Contact from "./Contact/Contact";
 import Projects from "./project/Projects";
+import ProjectDetail from "./project/ProjectDetail";
 import About from "./About/About";
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -84,6 +85,7 @@ function Main() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/project" element={<Projects />} />
+          <Route path="/project/:projectId" element={<ProjectDetail />} />
           <Route path="/profile" element={<Services />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>

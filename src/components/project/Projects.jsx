@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom";
 import projectsData from "./ProjectData";
 import VanillaTilt from "vanilla-tilt";
 import { FiExternalLink } from "react-icons/fi";
 import "./Projects.css"; // Make sure you include the CSS file
 
 function Projects() {
-  const [selectedProject, setSelectedProject] = useState(null);
+  const navigate = useNavigate();
   const [showAll, setShowAll] = useState(false);
 
   const displayedProjects = showAll ? projectsData : projectsData.slice(0, 6);
@@ -22,12 +23,8 @@ function Projects() {
     });
   }, [showAll]); // Re-initialize when showAll changes
 
-  const handleProjectClick = (project) => {
-    setSelectedProject(project);
-  };
-
-  const closeModal = () => {
-    setSelectedProject(null);
+  const handleProjectClick = (projectIndex) => {
+    navigate(`/project/${projectIndex}`);
   };
 
   const toggleShowAll = () => {
@@ -46,7 +43,7 @@ function Projects() {
               data-aos="flip-up"
               data-aos-easing="ease-out-cubic"
               data-aos-duration="2000"
-              onClick={() => handleProjectClick(project)}
+              onClick={() => handleProjectClick(index)}
             >
               <div className="cd">
                 <img src={project.image} alt={project.title} />
@@ -74,73 +71,6 @@ function Projects() {
           {showAll ? "Show Less" : "Show More"}
         </button>
       </div>
-
-      {selectedProject && (
-        <div className="modal-overlay" onClick={closeModal}>
-          <div className="modal-content" onClick={(e) => e.stopPropagation()}>
-            <button className="modal-close" onClick={closeModal}>
-              ×
-            </button>
-            <div className="modal-header">
-              <img src={selectedProject.image} alt={selectedProject.title} />
-              <h2>{selectedProject.title}</h2>
-            </div>
-            <div className="modal-body">
-              <div className="modal-section">
-                <h3>Description</h3>
-                <p className="long-description">
-                  {selectedProject.longDescription}
-                </p>
-              </div>
-
-              <div className="modal-section">
-                <h3>Features</h3>
-                <ul>
-                  {selectedProject.features.map((feature, index) => (
-                    <li key={index}>{feature}</li>
-                  ))}
-                </ul>
-              </div>
-
-              <div className="modal-section">
-                <h3>Client</h3>
-                <p className="client-type">{selectedProject.client}</p>
-              </div>
-
-              <div className="modal-section">
-                <h3>Technologies</h3>
-                <div className="tech-tags">
-                  {selectedProject.technologies.map((tech, index) => (
-                    <span key={index} className="tech-tag">
-                      {tech}
-                    </span>
-                  ))}
-                </div>
-              </div>
-
-              <div className="modal-section">
-                <h3>Tags</h3>
-                <div className="tech-tags">
-                  {selectedProject.tags.map((tag, index) => (
-                    <span key={index} className="tag">
-                      {tag}
-                    </span>
-                  ))}
-                </div>
-              </div>
-
-              <a
-                href={selectedProject.link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="visit-button"
-              >
-                <FiExternalLink size={20} />
-              </a>
-            </div>
-          </div>
-        </div>
-      )}
       <hr />
     </>
   );
