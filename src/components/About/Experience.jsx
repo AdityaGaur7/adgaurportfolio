@@ -18,7 +18,7 @@ const events = [
   },
   {
     icon: <GoCheckCircle className="img" />,
-    title: "FULL STACK DEVELOPER INTERN",
+    title: "SOFTWARE DEVELOPER INTERN",
     company: "IVEGTECH",
     date: "AUG 2024 - DEC 2024",
     description: [
