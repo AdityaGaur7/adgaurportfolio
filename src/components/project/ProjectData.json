@@ -1,5 +1,65 @@
 [
   {
+    "title": "MMMUTRESO 📚",
+    "description": "A centralized platform for accessing study resources. MMMUTRESO offers a one-stop solution for students to find and utilize various educational materials and tools, simplifying the process of accessing and organizing study resources.",
+    "image": "images/img/MMMUTRESO.png",
+    "link": "https://mmmut.xyz",
+    "client": "Real Client - MMMUTRESO",
+    "tags": [
+      "React",
+      "MongoDB",
+      "Express",
+      "Node.js",
+      "Education"
+    ],
+    "longDescription": "MMMUTRESO is a comprehensive educational platform that serves as a central hub for students to access and organize their study materials. The platform features a user-friendly interface, advanced search capabilities, and organized categorization of resources.",
+    "features": [
+      "Centralized resource management",
+      "User authentication",
+      "Search functionality",
+      "Resource categorization",
+      "Mobile responsive design"
+    ],
+    "technologies": [
+      "React.js",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "JWT Authentication"
+    ]
+  },
+  {
+    "title": "SWASTHMITRA",
+    "description": "A platform for providing medical assistance to the needy. SWASTHMITRA offers a one-stop solution for providing medical assistance to the needy, simplifying the process of accessing and organizing medical resources.",
+    "image": "images/img/swasthmitra.png",
+    "link": "https://swasthmitra.com",
+    "client": "Real Client - Healthcare NGO",
+    "tags": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Healthcare"
+    ],
+    "longDescription": "SWASTHMITRA is a comprehensive healthcare platform designed to bridge the gap between medical resources and those in need. The platform facilitates easy access to medical assistance, resource management, and coordination between healthcare providers and patients.",
+    "features": [
+      "Medical resource management",
+      "Healthcare provider directory",
+      "Appointment scheduling",
+      "Resource allocation tracking",
+      "Emergency assistance requests",
+      "Real-time availability updates"
+    ],
+    "technologies": [
+      "React.js",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Socket.io",
+      "JWT Authentication"
+    ]
+  },
+  {
     "title": "Graph Visualizer",
     "description": "An interactive graph visualization app to create, visualize, and traverse graphs with real-time algorithm animations like BFS and DFS.",
     "image": "images/img/GraphVisualizer.png",
@@ -100,66 +160,6 @@
       "Prisma ORM",
       "WebSockets",
       "Load Balancing"
-    ]
-  },
-  {
-    "title": "SWASTHMITRA",
-    "description": "A platform for providing medical assistance to the needy. SWASTHMITRA offers a one-stop solution for providing medical assistance to the needy, simplifying the process of accessing and organizing medical resources.",
-    "image": "images/img/swasthmitra.png",
-    "link": "https://swasthmitra.com",
-    "client": "Real Client - Healthcare NGO",
-    "tags": [
-      "React",
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "Healthcare"
-    ],
-    "longDescription": "SWASTHMITRA is a comprehensive healthcare platform designed to bridge the gap between medical resources and those in need. The platform facilitates easy access to medical assistance, resource management, and coordination between healthcare providers and patients.",
-    "features": [
-      "Medical resource management",
-      "Healthcare provider directory",
-      "Appointment scheduling",
-      "Resource allocation tracking",
-      "Emergency assistance requests",
-      "Real-time availability updates"
-    ],
-    "technologies": [
-      "React.js",
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "Socket.io",
-      "JWT Authentication"
-    ]
-  },
-  {
-    "title": "MMMUTRESO 📚",
-    "description": "A centralized platform for accessing study resources. MMMUTRESO offers a one-stop solution for students to find and utilize various educational materials and tools, simplifying the process of accessing and organizing study resources.",
-    "image": "images/img/MMMURESO.png",
-    "link": "https://mmmut.xyz",
-    "client": "Real Client - MMMUTRESO",
-    "tags": [
-      "React",
-      "MongoDB",
-      "Express",
-      "Node.js",
-      "Education"
-    ],
-    "longDescription": "MMMUTRESO is a comprehensive educational platform that serves as a central hub for students to access and organize their study materials. The platform features a user-friendly interface, advanced search capabilities, and organized categorization of resources.",
-    "features": [
-      "Centralized resource management",
-      "User authentication",
-      "Search functionality",
-      "Resource categorization",
-      "Mobile responsive design"
-    ],
-    "technologies": [
-      "React.js",
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "JWT Authentication"
     ]
   },
   {
