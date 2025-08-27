@@ -1,7 +1,7 @@
 /* ProjectDetail.css */
 .project-detail-container {
     min-height: 100vh;
-    background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%);
+    /* background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%); */
     padding-top: 80px;
     color: #ffffff;
 }

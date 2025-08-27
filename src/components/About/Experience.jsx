@@ -55,7 +55,7 @@ const events = [
   },
 ];
 
-const Timeline = () => {
+const Experience = () => {
   const timelineRef = useRef(null);
 
   useEffect(() => {
@@ -117,4 +117,4 @@ const Timeline = () => {
   );
 };
 
-export default Timeline;
+export default Experience;

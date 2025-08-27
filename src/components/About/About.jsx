@@ -1,8 +1,6 @@
 import React from "react";
 import Birthday from "./Birthday";
-import Education from "./Education";
-import Skills from "./Tech-Skill";
-import Timeline from "./Experience";
+import Experience from "./Experience";
 import Certificates from "./Certificates";
 import DynamicIconCloud from "./DynamicIconCloud";
 function About() {
@@ -26,15 +24,9 @@ function About() {
               <span>ABOUT</span> ME
             </h1>
             <p>
-              An Engineering Enthusiast driven by curiosity and a passion for
-              technology.
-              <br />
-              I thrive on building and learning scalable applications,
-              constantly exploring new technologies to enhance my skill set.
-              <br />
-              From developing real-time distributed systems to creating dynamic
-              web applications, I'm always seeking new challenges to grow and
-              innovate.
+              Engineering Enthusiast passionate about scalable systems,
+              distributed computing, and web applications.<br/> Driven by curiosity
+              to learn, build, and innovate through technology.
               <br />
               Let's connect and turn exciting ideas into reality!
             </p>
@@ -55,12 +47,10 @@ function About() {
         <div />
       </div>
       <hr />
-      <Timeline />
-
-      <Education />
-
+      <Experience />
+      <hr />
       <Certificates />
-
+      <hr />
       {/* <Skills /> */}
     </>
   );

@@ -119,6 +119,7 @@ function Certificates() {
           </div>
         ))}
       </div>
+      
     </div>
   );
 }

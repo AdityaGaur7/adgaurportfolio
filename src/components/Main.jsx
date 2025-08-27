@@ -5,7 +5,6 @@ import Footer from "./MainComp/Footer";
 import Back from "./Home/Backg";
 
 import Services from "./Services/Services";
-import Contact from "./Contact/Contact";
 import Projects from "./project/Projects";
 import ProjectDetail from "./project/ProjectDetail";
 import About from "./About/About";
@@ -48,7 +47,7 @@ function Main() {
             }}
             color="#fff"
             innerSize={10}
-            outerSize={100}
+            outerSize={70}
             innerScale={2}
             outerScale={2}
             outerAlpha={1}
@@ -59,24 +58,10 @@ function Main() {
               mixBlendMode: "exclusion",
             }}
           />
-          <AnimatedCursor
-            hasBlendMode={true}
-            innerStyle={{
-              backgroundColor: "#333",
-            }}
-            color="#fff"
-            innerSize={6}
-            outerSize={55}
-            innerScale={2}
-            outerScale={2}
-            outerAlpha={1}
-            trailingSpeed={10}
-            outerStyle={{
-              // border: '3px solid #fff',
-              backgroundColor: "#fff",
-              mixBlendMode: "exclusion",
-            }}
-          />
+
+          <div className="background">
+            <Back />
+          </div>
         </div>
         <Nav />
         <Back />
@@ -87,7 +72,6 @@ function Main() {
           <Route path="/project" element={<Projects />} />
           <Route path="/project/:projectId" element={<ProjectDetail />} />
           <Route path="/profile" element={<Services />} />
-          <Route path="/contact" element={<Contact />} />
         </Routes>
         <Footer />
       </div>

@@ -5,6 +5,7 @@
     "image": "images/img/MMMUTRESO.png",
     "link": "https://mmmut.xyz",
     "client": "Real Client - MMMUTRESO",
+    "date": "September 2023",
     "tags": [
       "React",
       "MongoDB",
@@ -34,6 +35,7 @@
     "image": "images/img/swasthmitra.png",
     "link": "https://swasthmitra.com",
     "client": "Real Client - Healthcare NGO",
+    "date": "January 2025",
     "tags": [
       "React",
       "Node.js",
@@ -65,6 +67,7 @@
     "image": "images/img/GraphVisualizer.png",
     "link": "https://g-raph-visualizer.vercel.app/",
     "client": "Personal Project",
+    "date": "June 2025",
     "tags": [
       "React",
       "TypeScript",
@@ -98,6 +101,7 @@
     "image": "images/img/FileExplorer.png",
     "link": "https://file-branch-navigator.vercel.app/",
     "client": "Personal Project",
+    "date": "July 2025",
     "tags": [
       "React",
       "TypeScript",
@@ -133,6 +137,7 @@
     "image": "images/img/realtime-chat-system.png",
     "link": "https://github.com/AdityaGaur7/Real-time-Distributed-Chat-System",
     "client": "Personal Project",
+    "date": "May 2025",
     "tags": [
       "Next.js",
       "Socket.IO",
@@ -168,6 +173,7 @@
     "image": "images/img/shop_pushpakviman.png",
     "link": "https://shop.pushpakdroneviman.in/",
     "client": "Real Client - Pushpak Drone Company",
+    "date": "February 2025",
     "tags": [
       "React",
       "Node.js",
@@ -202,6 +208,7 @@
     "image": "images/img/flytiumdrone.png",
     "link": "https://www.flytiumdrones.com/",
     "client": "Real Client - Flytium Drones",
+    "date": "March 2025",
     "tags": [
       "React",
       "Node.js",
@@ -235,7 +242,8 @@
     "description": "A comprehensive platform providing industry mentorship, financial assistance, academic support, networking opportunities, and high-tech resources.",
     "image": "images/img/mmmut_foundation.png",
     "link": "https://mmmut-foundation-weld.vercel.app/",
-    "client": "Real Client - MMMUT Foundation",
+    "client": "Real Client - MMMUT Foundation", 
+    "date": "January 2024",
     "tags": [
       "React",
       "Node.js",
@@ -269,6 +277,7 @@
     "image": "images/img/love-calculator.png",
     "link": "https://love-calculator-by-adgaur-67j6.vercel.app",
     "client": "Personal Project",
+    "date": "August 2023",
     "tags": [
       "EJS",
       "Node.js",
@@ -298,6 +307,7 @@
     "image": "images/img/flashcard.png",
     "link": "https://tuf-task-frontend-nu.vercel.app/",
     "client": "Real Client - Educational Institution",
+    "date": "November 2023",
     "tags": [
       "React",
       "Node.js",
@@ -329,8 +339,9 @@
     "image": "images/img/AdminPanel.png",
     "link": "https://mern-ecomm-yk9t.vercel.app/",
     "client": "Personal Project",
+    "date": "May 2024",
     "tags": [
-      "React",
+      "React",  
       "Node.js",
       "Express",
       "MongoDB",
@@ -359,7 +370,8 @@
     "description": "A social media application developed with Express and MongoDB.",
     "image": "images/img/SociApp.png",
     "link": "https://animgram.onrender.com/",
-    "client": "Personal Project",
+    "client": "Personal Project", 
+    "date": "August 2024",
     "tags": [
       "EJS",
       "Node.js",
@@ -392,7 +404,8 @@
     "image": "images/img/Travel&Tours.png",
     "link": "https://tripowa-tours-pvt-ltd-task.vercel.app/",
     "client": "Real Client - Tripowa Tours Pvt Ltd",
-    "tags": [
+    "date": "September 2024",
+    "tags": [ 
       "Next.js",
       "React",
       "Node.js",
@@ -423,7 +436,8 @@
     "description": "A sophisticated payment gateway solution supporting multiple payment methods.",
     "image": "images/img/PaymentGateway.png",
     "link": "https://cal-al-frontend.vercel.app/",
-    "client": "Personal Project",
+    "client": "Personal Project", 
+    "date": "October 2024",
     "tags": [
       "React",
       "Node.js",
@@ -457,6 +471,7 @@
     "image": "images/img/InvoiceGen.png",
     "link": "https://invoice-generator-sand-six.vercel.app/",
     "client": "Personal Project",
+    "date": "November 2024",
     "tags": [
       "React",
       "Node.js",
@@ -489,6 +504,7 @@
     "image": "images/img/MovieList.png",
     "link": "https://mymovie-phi.vercel.app/",
     "client": "Personal Project",
+    "date": "December 2024",
     "tags": [
       "React",
       "API Integration",
@@ -519,6 +535,7 @@
     "image": "images/img/CDC.png",
     "link": "https://cdc-website-vrqu.vercel.app/",
     "client": "Real Client - Coders And Developers Club",
+    "date": "February 2024",
     "tags": [
       "React",
       "Node.js",
@@ -551,6 +568,7 @@
     "image": "images/img/pokemon.png",
     "link": "https://pokemonsearchbyadgaur.netlify.app/",
     "client": "Personal Project",
+    "date": "March 2024",
     "tags": [
       "React",
       "API Integration",
@@ -577,6 +595,7 @@
     "image": "images/img/chatapp.png",
     "link": "https://wassup-by-adgaur.vercel.app/",
     "client": "Personal Project",
+    "date": "April 2024",
     "tags": [
       "Node.js",
       "Socket.io",
@@ -606,6 +625,7 @@
     "image": "images/img/Artwork.png",
     "link": "https://art-silk.vercel.app/",
     "client": "Personal Project",
+    "date": "May 2024",
     "tags": [
       "Next.js",
       "Art Gallery",

@@ -98,8 +98,8 @@ const Nav = () => {
               </NavLink>
             </li>
             <li>
-              <NavLink to="/contact" onClick={windowWidth < 790 ? fun1 : fun2}>
-                Contact
+              <NavLink to="https://drive.google.com/drive/folders/1eRyFBaDK-_hK39pe2BVZYCIDAM6jto8g?lfhs=2" onClick={windowWidth < 790 ? fun1 : fun2}>
+                Resume
               </NavLink>
             </li>
           </div>

@@ -3,6 +3,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import { FiExternalLink, FiArrowLeft, FiTag, FiCode } from "react-icons/fi";
 import projectsData from "./ProjectData.json";
 import "./ProjectDetail.css";
+import { FiCalendar } from "react-icons/fi";
 
 function ProjectDetail() {
   const { projectId } = useParams();
@@ -47,12 +48,16 @@ function ProjectDetail() {
           <div className="project-hero-content">
             <div className="project-hero-text">
               <h1 className="project-title">{project.title}</h1>
-              <p className="project-subtitle">{project.description}</p>
+              <p className="project-subtitle">{project.description}</p> 
 
               <div className="project-meta">
                 <div className="meta-item">
                   <FiTag size={16} />
                   <span>{project.client}</span>
+                </div>
+                <div className="meta-item">
+                  <FiCalendar size={16} />
+                  <span>{project.date}</span>
                 </div>
               </div>
 

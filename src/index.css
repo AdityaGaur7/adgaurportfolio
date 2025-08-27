@@ -623,7 +623,7 @@ textarea {
 
 .base h3 {
     color: #8df0f7;
-    text-shadow: 0 0 20px #fff, 0 0 50px #00E8F8, 0 0 80px #00E8F8;
+    /* text-shadow: 0 0 20px #fff, 0 0 50px #00E8F8, 0 0 80px #00E8F8; */
     font-family: 'Courier New', Courier, monospace;
     margin: 3vh;
     text-align: center;

@@ -1,9 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import projectsData from "./ProjectData";
-import VanillaTilt from "vanilla-tilt";
+import projectsData from "./ProjectData"
 import { FiExternalLink } from "react-icons/fi";
-import "./Projects.css"; // Make sure you include the CSS file
+import "./Projects.css"; 
 
 function Projects() {
   const navigate = useNavigate();
@@ -11,18 +10,7 @@ function Projects() {
 
   const displayedProjects = showAll ? projectsData : projectsData.slice(0, 6);
 
-  useEffect(() => {
-    VanillaTilt.init(document.querySelectorAll(".cd"), {
-      glare: true,
-      "max-glare": "0.50",
-      max: 15,
-      speed: 300,
-      easing: "cubic-bezier(.03,.98,.52,.99)",
-      reset: true,
-      "reset-to-start": true,
-    });
-  }, [showAll]); // Re-initialize when showAll changes
-
+  
   const handleProjectClick = (projectIndex) => {
     navigate(`/project/${projectIndex}`);
   };
@@ -62,6 +50,7 @@ function Projects() {
                 <h1>{project.title}</h1>
                 <p>{project.description}</p>
                 <p className="client-info">{project.client}</p>
+                <p className="date-info">{project.date}</p>
               </div>
             </div>
           ))}

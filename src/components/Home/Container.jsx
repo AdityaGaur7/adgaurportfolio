@@ -10,21 +10,6 @@ const Cont = () => {
 
   example.init(element, options);
 
-  // useEffect(() => {
-  //     const moveElement = () => {
-  //       const scrollPosition = window.scrollY;
-
-  //       gsap.to('#img', { x: -scrollPosition,y:-scrollPosition, ease: 'none' });
-
-  //     };
-
-  //     window.addEventListener('scroll', moveElement);
-
-  //     return () => {
-  //       window.removeEventListener('scroll', moveElement);
-  //     };
-  //   }, []);
-
   return (
     <>
       <div className="container">
@@ -50,15 +35,8 @@ const Cont = () => {
             </h1>
             <span id="element"></span>
             <p className="text-cont">
-              PRE-FINAL YEAR B.TECH STUDENT | Skilled in C++, MERN, AngularJS,
-              Next.js <br />
-              Passionate about <strong>Competitive Programming</strong> &{" "}
-              <strong>Backend Development</strong> with RESTful APIs. <br />
-              Built <strong>Scalable Systems</strong> using{" "}
-              <strong>Socket.IO, Redis, Kafka, PostgreSQL,Next.Js</strong>,
-              and <strong>JWT Authentication</strong>. <br />
-              Learning to Improve, Not Just to Prove | Will Make Mom{" "}
-              <strong>PROUD</strong> 💖
+            Final Year B.Tech | Software Engineer skilled in C++, MERN, Angular, Next.js
+            Passionate about Competitive Programming & Scalable Backend Development
             </p>
 
             <div className="handle glow">
@@ -87,21 +65,6 @@ const Cont = () => {
                   <i className="fa-brands fa-twitter"></i>
                 </a>
               </li>
-            </div>
-            <div className="card" id="resume">
-              <div className="cdc" id="resumesection">
-                <button className="resumebutton">
-                  <i className="fa-solid fa-arrow-up-right">
-                    <a
-                      href="https://drive.google.com/drive/folders/1eRyFBaDK-_hK39pe2BVZYCIDAM6jto8g?lfhs=2"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      RESUME
-                    </a>
-                  </i>
-                </button>
-              </div>
             </div>
           </div>
 

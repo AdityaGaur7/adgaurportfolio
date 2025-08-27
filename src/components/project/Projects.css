@@ -13,6 +13,12 @@
   margin-top: 6rem;
 }
 
+.date-info {
+  font-size: 0.9em;
+  color: #00e9f8;
+  font-style: italic;
+}
+
 .project-card {
   border: 1px solid rgba(0, 233, 248, 0.2);
   border-radius: 16px;
