@@ -1,14 +1,7 @@
 import { React, useEffect } from "react";
-import autotyper from "autotyper";
+
 
 const Cont = () => {
-  const example = Object.create(autotyper);
-  const element = document.querySelector("#element");
-  const options = {
-    text: "WEB DEVELOPER LOVE SKETCHING ",
-  };
-
-  example.init(element, options);
 
   return (
     <>
@@ -33,39 +26,12 @@ const Cont = () => {
                 ADITYA GAUR
               </span>
             </h1>
-            <span id="element"></span>
+            
             <p className="text-cont">
             Final Year B.Tech | Software Engineer skilled in C++, MERN, Angular, Next.js
-            Passionate about Competitive Programming & Scalable Backend Development
+            Passionate about <br/> Problem Solving & Scalable Backend Development
             </p>
 
-            <div className="handle glow">
-              <li>
-                <a href="https://github.com/AdityaGaur7">
-                  <i className="fa-brands fa-github"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.instagram.com/__aditya_gaur_090/">
-                  <i className="fa-brands fa-instagram"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.linkedin.com/in/aditya-gaur-mmmut/">
-                  <i className="fa-brands fa-linkedin"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.youtube.com/channel/UCuThDiAO3aXPStVmssLssKQ">
-                  <i className="fa-brands fa-youtube"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://twitter.com/Aditya7112027">
-                  <i className="fa-brands fa-twitter"></i>
-                </a>
-              </li>
-            </div>
           </div>
 
           <div className="right">
