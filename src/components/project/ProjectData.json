@@ -30,6 +30,43 @@
     ]
   },
   {
+    "title": "🤖 AI Debate Simulator",
+    "description": "An interactive web application that simulates dynamic debates between two AI agents with distinct personalities - one aggressive (PROS) and one analytical (CONS) - using Google's Gemini API. Users can select topics and experience realistic debate conversations with human-like text-to-speech capabilities.",
+    "image": "images/img/AI-Debate-Simulator.png",
+    "link": "https://drive.google.com/file/d/1SxbdzzAgxxgV3EAlga5t-2jpslhRxArG/view?usp=sharing",
+    "client": "Personal Project - AI Debate Simulator",
+    "date": "December 2024",
+    "tags": [
+      "React",
+      "Python",
+      "Flask",
+      "Google Gemini AI",
+      "Text-to-Speech",
+      "AI Simulation"
+    ],
+    "longDescription": "The AI Debate Simulator is a sophisticated conversational AI platform that creates engaging debate scenarios between two AI agents with contrasting personalities. The PROS debater speaks with passion and conviction, while the CONS debater maintains a critical, analytical tone. The platform features real-time conversation generation, customizable debate rounds, and immersive text-to-speech functionality that brings the debates to life with distinct male and female voices.",
+    "features": [
+      "Dynamic AI debate generation",
+      "Dual personality AI agents (PROS vs CONS)",
+      "Customizable debate topics and rounds",
+      "Human-like text-to-speech with voice differentiation",
+      "Real-time conversation streaming",
+      "Responsive web interface",
+      "Topic selection and customization",
+      "Interactive playback controls"
+    ],
+    "technologies": [
+      "React 19 with TypeScript",
+      "Python Flask backend",
+      "Google Gemini 2.0 Flash AI",
+      "ElevenLabs Text-to-Speech API",
+      "Vite build system",
+      "Web Speech API",
+      "RESTful API architecture",
+      "CORS-enabled communication"
+    ]
+  },
+  {
     "title": "SWASTHMITRA",
     "description": "A platform for providing medical assistance to the needy. SWASTHMITRA offers a one-stop solution for providing medical assistance to the needy, simplifying the process of accessing and organizing medical resources.",
     "image": "images/img/swasthmitra.png",
@@ -242,7 +279,7 @@
     "description": "A comprehensive platform providing industry mentorship, financial assistance, academic support, networking opportunities, and high-tech resources.",
     "image": "images/img/mmmut_foundation.png",
     "link": "https://mmmut-foundation-weld.vercel.app/",
-    "client": "Real Client - MMMUT Foundation", 
+    "client": "Real Client - MMMUT Foundation",
     "date": "January 2024",
     "tags": [
       "React",
@@ -341,7 +378,7 @@
     "client": "Personal Project",
     "date": "May 2024",
     "tags": [
-      "React",  
+      "React",
       "Node.js",
       "Express",
       "MongoDB",
@@ -370,7 +407,7 @@
     "description": "A social media application developed with Express and MongoDB.",
     "image": "images/img/SociApp.png",
     "link": "https://animgram.onrender.com/",
-    "client": "Personal Project", 
+    "client": "Personal Project",
     "date": "August 2024",
     "tags": [
       "EJS",
@@ -405,7 +442,7 @@
     "link": "https://tripowa-tours-pvt-ltd-task.vercel.app/",
     "client": "Real Client - Tripowa Tours Pvt Ltd",
     "date": "September 2024",
-    "tags": [ 
+    "tags": [
       "Next.js",
       "React",
       "Node.js",
@@ -436,7 +473,7 @@
     "description": "A sophisticated payment gateway solution supporting multiple payment methods.",
     "image": "images/img/PaymentGateway.png",
     "link": "https://cal-al-frontend.vercel.app/",
-    "client": "Personal Project", 
+    "client": "Personal Project",
     "date": "October 2024",
     "tags": [
       "React",
