@@ -31,7 +31,7 @@
   },
   {
     "title": "🤖 AI Debate Simulator",
-    "description": "An interactive web application that simulates dynamic debates between two AI agents with distinct personalities - one aggressive (PROS) and one analytical (CONS) - using Google's Gemini API. Users can select topics and experience realistic debate conversations with human-like text-to-speech capabilities.",
+    "description": "A GenAI-powered web platform that simulates dynamic debates between two large language model (LLM) agents with contrasting personalities, leveraging Google's Gemini 2.0 Flash API. Users can choose topics and experience realistic, model-driven debate conversations enhanced with neural text-to-speech (TTS).",
     "image": "images/img/AI-Debate-Simulator.png",
     "link": "https://drive.google.com/file/d/1SxbdzzAgxxgV3EAlga5t-2jpslhRxArG/view?usp=sharing",
     "client": "Personal Project - AI Debate Simulator",
@@ -40,32 +40,101 @@
       "React",
       "Python",
       "Flask",
-      "GenAi",
+      "GenAI",
+      "LLM",
       "Google Gemini AI",
       "Text-to-Speech",
-      "AI Simulation"
+      "AI Simulation",
+      "Streaming AI"
     ],
-    "longDescription": "The AI Debate Simulator is a sophisticated conversational AI platform that creates engaging debate scenarios between two AI agents with contrasting personalities. The PROS debater speaks with passion and conviction, while the CONS debater maintains a critical, analytical tone. The platform features real-time conversation generation, customizable debate rounds, and immersive text-to-speech functionality that brings the debates to life with distinct male and female voices.",
+    "longDescription": "The AI Debate Simulator is a full-stack conversational AI application that showcases the potential of large language models (LLMs) in structured debate scenarios. Powered by Google's Gemini 2.0 Flash model, it generates real-time multi-turn dialogues between two AI-driven personalities: a persuasive PROS agent and a critical CONS agent. The system features advanced GenAI capabilities including personality-driven prompting, context-aware rebuttals, and streaming responses. Integrated with neural text-to-speech (TTS) engines, the simulator delivers lifelike voice-based debates, enhancing immersion through differentiated voice profiles. This project demonstrates how LLMs can be orchestrated with frontend and backend engineering to create interactive, model-driven simulations.",
     "features": [
-      "Dynamic AI debate generation",
-      "Dual personality AI agents (PROS vs CONS)",
-      "Customizable debate topics and rounds",
-      "Human-like text-to-speech with voice differentiation",
-      "Real-time conversation streaming",
-      "Responsive web interface",
-      "Topic selection and customization",
-      "Interactive playback controls"
+      "LLM-powered debate generation with personality prompts",
+      "Dual GenAI agents (PROS vs CONS) with real-time rebuttals",
+      "Streaming conversation via REST API endpoints",
+      "Customizable debate topics and multi-round configuration",
+      "Responsive mobile-first React interface with animations",
+      "Human-like TTS with distinct male/female voices",
+      "Optional ElevenLabs integration for premium neural voices",
+      "Interactive playback and voice parameter customization",
+      "CORS-enabled client-server communication"
     ],
     "technologies": [
       "React 19 with TypeScript",
       "Python Flask backend",
-      "Google Gemini 2.0 Flash AI",
-      "ElevenLabs Text-to-Speech API",
+      "Google Gemini 2.0 Flash LLM",
+      "ElevenLabs Neural TTS API",
+      "Web Speech API (browser-based fallback)",
       "Vite build system",
-      "Web Speech API",
       "RESTful API architecture",
-      "CORS-enabled communication"
-    ]
+      "CORS support"
+    ],
+    "technicalDetails": {
+      "backend": {
+        "framework": "Python Flask with CORS",
+        "aiModel": "Google Gemini 2.0 Flash LLM",
+        "apiEndpoints": {
+          "/api/conversation (POST)": "Generate debate via LLM inference",
+          "/api/generate-and-speak (POST)": "Stream debate with integrated TTS"
+        },
+        "features": [
+          "Dynamic debate generation",
+          "Streaming model responses",
+          "Personality-based prompting"
+        ]
+      },
+      "frontend": {
+        "framework": "React 19 with TypeScript",
+        "styling": "Custom CSS with gradients and animations",
+        "tts": "Web Speech API with voice selection",
+        "responsive": "Mobile-first design",
+        "buildTool": "Vite for optimized builds"
+      },
+      "aiPersonalities": {
+        "prosAgent": "Passionate, persuasive, highlights opportunities",
+        "consAgent": "Analytical, critical, reveals risks",
+        "contextAwareness": "Agents respond to each other's arguments in real-time"
+      },
+      "voiceConfiguration": {
+        "prosAgent": "Male voice, higher pitch, faster rate",
+        "consAgent": "Female voice, lower pitch, normal rate",
+        "enhancedTTS": "Optional ElevenLabs for premium voice models",
+        "fallback": "Browser-supported voices if unavailable"
+      },
+      "apiResponseFormat": {
+        "success": true,
+        "conversation": [
+          {
+            "speaker": "pros",
+            "text": "That's an excellent point! Technology is clearly revolutionizing how we work...",
+            "round": 1
+          },
+          {
+            "speaker": "cons",
+            "text": "I understand your enthusiasm, but let me point out some critical concerns...",
+            "round": 1
+          }
+        ],
+        "topic": "Is technology making humans lazy?"
+      },
+      "customization": {
+        "topics": "Add topics via predefinedTopics array in App.tsx",
+        "personalities": "Modify PROS/CONS prompts in main.py",
+        "voiceSettings": "Adjust rate, pitch, and volume in App.tsx"
+      },
+      "troubleshooting": {
+        "apiKeyError": "Ensure Gemini API key is in .env file",
+        "voiceIssue": "Check Web Speech API browser support",
+        "corsError": "Verify Flask server on port 5000",
+        "buildError": "Requires Node.js v20.19+",
+        "streamingIssues": "Check network connectivity"
+      },
+      "browserCompatibility": {
+        "Chrome/Edge": "Full support, best TTS experience",
+        "Firefox": "Limited TTS support",
+        "Safari": "Limited TTS support"
+      }
+    }
   },
   {
     "title": "SWASTHMITRA",
