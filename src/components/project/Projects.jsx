@@ -32,23 +32,18 @@ function Projects() {
               data-aos-duration="2000"
               onClick={() => handleProjectClick(index)}
             >
+              
+
               <div className="project-info">
                 <h1 className="project-title-text">{project.title}</h1>
                 <p className="client-info">{project.client}</p>
                 <p className="date-info">{project.date}</p>
-                <a
-                  href={project.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  onClick={(e) => e.stopPropagation()}
-                  className="external-link"
-                  title="Open project"
-                >
-                  <FiExternalLink size={20} />
-                </a>
+               
               </div>
+          
             </div>
           ))}
+          
         </div>
 
         <button className="show-more-btn" onClick={toggleShowAll}>
