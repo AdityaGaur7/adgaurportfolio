@@ -1,27 +1,27 @@
 import React from "react";
-import "./About.css";
+import "../styles/About.css";
 
 function Certificates() {
   const certificates = [
     {
-      "title": "Software Developer Intern",
-      "issuer": "IVEGTech",
-      "date": "Aug 2024 - Dec 2024",
-      "image": "images/certificates/ivegtech.png",
-      "link": "https://drive.google.com/file/d/1cfmCj-m_wyrpxeMuBcpgmduKXmmDC6AZ/view",
-      "skills": [
-          "AngularJS",
-          "Bootstrap",
-          "Java",
-          "Spring Boot",
-          "SQL",
-          "JWT Authentication",
-          "Product Management",
-          "User Authentication System",
-          "Admin Controls",
-          "High-performance Optimization"
-      ]
-  },
+      title: "Software Developer Intern",
+      issuer: "IVEGTech",
+      date: "Aug 2024 - Dec 2024",
+      image: "images/certificates/ivegtech.png",
+      link: "https://drive.google.com/file/d/1cfmCj-m_wyrpxeMuBcpgmduKXmmDC6AZ/view",
+      skills: [
+        "AngularJS",
+        "Bootstrap",
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "JWT Authentication",
+        "Product Management",
+        "User Authentication System",
+        "Admin Controls",
+        "High-performance Optimization",
+      ],
+    },
     {
       title: "Postman API Fundamentals Student Expert",
       issuer: "Postman",
@@ -51,7 +51,7 @@ function Certificates() {
       date: "Apr 2023",
       image: "images/certificates/ssoc.png",
       link: "https://certificate.givemycertificate.com/c/8649e1ed-e3a8-4d89-ab34-5dd613b5f276",
-      skills: ["Leadership", "Teamwork", "Communication","Open Source"],
+      skills: ["Leadership", "Teamwork", "Communication", "Open Source"],
     },
     {
       title: "Solution Challenge 2023",
@@ -59,7 +59,7 @@ function Certificates() {
       date: "Jul 2023",
       image: "images/certificates/solutionchallenge.png",
       link: "https://drive.google.com/file/d/1Yu-M7vAAa4nRkud-0uh5eHKtjWxufbmH/view?usp=sharing",
-      skills: ["Leadership","Open Source","Problem Solving"],
+      skills: ["Leadership", "Open Source", "Problem Solving"],
     },
     {
       title: "MCQ Coding Assessment - Unstop Talent Park",
@@ -67,7 +67,7 @@ function Certificates() {
       date: "Apr 2024",
       image: "images/certificates/unstop1.png",
       link: "https://unstop.com/certificate-preview/dc112b5b-ed14-49f6-a87c-fda51949eac2?utm_campaign=",
-      skills: ["DSA", "Problem Solving","Coding"],
+      skills: ["DSA", "Problem Solving", "Coding"],
     },
     {
       title: "Level 1.1: E-Commerce",
@@ -75,7 +75,7 @@ function Certificates() {
       date: "Aug 2023",
       image: "images/certificates/unstopflipkart.png",
       link: "https://unstop.com/certificate-preview/c286a995-9a6d-4475-9dde-ec264252af11?utm_campaign=site-emails",
-      skills: ["C", "C++","Coding","Problem Solving","DSA"],
+      skills: ["C", "C++", "Coding", "Problem Solving", "DSA"],
     },
     {
       title: "Web Quest",
@@ -83,7 +83,7 @@ function Certificates() {
       date: "May 2023",
       image: "images/certificates/unstop2.png",
       link: "https://d8it4huxumps7.cloudfront.net/lambda-pdfs/story-images/d198e663-496c-48fe-b3bb-d8def79a3051.jpg",
-      skills: ["Front-End Development", "Web Development","Coding"],
+      skills: ["Front-End Development", "Web Development", "Coding"],
     },
   ];
 
@@ -119,7 +119,6 @@ function Certificates() {
           </div>
         ))}
       </div>
-      
     </div>
   );
 }

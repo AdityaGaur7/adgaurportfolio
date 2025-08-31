@@ -1,6 +1,6 @@
 import React from "react";
 import Birthday from "./Birthday";
-import Experience from "./Experience";
+import Experience from "./Experience.jsx";
 import Certificates from "./Certificates";
 import DynamicIconCloud from "./DynamicIconCloud";
 function About() {
@@ -51,7 +51,7 @@ function About() {
       <hr />
       <Certificates />
       <hr />
-      {/* <Skills /> */}
+     
     </>
   );
 }

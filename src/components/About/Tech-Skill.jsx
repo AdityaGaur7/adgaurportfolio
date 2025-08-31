@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import VanillaTilt from "vanilla-tilt";
-import "./SkillsGallery.css";
+import "../styles/SkillsGallery.css";
 
 const frontendSkills = [
   { name: "HTML5", src: "icon/html.png", url: "https://www.w3.org/html/" },

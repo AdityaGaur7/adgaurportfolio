@@ -8,6 +8,7 @@ import Services from "./Services/Services";
 import Projects from "./project/Projects";
 import ProjectDetail from "./project/ProjectDetail";
 import About from "./About/About";
+import ExperienceDetail from "./About/ExperienceDetail";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
@@ -71,6 +72,10 @@ function Main() {
           <Route path="/about" element={<About />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/project/:projectId" element={<ProjectDetail />} />
+          <Route
+            path="/experience/:experienceId"
+            element={<ExperienceDetail />}
+          />
           <Route path="/profile" element={<Services />} />
         </Routes>
         <Footer />

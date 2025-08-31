@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { FiExternalLink, FiArrowLeft, FiTag, FiCode } from "react-icons/fi";
-import projectsData from "./ProjectData.json";
-import "./ProjectDetail.css";
+import projectsData from "../data/ProjectData.json";
+import "../styles/ProjectDetail.css";
 import { FiCalendar } from "react-icons/fi";
 
 function ProjectDetail() {

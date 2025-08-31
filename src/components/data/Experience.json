@@ -1,0 +1,197 @@
+[
+    {
+        "id": "pushpak-viman",
+        "title": "MERN STACK DEVELOPER INTERN",
+        "company": "PUSHPAK VIMAN PVT. LTD.",
+        "date": "DEC 2024 - PRESENT",
+        "location": "Remote",
+        "duration": "3+ months",
+        "description": [
+            "🚀 Built a MERN e-commerce platform for electronics components",
+            "💻 Implemented secure payment gateway and user authentication",
+            "📊 Developed admin dashboard for inventory management"
+        ],
+        "detailedDescription": "As a MERN Stack Developer Intern at Pushpak Viman, I was responsible for developing a comprehensive e-commerce platform specifically designed for electronics components. This role involved full-stack development using MongoDB, Express.js, React.js, and Node.js, with a focus on creating a secure, scalable, and user-friendly platform.",
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "JWT",
+            "Stripe API",
+            "Redux",
+            "Material-UI"
+        ],
+        "keyResponsibilities": [
+            "Developed responsive frontend components using React.js and Material-UI",
+            "Implemented secure user authentication and authorization using JWT",
+            "Integrated Stripe payment gateway for secure transactions",
+            "Created RESTful APIs for product management and user operations",
+            "Built admin dashboard with inventory management capabilities",
+            "Implemented search and filtering functionality for products"
+        ],
+        "achievements": [
+            "Reduced page load time by 40% through code optimization",
+            "Implemented responsive design that works across all devices",
+            "Achieved 99.9% uptime for the production environment"
+        ],
+        "challenges": [
+            "Managing complex state for large product catalogs",
+            "Implementing secure payment processing",
+            "Optimizing database queries for better performance"
+        ],
+        "learnings": [
+            "Advanced React patterns and state management",
+            "Payment gateway integration and security best practices",
+            "Database optimization and indexing strategies",
+            "Production deployment and monitoring"
+        ],
+        "position": "left"
+    },
+    {
+        "id": "ivegtech",
+        "title": "SOFTWARE DEVELOPER INTERN",
+        "company": "IVEGTECH",
+        "date": "AUG 2024 - DEC 2024",
+        "location": "Remote",
+        "duration": "4 months",
+        "description": [
+            "🛒 Developed an eCommerce application using AngularJS and Bootstrap",
+            "🔧 Implemented backend using Java Spring Boot and PostgreSQL",
+            "📱 Created responsive UI components and RESTful APIs"
+        ],
+        "detailedDescription": "During my internship at IVEGTECH, I contributed to the development of a full-featured eCommerce application. This role provided me with hands-on experience in both frontend and backend development, working with modern web technologies and following industry best practices.",
+        "technologies": [
+            "AngularJS",
+            "Bootstrap",
+            "Java",
+            "Spring Boot",
+            "PostgreSQL",
+            "REST APIs",
+            "Git",
+            "Maven"
+        ],
+        "keyResponsibilities": [
+            "Developed responsive user interface using AngularJS and Bootstrap",
+            "Implemented backend services using Java Spring Boot framework",
+            "Designed and optimized PostgreSQL database schema",
+            "Created RESTful APIs for product and user management",
+            "Implemented user authentication and authorization",
+            "Conducted unit testing and integration testing"
+        ],
+        "achievements": [
+            "Successfully delivered the eCommerce platform on schedule",
+            "Improved application performance by 35%",
+            "Reduced bug reports by 60% through comprehensive testing"
+        ],
+        "challenges": [
+            "Learning AngularJS framework from scratch",
+            "Integrating multiple third-party services",
+            "Ensuring cross-browser compatibility"
+        ],
+        "learnings": [
+            "Full-stack development with Java and AngularJS",
+            "Database design and optimization",
+            "API development and documentation",
+            "Software testing methodologies"
+        ],
+        "position": "right"
+    },
+    {
+        "id": "mmmut-foundation",
+        "title": "REACTJS DEVELOPER",
+        "company": "MMMUT FOUNDATION",
+        "date": "APR 2024 - JUN 2024",
+        "location": "Gorakhpur, UP",
+        "duration": "3 months",
+        "description": [
+            "⚛️ Developed complete website using React.js",
+            "🎨 Implemented modern UI/UX design principles",
+            "🔄 Created reusable component library"
+        ],
+        "detailedDescription": "As a React.js Developer at MMMUT Foundation, I was responsible for developing a modern, responsive website that effectively represents the foundation's mission and activities. This project involved creating an intuitive user interface and implementing best practices in React development.",
+        "technologies": [
+            "React.js",
+            "JavaScript",
+            "CSS3",
+            "HTML5",
+            "Git",
+            "Responsive Design",
+            "Component Architecture"
+        ],
+        "keyResponsibilities": [
+            "Developed responsive website using React.js framework",
+            "Implemented modern UI/UX design principles",
+            "Created reusable component library for consistency",
+            "Optimized website performance and loading speed",
+            "Ensured cross-browser compatibility",
+            "Implemented SEO best practices"
+        ],
+        "achievements": [
+            "Delivered website 2 weeks ahead of schedule",
+            "Achieved 95% accessibility compliance score",
+            "Improved website loading speed by 50%"
+        ],
+        "challenges": [
+            "Balancing design aesthetics with functionality",
+            "Ensuring responsive design across all devices",
+            "Optimizing for various screen sizes"
+        ],
+        "learnings": [
+            "Advanced React.js concepts and patterns",
+            "Modern CSS techniques and responsive design",
+            "Component-based architecture principles",
+            "Performance optimization strategies"
+        ],
+        "position": "left"
+    },
+    {
+        "id": "coders-club",
+        "title": "MERN STACK DEVELOPER",
+        "company": "CODERS AND DEVELOPERS CLUB",
+        "date": "JAN 2024 - APR 2024",
+        "location": "MMMUT, Gorakhpur",
+        "duration": "4 months",
+        "description": [
+            "🌐 Built club website with event management system",
+            "🎓 Implemented certificate verification system",
+            "💬 Created coding query resolution platform"
+        ],
+        "detailedDescription": "Working with the Coders and Developers Club at MMMUT, I developed a comprehensive web platform that serves the student community. This project involved creating multiple interconnected systems including event management, certificate verification, and a coding query platform.",
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "JWT",
+            "Socket.io",
+            "Bootstrap",
+            "Git"
+        ],
+        "keyResponsibilities": [
+            "Developed club website with modern design and functionality",
+            "Implemented event management system for club activities",
+            "Created certificate verification system for achievements",
+            "Built coding query resolution platform for students",
+            "Implemented real-time chat functionality using Socket.io",
+            "Managed database design and optimization"
+        ],
+        "achievements": [
+            "Successfully launched platform serving 500+ students",
+            "Implemented automated certificate verification system",
+            "Created efficient event management workflow"
+        ],
+        "challenges": [
+            "Managing multiple interconnected systems",
+            "Implementing real-time features",
+            "Ensuring data security and privacy"
+        ],
+        "learnings": [
+            "Full-stack MERN development",
+            "Real-time application development",
+            "Database design and management",
+            "User experience optimization"
+        ],
+        "position": "right"
+    }
+]

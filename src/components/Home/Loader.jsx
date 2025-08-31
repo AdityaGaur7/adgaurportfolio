@@ -1,65 +1,63 @@
-import React, { useEffect } from 'react'
-import "./loader.css"
+import React, { useEffect } from "react";
+import "../styles/loader.css";
 const Loader = () => {
-
-    useEffect(()=>{
-        setTimeout(() => {
-            const loader = document.querySelector('.load');
-            loader.style.transform = 'translateY(-200%)';
-        }, 4000);
-      
-     },[])
+  useEffect(() => {
+    setTimeout(() => {
+      const loader = document.querySelector(".load");
+      loader.style.transform = "translateY(-200%)";
+    }, 4000);
+  }, []);
   return (
-    <div className='load'>
-        <div class="box-of-star1">
-    <div class="star star-position1"></div>
-    <div class="star star-position2"></div>
-    <div class="star star-position3"></div>
-    <div class="star star-position4"></div>
-    <div class="star star-position5"></div>
-    <div class="star star-position6"></div>
-    <div class="star star-position7"></div>
-  </div>
-  <div class="box-of-star2">
-    <div class="star star-position1"></div>
-    <div class="star star-position2"></div>
-    <div class="star star-position3"></div>
-    <div class="star star-position4"></div>
-    <div class="star star-position5"></div>
-    <div class="star star-position6"></div>
-    <div class="star star-position7"></div>
-  </div>
-  <div class="box-of-star3">
-    <div class="star star-position1"></div>
-    <div class="star star-position2"></div>
-    <div class="star star-position3"></div>
-    <div class="star star-position4"></div>
-    <div class="star star-position5"></div>
-    <div class="star star-position6"></div>
-    <div class="star star-position7"></div>
-  </div>
-  <div class="box-of-star4">
-    <div class="star star-position1"></div>
-    <div class="star star-position2"></div>
-    <div class="star star-position3"></div>
-    <div class="star star-position4"></div>
-    <div class="star star-position5"></div>
-    <div class="star star-position6"></div>
-    <div class="star star-position7"></div>
-  </div>
-  <div data-js="astro" class="astronaut">
-    <div class="head"></div>
-    <div class="arm arm-left"></div>
-    <div class="arm arm-right"></div>
-    <div class="body">
-      <div class="panel"></div>
+    <div className="load">
+      <div className="box-of-star1">
+        <div className="star star-position1"></div>
+        <div className="star star-position2"></div>
+        <div className="star star-position3"></div>
+        <div className="star star-position4"></div>
+        <div className="star star-position5"></div>
+        <div className="star star-position6"></div>
+        <div className="star star-position7"></div>
+      </div>
+      <div className="box-of-star2">
+        <div className="star star-position1"></div>
+        <div className="star star-position2"></div>
+        <div className="star star-position3"></div>
+        <div className="star star-position4"></div>
+        <div className="star star-position5"></div>
+        <div className="star star-position6"></div>
+        <div className="star star-position7"></div>
+      </div>
+      <div className="box-of-star3">
+        <div className="star star-position1"></div>
+        <div className="star star-position2"></div>
+        <div className="star star-position3"></div>
+        <div className="star star-position4"></div>
+        <div className="star star-position5"></div>
+        <div className="star star-position6"></div>
+        <div className="star star-position7"></div>
+      </div>
+      <div className="box-of-star4">
+        <div className="star star-position1"></div>
+        <div className="star star-position2"></div>
+        <div className="star star-position3"></div>
+        <div className="star star-position4"></div>
+        <div className="star star-position5"></div>
+        <div className="star star-position6"></div>
+        <div className="star star-position7"></div>
+      </div>
+      <div data-js="astro" className="astronaut">
+        <div className="head"></div>
+        <div className="arm arm-left"></div>
+        <div className="arm arm-right"></div>
+        <div className="body">
+          <div className="panel"></div>
+        </div>
+        <div className="leg leg-left"></div>
+        <div className="leg leg-right"></div>
+        <div className="schoolbag"></div>
+      </div>
     </div>
-    <div class="leg leg-left"></div>
-    <div class="leg leg-right"></div>
-    <div class="schoolbag"></div>
-  </div>
-    </div>
-  )
-}
+  );
+};
 
-export default Loader
+export default Loader;

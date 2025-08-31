@@ -5,19 +5,6 @@ function Footer() {
     <div>
       <div className="footer">
         <div className="foot">
-          <div className="baya">
-            <ul>
-              <li>
-                Developer-<span>Aditya Gaur</span>
-              </li>
-              <li>
-                Call me at- <a href="tel:+918318881072"><span>+91 8318881072</span></a>
-              </li>
-              <li>
-                Mail me at- <a href="mailto:adgaur027@gmail.com"><span>adgaur027@gmail.com</span></a>
-              </li>
-            </ul>
-          </div>
           <div className="daya">
             <div className="handle glow" id="verti">
               <li>
