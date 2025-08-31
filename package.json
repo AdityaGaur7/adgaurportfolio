@@ -2,6 +2,10 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=10.0.0"
+  },
   "dependencies": {
     "@react-three/drei": "^9.106.0",
     "@rumess/react-flip-countdown": "^1.2.6",
