@@ -33,7 +33,7 @@
     "title": "🤖 AI Debate Simulator",
     "description": "A GenAI-powered web platform that simulates dynamic debates between two large language model (LLM) agents with contrasting personalities, leveraging Google's Gemini 2.0 Flash API. Users can choose topics and experience realistic, model-driven debate conversations enhanced with neural text-to-speech (TTS).",
     "image": "images/img/AI-Debate-Simulator.png",
-    "link": "https://drive.google.com/file/d/1SxbdzzAgxxgV3EAlga5t-2jpslhRxArG/view?usp=sharing",
+    "link": "https://github.com/AdityaGaur7/FightAi",
     "client": "Personal Project - AI Debate Simulator",
     "date": "December 2024",
     "tags": [
