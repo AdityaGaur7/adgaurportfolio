@@ -26,7 +26,7 @@ function Projects() {
           {displayedProjects.map((project, index) => (
             <div
               key={index}
-              className="project-card monochrome"
+              className="project-card"
               data-aos="flip-up"
               data-aos-easing="ease-out-cubic"
               data-aos-duration="2000"

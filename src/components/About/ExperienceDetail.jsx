@@ -62,6 +62,16 @@ const ExperienceDetail = () => {
                 <span className="meta-item">
                   <FaChartLine /> {experience.duration}
                 </span>
+                <span className="meta-item">
+                  <FaExternalLinkAlt />{" "}
+                  <a
+                    href={experience.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {experience.url}
+                  </a>
+                </span>
               </div>
             </div>
           </div>

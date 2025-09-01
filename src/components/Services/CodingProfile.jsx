@@ -1,5 +1,4 @@
 import React, { useEffect, useRef } from "react";
-import VanillaTilt from "vanilla-tilt";
 import "../styles/SkillsGallery.css";
 
 const skills = [
@@ -40,39 +39,20 @@ const skills = [
   //   }
 ];
 
-const Tilt = ({ children }) => {
-  const tiltRef = useRef(null);
-
-  useEffect(() => {
-    VanillaTilt.init(tiltRef.current, {
-      max: 25,
-      speed: 400,
-      glare: true,
-      "max-glare": 0.5,
-    });
-  }, []);
-
-  return (
-    <div ref={tiltRef} className="tilt-card">
-      {children}
-    </div>
-  );
-};
-
 const SkillsGallery = () => {
   return (
     <>
       <h3 className="skills-title coding-profile">CODING PROFILES</h3>
       <div className="skills-gall">
         {skills.map((skill, index) => (
-          <Tilt key={index}>
+          <div key={index}>
             <div className="tiltcard">
               <a href={skill.url} target="_blank" rel="noopener noreferrer">
                 <img src={skill.img} alt={skill.name} className="skillicon" />
                 <p className="skillname">{skill.name}</p>
               </a>
             </div>
-          </Tilt>
+          </div>
         ))}
       </div>
       <br />

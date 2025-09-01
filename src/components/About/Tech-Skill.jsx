@@ -1,5 +1,4 @@
 import React, { useEffect, useRef } from "react";
-import VanillaTilt from "vanilla-tilt";
 import "../styles/SkillsGallery.css";
 
 const frontendSkills = [
@@ -83,16 +82,8 @@ const databaseSkills = [
 ];
 
 const SkillsGallery = () => {
-  const tiltRef = useRef(null);
+  
 
-  useEffect(() => {
-    VanillaTilt.init(tiltRef.current, {
-      max: 25,
-      speed: 400,
-      glare: true,
-      "max-glare": 0.5,
-    });
-  }, []);
 
   const renderSkills = (skills) => {
     return skills.map((skill, index) => (
