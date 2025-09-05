@@ -240,6 +240,33 @@
     ]
   },
   {
+    "title": "SEARCH PKMN (REACTJS)",
+    "description": "A Pokémon search application built with React.js. This tool allows users to search for and view information about various Pokémon with their images.",
+    "image": "images/img/pokemon.png",
+    "link": "https://pokemonsearchbyadgaur.netlify.app/",
+    "client": "Personal Project",
+    "date": "March 2024",
+    "tags": [
+      "React",
+      "API Integration",
+      "CSS",
+      "Entertainment"
+    ],
+    "longDescription": "A Pokémon search application built with React.js. This tool allows users to search for and view information about various Pokémon with their images.",
+    "features": [
+      "Pokémon search",
+      "Image display",
+      "Detailed information",
+      "Responsive design"
+    ],
+    "technologies": [
+      "React.js",
+      "PokéAPI",
+      "CSS3",
+      "Responsive Design"
+    ]
+  },
+  {
     "title": "Graph Visualizer",
     "description": "An interactive graph visualization app to create, visualize, and traverse graphs with real-time algorithm animations like BFS and DFS.",
     "image": "images/img/GraphVisualizer.png",
@@ -438,33 +465,6 @@
       "MongoDB",
       "JWT Authentication",
       "Cloud Storage"
-    ]
-  },
-  {
-    "title": "SEARCH PKMN (REACTJS)",
-    "description": "A Pokémon search application built with React.js. This tool allows users to search for and view information about various Pokémon with their images.",
-    "image": "images/img/pokemon.png",
-    "link": "https://pokemonsearchbyadgaur.netlify.app/",
-    "client": "Personal Project",
-    "date": "March 2024",
-    "tags": [
-      "React",
-      "API Integration",
-      "CSS",
-      "Entertainment"
-    ],
-    "longDescription": "A Pokémon search application built with React.js. This tool allows users to search for and view information about various Pokémon with their images.",
-    "features": [
-      "Pokémon search",
-      "Image display",
-      "Detailed information",
-      "Responsive design"
-    ],
-    "technologies": [
-      "React.js",
-      "PokéAPI",
-      "CSS3",
-      "Responsive Design"
     ]
   },
   {
