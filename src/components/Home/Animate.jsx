@@ -3,48 +3,52 @@ import VisitCounter from "../About/firebase";
 import gsap from "gsap";
 import "../styles/animate.css";
 const Animate = () => {
-  useEffect(() => {
-    const moveElement = () => {
-      const scrollPosition = window.scrollY;
+ useEffect(() => {
+  const moveElement = () => {
+    const scrollPosition = window.scrollY;
 
-      gsap.to(".astro1", { x: scrollPosition, ease: "none" });
-      gsap.to(".counter", { y: scrollPosition, ease: "none" });
-      gsap.to(".astro2", { x: -scrollPosition, ease: "none" });
-      gsap.to(".wlcm", { x: -scrollPosition, ease: "none" });
-      gsap.to(".astrospace", { x: scrollPosition, ease: "none" });
-      gsap.to(".to", { y: scrollPosition, ease: "none" });
-      gsap.to(".rocket", {
-        y: -scrollPosition,
-        x: -scrollPosition,
-        ease: "none",
-      });
+    gsap.to(".astro1", { x: scrollPosition, ease: "none" });
+    gsap.to(".counter", { y: scrollPosition, ease: "none" });
+    gsap.to(".astro2", { x: -scrollPosition, ease: "none" });
 
-      gsap.to(".asteroid", {
-        x: scrollPosition,
-        y: scrollPosition,
-        ease: "none",
-      });
-      gsap.to(".satellite", {
-        x: scrollPosition,
-        y: -scrollPosition,
-        ease: "none",
-      });
-      gsap.to(".astro1", {
-        y: Math.sin(scrollPosition * 0.1) * 25,
-        ease: "none",
-      });
-      gsap.to(".astro2", {
-        y: Math.cos(scrollPosition * 0.1) * 25,
-        ease: "none",
-      });
-    };
+    // This line is already correct, but we'll add a comment for clarity.
+    // It makes the element move to the left as you scroll down.
+    gsap.to(".wlcm", { x: -scrollPosition, ease: "none" });
+    
+    gsap.to(".astrospace", { x: scrollPosition, ease: "none" });
+    gsap.to(".to", { y: scrollPosition, ease: "none" });
+    gsap.to(".rocket", {
+      y: -scrollPosition,
+      x: -scrollPosition,
+      ease: "none",
+    });
 
-    window.addEventListener("scroll", moveElement);
+    gsap.to(".asteroid", {
+      x: scrollPosition,
+      y: scrollPosition,
+      ease: "none",
+    });
+    gsap.to(".satellite", {
+      x: scrollPosition,
+      y: -scrollPosition,
+      ease: "none",
+    });
+    gsap.to(".astro1", {
+      y: Math.sin(scrollPosition * 0.1) * 25,
+      ease: "none",
+    });
+    gsap.to(".astro2", {
+      y: Math.cos(scrollPosition * 0.1) * 25,
+      ease: "none",
+    });
+  };
 
-    return () => {
-      window.removeEventListener("scroll", moveElement);
-    };
-  }, []);
+  window.addEventListener("scroll", moveElement);
+
+  return () => {
+    window.removeEventListener("scroll", moveElement);
+  };
+}, []);
 
   return (
     <>
@@ -88,8 +92,7 @@ const Animate = () => {
         />
         <div className="midtext">
           <div className="txt">
-            <h1 className="wlcm">Welcome </h1>
-            <h1 className="to"> To My</h1> <h1 className="astrospace">Space</h1>
+            <h1 className="wlcm">Welcome To My Space</h1>
           </div>
         </div>
       </div>

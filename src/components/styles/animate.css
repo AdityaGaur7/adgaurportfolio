@@ -14,7 +14,7 @@
 
 
 .astro1 {
-     filter: drop-shadow(12px 12px 8px black);
+    filter: drop-shadow(12px 12px 8px black);
     position: fixed;
     z-index: 1;
     left: 5%;
@@ -64,8 +64,15 @@
 .txt {
     display: block;
     text-align: center;
-    font-size: 4.5rem;
+    font-size: 6rem;
+    font-family: system-ui;
+    width: 100%;
    
+}
+.wlcm{
+    
+    font-family: "Rubik Doodle Shadow", system-ui;
+    
 }
 
 #first_letter {

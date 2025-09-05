@@ -28,6 +28,264 @@
         ]
     },
     {
+        "title": "MMMUTFOUNDATION",
+        "description": "A comprehensive platform providing industry mentorship, financial assistance, academic support, networking opportunities, and high-tech resources.",
+        "image": "images/img/mmmut_foundation.png",
+        "link": "https://mmmut-foundation-weld.vercel.app/",
+        "client": "Real Client - MMMUT Foundation",
+        "date": "January 2024-February 2024",
+        "tags": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Education",
+          "Mentorship"
+        ],
+        "longDescription": "MMMUTFOUNDATION is a comprehensive platform designed to support student growth and development through various initiatives. The platform connects industry professionals with students, provides financial assistance programs, and offers academic support services to enhance the educational experience.",
+        "features": [
+          "Industry mentorship program",
+          "Financial aid management",
+          "Academic counseling",
+          "Networking events organization",
+          "Resource allocation system",
+          "Progress tracking",
+          "Expert guidance portal"
+        ],
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "JWT Authentication",
+          "Socket.io"
+        ]
+      },
+      {
+        "title": "AI INTEGRATED FLASHCARDS (MERN)",
+        "description": "Developed an AI-driven flashcard app with Google Login for secure access, supporting over 1,000 users.",
+        "image": "images/img/flashcard.png",
+        "link": "https://tuf-task-frontend-nu.vercel.app/",
+        "client": "Real Client - Educational Institution",
+        "date": "November 2023-December 2023",
+        "tags": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "AI",
+          "Education"
+        ],
+        "longDescription": "An innovative flashcard application that leverages artificial intelligence to enhance learning experiences. The platform supports thousands of users with AI-powered explanations and text-to-speech functionality for comprehensive learning.",
+        "features": [
+          "AI-powered explanations",
+          "Google Authentication",
+          "Text-to-speech functionality",
+          "CRUD operations for flashcards",
+          "Progress tracking",
+          "Search and filter capabilities"
+        ],
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Google OAuth",
+          "AI APIs",
+          "Web Speech API"
+        ]
+      },
+      {
+        "title": "ADMIN PANEL (MERN)",
+        "description": "A robust admin panel built using the MERN stack for managing an eCommerce application.",
+        "image": "images/img/AdminPanel.png",
+        "link": "https://mern-ecomm-yk9t.vercel.app/",
+        "client": "Personal Project",
+        "date": "May 2024",
+        "tags": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Admin Dashboard"
+        ],
+        "longDescription": "A comprehensive admin dashboard that provides complete control over an eCommerce platform. The panel offers intuitive interfaces for managing products, orders, users, and analytics.",
+        "features": [
+          "Product management",
+          "Order processing",
+          "User management",
+          "Analytics dashboard",
+          "Inventory tracking",
+          "Sales reporting"
+        ],
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Chart.js",
+          "JWT Authentication"
+        ]
+      },
+      {
+        "title": "TRAVEL & TOURS (NEXTJS)",
+        "description": "A comprehensive travel website that lists renowned travel destinations around the world.",
+        "image": "images/img/Travel&Tours.png",
+        "link": "https://tripowa-tours-pvt-ltd-task.vercel.app/",
+        "client": "Real Client - Tripowa Tours Pvt Ltd",
+        "date": "September 2024",
+        "tags": [
+          "Next.js",
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Travel"
+        ],
+        "longDescription": "A sophisticated travel platform that showcases destinations worldwide, providing detailed information about tourist spots, attractions, and travel tips. The website offers an immersive experience for travel enthusiasts to discover and plan their next adventure.",
+        "features": [
+          "Destination catalog",
+          "Interactive maps",
+          "Travel guides",
+          "Booking system",
+          "User reviews",
+          "Travel tips",
+          "Photo galleries"
+        ],
+        "technologies": [
+          "Next.js",
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Google Maps API",
+          "Responsive Design"
+        ]
+      },
+      {
+        "title": "PAYMENT GATEWAY INTEGRATION (MERN)",
+        "description": "A sophisticated payment gateway solution supporting multiple payment methods.",
+        "image": "images/img/PaymentGateway.png",
+        "link": "https://cal-al-frontend.vercel.app/",
+        "client": "Personal Project",
+        "date": "October 2024",
+        "tags": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Payment Gateway"
+        ],
+        "longDescription": "A robust payment processing system that integrates multiple payment methods including PayPal, credit cards, and Stripe. The platform ensures secure transactions with Google Authentication and provides a seamless payment experience for users and businesses.",
+        "features": [
+          "Multiple payment methods",
+          "Google Authentication",
+          "Transaction history",
+          "Payment analytics",
+          "Secure processing",
+          "User dashboard",
+          "Receipt generation"
+        ],
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Stripe API",
+          "PayPal API",
+          "Google OAuth"
+        ]
+      },
+      {
+        "title": "INVOICE GENERATOR (REACTJS)",
+        "description": "An efficient tool for creating and managing invoices for sales and marketing companies.",
+        "image": "images/img/InvoiceGen.png",
+        "link": "https://invoice-generator-sand-six.vercel.app/",
+        "client": "Personal Project",
+        "date": "November 2024",
+        "tags": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Business",
+          "Finance"
+        ],
+        "longDescription": "A comprehensive invoice management system designed for businesses to create, track, and manage professional invoices. The application streamlines the billing process with customizable templates and efficient tracking features.",
+        "features": [
+          "Custom invoice templates",
+          "Payment tracking",
+          "Client management",
+          "PDF generation",
+          "Email integration",
+          "Financial reporting",
+          "Tax calculation"
+        ],
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "PDF.js",
+          "Email API",
+          "Cloud Storage"
+        ]
+      },
+      {
+        "title": "MOVIE LISTING (REACTJS)",
+        "description": "A dynamic website showcasing a curated list of popular movies.",
+        "image": "images/img/MovieList.png",
+        "link": "https://mymovie-phi.vercel.app/",
+        "client": "Personal Project",
+        "date": "December 2024",
+        "tags": [
+          "React",
+          "API Integration",
+          "CSS",
+          "Entertainment"
+        ],
+        "longDescription": "A comprehensive movie database platform that provides detailed information about films, including genres, ratings, and descriptions. The website features an intuitive interface for users to discover and explore movies based on their preferences.",
+        "features": [
+          "Movie search",
+          "Genre filtering",
+          "Rating system",
+          "Watchlist creation",
+          "Movie recommendations",
+          "Detailed movie info",
+          "Responsive design"
+        ],
+        "technologies": [
+          "React.js",
+          "Movie Database API",
+          "CSS3",
+          "Local Storage",
+          "Responsive Design"
+        ]
+      },{
+        "title": "ART GALLERY",
+        "description": "A Next.js-based platform showcasing various artworks. EMBRACE ARTS serves as a digital gallery to explore and appreciate different forms of art.",
+        "image": "images/img/Artwork.png",
+        "link": "https://art-silk.vercel.app/",
+        "client": "Personal Project",
+        "date": "May 2024-June 2024 ",
+        "tags": [
+          "Next.js",
+          "Art Gallery",
+          "Responsive Design"
+        ],
+        "longDescription": "A sophisticated digital art gallery platform built with Next.js that provides art enthusiasts with an immersive experience to explore and appreciate various forms of artwork. The platform features high-quality image displays, artist information, and interactive gallery navigation.",
+        "features": [
+          "Artwork display",
+          "Artist profiles",
+          "Artistic insights",
+          "Responsive design",
+          "User-friendly interface"
+        ],
+        "technologies": [
+          "Next.js",
+          "React",
+          "CSS3",
+          "Responsive Design",
+          "Image Optimization",
+          "Cloud Storage"
+        ]
+      },
+
+    {
         "title": "SWASTHMITRA",
         "description": "A platform for providing medical assistance to the needy. SWASTHMITRA offers a one-stop solution for providing medical assistance to the needy, simplifying the process of accessing and organizing medical resources.",
         "image": "images/img/swasthmitra.png",

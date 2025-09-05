@@ -48,7 +48,7 @@ function ProjectDetail() {
           <div className="project-hero-content">
             <div className="project-hero-text">
               <h1 className="project-title">{project.title}</h1>
-              <p className="project-subtitle">{project.description}</p> 
+              <p className="project-subtitle">{project.description}</p>
 
               <div className="project-meta">
                 <div className="meta-item">
