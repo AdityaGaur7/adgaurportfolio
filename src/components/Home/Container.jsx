@@ -47,7 +47,7 @@ const Cont = () => {
           <div />
         </div>
       </div>
-      <hr />
+     
     </>
   );
 };

@@ -83,11 +83,6 @@ const Nav = () => {
               </NavLink>
             </li>
             <li>
-              <NavLink to="/about" onClick={windowWidth < 790 ? fun1 : fun2}>
-                About
-              </NavLink>
-            </li>
-            <li>
               <NavLink to="/project" onClick={windowWidth < 790 ? fun1 : fun2}>
                 Projects
               </NavLink>

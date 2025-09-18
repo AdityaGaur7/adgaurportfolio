@@ -2,8 +2,6 @@ import React, { useEffect } from "react";
 import AnimatedCursor from "react-animated-cursor";
 import Nav from "./MainComp/Nav";
 import Footer from "./MainComp/Footer";
-import Back from "./Home/Backg";
-
 import Services from "./Services/Services";
 import Projects from "./project/Projects";
 import ProjectDetail from "./project/ProjectDetail";
@@ -60,12 +58,10 @@ function Main() {
             }}
           />
 
-          <div className="background">
-            <Back />
-          </div>
+         
         </div>
         <Nav />
-        <Back />
+        
 
         <Routes>
           <Route path="/" element={<Home />} />

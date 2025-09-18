@@ -12,6 +12,7 @@
     font-weight: 600;
     font-style: normal;
     z-index: 1;
+    font-family: 'DM Sans';
     font-weight: 700;
 
 }
@@ -699,7 +700,7 @@ textarea {
 }
 
 #img {
-    animation: bg 4s 0s infinite linear;
+    /* animation: bg 4s 0s infinite linear; */
     /* box-shadow: 6px 6px 8px#00E8F8; */
     transition: all ease 2s;
     /* filter: drop-shadow(7px 0px 25px  #e70e0e); */

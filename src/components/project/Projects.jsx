@@ -45,7 +45,7 @@ function Projects() {
           {showAll ? "Show Less" : "Show More"}
         </button>
       </div>
-      <hr />
+    
     </>
   );
 }

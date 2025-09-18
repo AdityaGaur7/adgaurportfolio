@@ -163,7 +163,7 @@ const ExperienceDetail = () => {
           </button>
         </div>
       </div>
-      <hr />
+      
     </div>
   );
 };

@@ -46,11 +46,11 @@ function About() {
         </div>
         <div />
       </div>
-      <hr />
+      
       <Experience />
-      <hr />
+      
       <Certificates />
-      <hr />
+      
      
     </>
   );
