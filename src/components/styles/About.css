@@ -38,6 +38,7 @@
 
 .certificate-card:hover {
     transform: translateY(-5px);
+    
 }
 
 .certificate-card img {

@@ -9,7 +9,7 @@ import About from "./About/About";
 import ExperienceDetail from "./About/ExperienceDetail";
 import Aos from "aos";
 import "aos/dist/aos.css";
-
+import '../index.css';
 import Home from "./Home/Home";
 
 import {
@@ -36,7 +36,7 @@ function Main() {
   }, []);
   return (
     <Router>
-      <div>
+      <div >
         <ScrollToTop />
         <div className="App">
           <AnimatedCursor

@@ -10,8 +10,9 @@
     }
 
     body {
-        /* overflow-x: hidden; */
-        /* background: #565bbb6d; */
+        overflow-x: hidden;
+        background: url('../public/images/bg.png');
+    background-color: #030303;
     }
 
     .logo img {

@@ -28,8 +28,8 @@ const Cont = () => {
             </h1>
             
             <p className="text-cont">
-            Final Year B.Tech | Software Engineer skilled in C++, MERN, Angular, Next.js
-            Passionate about <br/> Problem Solving & Scalable Backend Development
+            Final Year B.Tech | Software Engineer skilled in C++, MERN, Angular, Java Spring Boot, Next.js
+            Passionate about <br/> Problem Solving, Scalable Backend Development, and applying Agentic AI & RAG for building intelligent, data-driven systems.
             </p>
 
           </div>
