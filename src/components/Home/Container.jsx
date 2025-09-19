@@ -13,7 +13,7 @@ const Cont = () => {
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
           >
-            <h3>Hi, it's Me</h3>
+            <h3>Hello World,</h3>
             <h1>
               I'm{" "}
               <span

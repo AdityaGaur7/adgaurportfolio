@@ -385,9 +385,10 @@
 }
 
 .birthday {
-    border: 1px solid white;
+    border: 1px solid #00E8F8;
     box-shadow: black 3px 3px 2px;
     display: flex;
+    border-radius: 10px;
     justify-content: center;
     align-items: center;
     margin: 2rem;
