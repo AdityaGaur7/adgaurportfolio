@@ -9,9 +9,6 @@ const Cont = () => {
         <div className="box">
           <div
             className="left"
-            data-aos="fade-right"
-            data-aos-offset="300"
-            data-aos-easing="ease-in-sine"
           >
             <h3>Hello World,</h3>
             <h1>
@@ -37,9 +34,7 @@ const Cont = () => {
           <div className="right">
             <div
               className="frame"
-              data-aos="fade-left"
-              data-aos-offset="300"
-              data-aos-easing="ease-in-sine"
+              
             >
               <img src="images/adgaur.jpg" alt="" id="img" />
             </div>

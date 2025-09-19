@@ -8,13 +8,11 @@ function About() {
     <>
       <div className="about">
         <div className="me" id="about">
-          {/* <div className="photo" data-aos="fade-right">
-            <img src="images/programmer.webp" alt="ok" />
-          </div> */}
+       
           <div className="dynamic-icon-cloud">
             <DynamicIconCloud />
           </div>
-          <div className="info " data-aos="fade-left">
+            <div className="info ">
             <h1
               style={{
                 fontFamily: "monospace",
