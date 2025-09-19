@@ -22,6 +22,7 @@
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   border: 1px solid #00E8F8;
+  border-radius: 10px;
   position: relative;
   padding: 0.5rem;
 }

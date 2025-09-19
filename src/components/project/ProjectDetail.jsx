@@ -73,7 +73,12 @@ function ProjectDetail() {
             </div>
 
             <div className="project-hero-image">
-              <img src={`/${project.image}`} alt={project.title} />
+              <img
+                src={`/${project.image}`}
+                alt={project.title}
+                loading="lazy"
+                decoding="async"
+              />
             </div>
           </div>
         </div>
@@ -140,17 +145,6 @@ function ProjectDetail() {
               </div>
             </div>
 
-            <div className="sidebar-section">
-              <a
-                href={project.link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="sidebar-cta-btn"
-              >
-                <FiExternalLink size={20} />
-                View Live Project
-              </a>
-            </div>
           </div>
         </div>
       </div>
