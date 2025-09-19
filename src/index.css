@@ -100,6 +100,7 @@ body {
     font-weight: 900;
     transition: ease .15s;
     padding: 1rem;
+    border-radius: 2px;
     background-color: #0c0c0e;
     border: 1px solid white;
 }

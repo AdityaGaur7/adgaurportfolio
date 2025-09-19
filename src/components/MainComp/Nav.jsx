@@ -48,8 +48,10 @@ const Nav = () => {
         <IoClose
           style={{
             display: windowWidth > 790 ? "none" : isvisible ? "none" : "flex",
-            backgroundColor: "#575c63",
+            backgroundColor: "#090909",
             padding: "5px",
+            border: "1px solid white",
+            borderRadius: "5px",
             color: "white",
             fontSize: "35px",
           }}
@@ -58,8 +60,10 @@ const Nav = () => {
         <HiMenu
           style={{
             display: windowWidth > 790 ? "none" : isvisible ? "flex" : "none",
-            backgroundColor: "#575c63",
+            backgroundColor: "#090909",
             padding: "5px",
+            border: "1px solid white",
+            borderRadius: "5px",
             color: "white",
             fontSize: "35px",
           }}
