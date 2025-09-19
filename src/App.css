@@ -10,8 +10,9 @@
     }
 
     body {
-        /* overflow-x: hidden; */
-        /* background: #565bbb6d; */
+        overflow-x: hidden;
+        background: url('../public/images/bg.png');
+    background-color: #030303;
     }
 
     .logo img {
@@ -74,6 +75,7 @@
         padding: 1rem;
 
         border: 1px solid white;
+        border-radius: 5px;
     }
 
     #bg {
@@ -384,9 +386,10 @@
 }
 
 .birthday {
-    border: 1px solid white;
+    border: 1px solid #00E8F8;
     box-shadow: black 3px 3px 2px;
     display: flex;
+    border-radius: 10px;
     justify-content: center;
     align-items: center;
     margin: 2rem;

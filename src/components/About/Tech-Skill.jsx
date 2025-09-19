@@ -117,7 +117,7 @@ const SkillsGallery = () => {
           <div className="skills-container">{renderSkills(databaseSkills)}</div>
         </div>
       </div>
-      <hr />
+    
     </>
   );
 };

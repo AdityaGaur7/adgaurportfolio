@@ -1,20 +1,17 @@
 import React from "react";
 import Birthday from "./Birthday";
 import Experience from "./Experience.jsx";
-import Certificates from "./Certificates";
 import DynamicIconCloud from "./DynamicIconCloud";
 function About() {
   return (
     <>
       <div className="about">
         <div className="me" id="about">
-          {/* <div className="photo" data-aos="fade-right">
-            <img src="images/programmer.webp" alt="ok" />
-          </div> */}
+       
           <div className="dynamic-icon-cloud">
             <DynamicIconCloud />
           </div>
-          <div className="info " data-aos="fade-left">
+            <div className="info ">
             <h1
               style={{
                 fontFamily: "monospace",
@@ -46,11 +43,11 @@ function About() {
         </div>
         <div />
       </div>
-      <hr />
+      
       <Experience />
-      <hr />
-      <Certificates />
-      <hr />
+      
+     
+      
      
     </>
   );

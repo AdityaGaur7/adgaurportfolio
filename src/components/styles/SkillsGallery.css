@@ -22,6 +22,7 @@
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   border: 1px solid #00E8F8;
+  border-radius: 10px;
   position: relative;
   padding: 0.5rem;
 }
@@ -109,6 +110,7 @@
   padding: 3rem;
   text-align: center;
 }
+
 .tiltcard:hover {
   transform: translateY(-10px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
@@ -128,6 +130,7 @@
 .skillname {
   font-size: 1rem;
   font-weight: 600;
+  font-family: 'DM Sans';
 }
 
 @media (max-width:790px) {

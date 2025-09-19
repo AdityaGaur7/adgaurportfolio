@@ -96,7 +96,7 @@ const Animate = () => {
           </div>
         </div>
       </div>
-      <hr />
+    
     </>
   );
 };

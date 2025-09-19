@@ -1,19 +1,17 @@
 import React from 'react'
-
-import Animate from './Animate';
 import Cont from './Container';
 import Visit from '../About/firebase';
-import Loader from './Loader';
-
+import About from '../About/About';
 
 const Home = () => {
   return (
     <div>
- <Animate/>
-      <Cont />
-      <Visit/>
  
-      <Loader/>
+      <Cont />
+      <About/>
+      <Visit/>
+     
+    
     
     </div>
   )

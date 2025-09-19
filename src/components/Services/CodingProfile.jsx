@@ -56,7 +56,7 @@ const SkillsGallery = () => {
         ))}
       </div>
       <br />
-      <hr />
+      
     </>
   );
 };

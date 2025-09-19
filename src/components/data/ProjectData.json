@@ -1,6 +1,6 @@
 [
   {
-    "title": "MMMUTRESO 📚",
+    "title": "MMMUTRESO",
     "description": "A centralized platform for accessing study resources. MMMUTRESO offers a one-stop solution for students to find and utilize various educational materials and tools, simplifying the process of accessing and organizing study resources.",
     "image": "images/img/MMMUTRESO.png",
     "link": "https://mmmut.xyz",
@@ -30,7 +30,106 @@
     ]
   },
   {
-    "title": "🤖 AI Debate Simulator",
+    "title": "Editify AI",
+    "description": "A modern AI image generation and processing web application built with the MERN stack. It allows users to generate images from text and transform existing images using a suite of AI-powered tools.",
+    "image": "images/img/editify.png",
+    "link": "https://editify-frontend.vercel.app/",
+    "client": "Personal Project - Editify AI",
+    "date": "September 2025",
+    "tags": [
+      "MERN Stack",
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "AI",
+      "Image Generation",
+      "Image Processing",
+      "Clipdrop",
+      "Razorpay",
+      "JWT"
+    ],
+    "longDescription": "Editify AI is a full-stack MERN application that provides a comprehensive platform for AI-driven image manipulation. It integrates various APIs from Clipdrop to offer functionalities like text-to-image generation, object removal, background removal, and more. The application features a clean, responsive, and mobile-first user interface with smooth animations built using Tailwind CSS and Framer Motion. It includes a complete user authentication system with JWT, a credit-based payment system integrated with Razorpay, and robust error handling.",
+    "features": [
+      "Text-to-Image generation",
+      "Image Cleanup (object removal)",
+      "Background Removal (transparent PNG)",
+      "Text Removal (watermarks/captions)",
+      "UnCrop (extend image borders)",
+      "Product Photography Enhancement (lighting/shadows)",
+      "Interactive before/after image comparison sliders",
+      "JWT-based user authentication and credit system",
+      "Razorpay payment integration for credit top-ups",
+      "Responsive, monochromatic UI with animations",
+      "Robust error handling and loading states"
+    ],
+    "technologies": [
+      "React (Vite)",
+      "Node.js",
+      "Express.js",
+      "MongoDB (Mongoose)",
+      "Tailwind CSS",
+      "Framer/Motion",
+      "Clipdrop APIs",
+      "Razorpay",
+      "JWT",
+      "Bcrypt"
+    ],
+    "technicalDetails": {
+      "frontend": {
+        "framework": "React (Vite)",
+        "styling": "Tailwind CSS",
+        "animations": "Framer/Motion",
+        "stateManagement": "Not specified (likely React's built-in state management)",
+        "deployment": "Vercel"
+      },
+      "backend": {
+        "framework": "Node.js with Express.js",
+        "database": "MongoDB (Mongoose)",
+        "authentication": "JWT with Bcrypt hashing",
+        "apiIntegrations": "Clipdrop APIs, Razorpay API",
+        "deployment": "Render/Node hosting"
+      },
+      "authenticationFlow": {
+        "method": "Email/password",
+        "hashing": "Bcrypt",
+        "token": "JWT",
+        "storage": "Client-side (headers.token)",
+        "middleware": "userAuth middleware for decoding and attaching userId"
+      },
+      "paymentSystem": {
+        "provider": "Razorpay",
+        "endpoints": {
+          "createOrder": "/api/user/pay-razor",
+          "verifyOrder": "/api/user/verify-razorpay"
+        },
+        "functionality": "Adds credits to user balance upon successful verification"
+      },
+      "aiIntegration": {
+        "provider": "Clipdrop APIs",
+        "endpoints": [
+          "text-to-image/v1",
+          "cleanup/v1",
+          "remove-background/v1",
+          "remove-text/v1",
+          "uncrop/v1"
+        ],
+        "dataHandling": "Accepts base64 images; client compresses images >2MB"
+      },
+      "development": {
+        "server": "npm install, npm run server (nodemon)",
+        "client": "npm install, npm run dev"
+      },
+      "troubleshooting": {
+        "corsErrors": "Ensure CORS is configured and payload limits are high",
+        "authFailure": "Verify Razorpay keys in server .env",
+        "largeImages": "Client-side compression for images >2MB; server validation up to 10MB"
+      }
+    }
+  },
+  {
+    "title": "AI Debate Simulator",
     "description": "A GenAI-powered web platform that simulates dynamic debates between two large language model (LLM) agents with contrasting personalities, leveraging Google's Gemini 2.0 Flash API. Users can choose topics and experience realistic, model-driven debate conversations enhanced with neural text-to-speech (TTS).",
     "image": "images/img/AI-Debate-Simulator.png",
     "link": "https://github.com/AdityaGaur7/FightAi",

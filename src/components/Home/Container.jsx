@@ -9,11 +9,8 @@ const Cont = () => {
         <div className="box">
           <div
             className="left"
-            data-aos="fade-right"
-            data-aos-offset="300"
-            data-aos-easing="ease-in-sine"
           >
-            <h3>Hi, it's Me</h3>
+            <h3>Hello World,</h3>
             <h1>
               I'm{" "}
               <span
@@ -28,8 +25,8 @@ const Cont = () => {
             </h1>
             
             <p className="text-cont">
-            Final Year B.Tech | Software Engineer skilled in C++, MERN, Angular, Next.js
-            Passionate about <br/> Problem Solving & Scalable Backend Development
+            Final Year B.Tech | Software Engineer skilled in C++, MERN, Angular, Java Spring Boot, Next.js
+            Passionate about <br/> Problem Solving, Scalable Backend Development, and applying Agentic AI & RAG for building intelligent, data-driven systems.
             </p>
 
           </div>
@@ -37,9 +34,7 @@ const Cont = () => {
           <div className="right">
             <div
               className="frame"
-              data-aos="fade-left"
-              data-aos-offset="300"
-              data-aos-easing="ease-in-sine"
+              
             >
               <img src="images/adgaur.jpg" alt="" id="img" />
             </div>
@@ -47,7 +42,7 @@ const Cont = () => {
           <div />
         </div>
       </div>
-      <hr />
+     
     </>
   );
 };

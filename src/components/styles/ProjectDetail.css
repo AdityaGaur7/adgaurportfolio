@@ -73,7 +73,8 @@
    
     background-clip: text;
     line-height: 1.2;
-    color: #ffffff;
+
+    color: #d7d7d7;
 }
 
 .project-subtitle {
@@ -109,21 +110,24 @@
     display: inline-flex;
     align-items: center;
     gap: 0.75rem;
-    background: linear-gradient(135deg, #00e9f8 0%, #7c3aed 100%);
-    color: #ffffff;
     padding: 1rem 2rem;
     border-radius: 10px;
     font-size: 1.1rem;
     font-weight: 600;
     text-decoration: none;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 20px rgba(168, 85, 247, 0.3);
+    background: #2a2c2c;
+    color: white;
+
+    transition: background 0.3s ease;
+    border: 1px solid rgba(0, 232, 248, 0.3);
 }
 
 .visit-project-btn:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 30px rgba(168, 85, 247, 0.4);
-    background: linear-gradient(135deg, #9333ea 0%, #6d28d9 100%);
+    background: #d2d6d6;
+    transition: all 0.3s ease;
+    color: rgb(17, 17, 17);
+    border-color: #8df0f7;
 }
 
 .project-hero-image {
@@ -200,7 +204,7 @@
     justify-content: center;
     width: 40px;
     height: 40px;
-    background: linear-gradient(135deg, #00e9f8 0%, #7c3aed 100%);
+    background: #2a2c2c;
     border-radius: 10px;
     flex-shrink: 0;
 }
@@ -235,8 +239,8 @@
 
 .tech-badge,
 .tag-badge {
-    background: linear-gradient(135deg, #00e9f8 0%, #7c3aed 100%);
-    color: #ffffff;
+    background: #2a2c2c;
+    color: white;
     padding: 0.5rem 1rem;
     border-radius: 20px;
     font-size: 0.875rem;
@@ -276,20 +280,18 @@
     justify-content: center;
     gap: 0.75rem;
     width: 100%;
-    background: linear-gradient(135deg, #059669 0%, #047857 100%);
+    background: linear-gradient(135deg, #3d3d3d 0%, #1b1b1b 100%);
     color: #ffffff;
     padding: 1rem;
-    border-radius: 10px;
+    border-radius: 10px;    
     font-weight: 600;
     text-decoration: none;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 20px rgba(5, 150, 105, 0.2);
 }
 
 .sidebar-cta-btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 30px rgba(5, 150, 105, 0.3);
-    background: linear-gradient(135deg, #047857 0%, #065f46 100%);
+    background: linear-gradient(135deg, #2c2c2d 0%, #f4f3f5 100%);
 }
 
 /* Responsive Design */

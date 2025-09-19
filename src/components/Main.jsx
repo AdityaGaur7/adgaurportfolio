@@ -2,16 +2,13 @@ import React, { useEffect } from "react";
 import AnimatedCursor from "react-animated-cursor";
 import Nav from "./MainComp/Nav";
 import Footer from "./MainComp/Footer";
-import Back from "./Home/Backg";
-
 import Services from "./Services/Services";
 import Projects from "./project/Projects";
 import ProjectDetail from "./project/ProjectDetail";
-import About from "./About/About";
 import ExperienceDetail from "./About/ExperienceDetail";
 import Aos from "aos";
 import "aos/dist/aos.css";
-
+import '../index.css';
 import Home from "./Home/Home";
 
 import {
@@ -38,7 +35,7 @@ function Main() {
   }, []);
   return (
     <Router>
-      <div>
+      <div >
         <ScrollToTop />
         <div className="App">
           <AnimatedCursor
@@ -60,16 +57,13 @@ function Main() {
             }}
           />
 
-          <div className="background">
-            <Back />
-          </div>
+         
         </div>
         <Nav />
-        <Back />
+        
 
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/project/:projectId" element={<ProjectDetail />} />
           <Route

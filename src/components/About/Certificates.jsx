@@ -15,11 +15,6 @@ function Certificates() {
         "Java",
         "Spring Boot",
         "SQL",
-        "JWT Authentication",
-        "Product Management",
-        "User Authentication System",
-        "Admin Controls",
-        "High-performance Optimization",
       ],
     },
     {
@@ -32,8 +27,6 @@ function Certificates() {
         "APIs in modern software development",
         "Making API requests",
         "Query parameters",
-        "Basic scripting",
-        "API Key Authorization",
       ],
     },
     {
@@ -89,13 +82,13 @@ function Certificates() {
 
   return (
     <div className="certificates-section" id="certificates">
-      <h1 className="section-title skills-title" data-aos="fade-up">
+      <h1 className="section-title skills-title">
         Certificates
       </h1>
       <div className="certificates-grid">
         {certificates.map((cert, index) => (
           <div className="certificate-card" key={index}>
-            {cert.image && <img src={cert.image} alt={cert.title} />}
+          
             <div className="certificate-info">
               <h3>{cert.title}</h3>
               <p className="issuer">{cert.issuer}</p>
