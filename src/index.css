@@ -39,7 +39,7 @@ html {
 
 body {
     background: url('../public/images/bg.png');
-    background-color: #030303;
+    background-color: #171a1a;
     overflow-x: hidden;
 }
 
@@ -101,13 +101,14 @@ body {
     transition: ease .15s;
     padding: 1rem;
     border-radius: 2px;
-    background-color: #0c0c0e;
+    background-color: #141717;
     border: 1px solid white;
 }
 
 .links li a:hover {
     color: #00E8F8;
     filter: drop-shadow(4px 3px 2px #00E8F8);
+    background-color: #101111;
     border: 1px solid white;
 
 }
@@ -865,9 +866,4 @@ textarea {
 
 #resumebutton {
     width: auto;
-}
-
-.main {
-    background: url('../public/images/bg.png');
-    background-color: #030303;
 }

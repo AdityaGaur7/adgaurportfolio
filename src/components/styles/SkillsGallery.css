@@ -29,8 +29,8 @@
 
 .coding-profile,
 .proj-title {
-  margin: 2rem auto;
-  max-width: 700px;
+  /* margin: 2.5rem auto; */
+  /* max-width: 700px; */
 }
 
 .skills-category {
@@ -146,6 +146,6 @@
   .coding-profile,
   .proj-title {
 
-    max-width: 350px;
+    /* max-width: 350px; */
   }
 }

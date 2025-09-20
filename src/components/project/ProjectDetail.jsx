@@ -68,7 +68,7 @@ function ProjectDetail() {
                 className="visit-project-btn"
               >
                 <FiExternalLink size={20} />
-                Visit Project
+                {project.link}
               </a>
             </div>
 

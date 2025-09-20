@@ -1,7 +1,5 @@
 @media(max-width:790px) {
-    * {
-        /* overflow-x: hidden; */
-    }
+   
 
     .nav {
         height: 100vh;
@@ -10,9 +8,9 @@
     }
 
     body {
-        overflow-x: hidden;
+        /* overflow-x: hidden; */
         background: url('../public/images/bg.png');
-    background-color: #030303;
+        background-color: #171a1a;
     }
 
     .logo img {

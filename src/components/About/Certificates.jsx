@@ -83,7 +83,7 @@ function Certificates() {
   return (
     <div className="certificates-section" id="certificates">
       <h1 className="section-title skills-title">
-        Certificates
+        CERTIFICATES
       </h1>
       <div className="certificates-grid">
         {certificates.map((cert, index) => (

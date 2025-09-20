@@ -45,7 +45,7 @@ const ExperienceDetail = () => {
       <div className="experience-detail-container">
         {/* Header Section */}
         <div className="experience-header">
-          <button className="back-button" onClick={() => navigate("/about")}>
+          <button className="back-button" onClick={() => navigate("/")}>
             <GoArrowLeft /> Back to Experience
           </button>
           <div className="experience-title-section">
@@ -149,21 +149,7 @@ const ExperienceDetail = () => {
             </ul>
           </section>
         </div>
-
-        {/* Footer Actions */}
-        <div className="experience-actions">
-          <button className="primary-button" onClick={() => navigate("/about")}>
-            View All Experience
-          </button>
-          <button
-            className="secondary-button"
-            onClick={() => navigate("/project")}
-          >
-            View Projects
-          </button>
-        </div>
       </div>
-      
     </div>
   );
 };
