@@ -20,7 +20,7 @@ function Projects() {
   return (
     <>
       <div className="projectsection">
-        <h3 className="project-title proj-title">PROJECTS:</h3>
+        <h3 className="project-title proj-title">PROJECTS</h3>
         <div className="projects-gallery" role="list">
           {displayedProjects.map((project, index) => (
             <div

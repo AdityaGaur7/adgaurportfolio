@@ -12,7 +12,7 @@ const Experience = () => {
 
   return (
     <div className="experience">
-      <h3 className="experience-title skills-title">Experience & Works</h3>
+      <h3 className="experience-title skills-title">EXPERIENCE & WORKS</h3>
       <div className="experience-grid">
         {events.map((event, index) => (
           <div

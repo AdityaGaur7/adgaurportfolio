@@ -9,6 +9,7 @@
 .experience-detail-container {
     max-width: 1200px;
     margin: 0 auto;
+    margin-top: 3rem;
     padding: 0 2rem;
 }
 
@@ -22,7 +23,7 @@
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    background: rgba(255, 255, 255, 0.1);
+    /* background: rgba(255, 255, 255, 0.1); */
     border: 1px solid rgba(255, 255, 255, 0.2);
     color: #ffffff;
     padding: 0.75rem 1.5rem;
@@ -31,11 +32,11 @@
     transition: all 0.3s ease;
     font-size: 0.9rem;
     margin-bottom: 2rem;
-    backdrop-filter: blur(10px);
+    /* backdrop-filter: blur(10px); */
 }
 
 .back-button:hover {
-    background: rgba(255, 255, 255, 0.2);
+    /* background: rgba(255, 255, 255, 0.2); */
     border-color: rgba(255, 255, 255, 0.4);
     transform: translateY(-2px);
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
@@ -46,10 +47,10 @@
     align-items: center;
     gap: 2rem;
     padding: 2rem;
-    background: rgba(255, 255, 255, 0.05);
+    /* background: rgba(255, 255, 255, 0.05); */
     border-radius: 20px;
     border: 1px solid rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(20px);
+    /* backdrop-filter: blur(20px); */
 }
 
 .experience-icon {
@@ -106,16 +107,16 @@
 }
 
 .content-section {
-    background: rgba(110, 110, 110, 0.067);
+    /* background: rgba(110, 110, 110, 0.067); */
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 16px;
     padding: 2rem;
-    backdrop-filter: blur(10px);
+    /* backdrop-filter: blur(10px); */
     transition: all 0.3s ease;
 }
 
 .content-section:hover {
-    background: rgba(255, 255, 255, 0.05);
+    /* background: rgba(255, 255, 255, 0.05); */
     border-color: rgba(100, 255, 218, 0.3);
     transform: translateY(-5px);
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);

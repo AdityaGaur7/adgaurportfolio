@@ -20,20 +20,17 @@
 }
 
 .project-card {
-  background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(0, 232, 248, 0.3);
   border-radius: 10px;
   padding: 0.5rem;
   cursor: pointer;
   transition: all 0.3s ease;
-  backdrop-filter: blur(10px);
   outline: none;
 }
 
 .project-card:hover {
   transform: translateY(-8px);
   border-color: #8df0f7;
-  background: rgba(255, 255, 255, 0.08);
 }
 
 .project-card:focus-visible {
