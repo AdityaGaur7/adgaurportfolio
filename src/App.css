@@ -560,4 +560,7 @@
     .spotify-modal-content {
         padding: 20px;
     }
+    .container{
+        height: 75vh;
+    }
 }
