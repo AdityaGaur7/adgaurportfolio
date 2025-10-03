@@ -474,7 +474,7 @@
     "title": "LOVE CALCULATOR (EJS)",
     "description": "An interactive tool that calculates the compatibility between two people based on their names.",
     "image": "images/img/love-calculator.png",
-    "link": "https://love-calculator-by-adgaur-67j6.vercel.app",
+    "link": "https://love-calculator-by-adgaur.vercel.app/",
     "client": "Personal Project",
     "date": "August 2023-September 2023",
     "tags": [
