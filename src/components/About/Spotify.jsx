@@ -11,7 +11,7 @@ function Spotify() {
           width: "100%",
           height: "152px",
         }}
-        src="https://open.spotify.com/embed/playlist/7qUJSPQc5DbYPoBqCGhwzR?utm_source=generator&theme=0"
+        src="https://open.spotify.com/embed/playlist/37i9dQZF1DX4PP3DA4J0N8?utm_source=generator&theme=0"
         frameBorder="0"
         allowfullscreen=""
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
