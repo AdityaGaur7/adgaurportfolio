@@ -38,7 +38,7 @@ const Cont = () => {
           <div className="right">
             <div className="frame">
               <img src="images/adgaur.jpg" alt="" id="img" />
-              <button
+              {/* <button
                 className="spotify-button"
                 onClick={openSpotifyModal}
                 title="Listen to my Spotify playlist"
@@ -49,34 +49,23 @@ const Cont = () => {
                     fill="#1DB954"
                   />
                 </svg>
-              </button>
+              </button> */}
             </div>
           </div>
           <div />
         </div>
       </div>
 
-      {/* Spotify Modal */}
-      {isSpotifyModalOpen && (
+     
+      {/* {isSpotifyModalOpen && (
         <div className="spotify-modal-overlay">
           <div className="spotify-modal">
-            {/* <div className="spotify-modal-header">
-              <h3>My Music Playlist</h3>
-              <button className="spotify-close-btn" onClick={closeSpotifyModal}>
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
-                  <path
-                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"
-                    fill="currentColor"
-                  />
-                </svg>
-              </button>
-            </div> */}
             <div className="spotify-modal-content">
               <Spotify />
             </div>
           </div>
         </div>
-      )}
+      )} */}
     </>
   );
 };
