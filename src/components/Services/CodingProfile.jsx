@@ -14,7 +14,7 @@ const skills = [
   },
   {
     name: "CodeChef",
-    url: "https://www.codechef.com/users/adgaur027",
+    url: "https://www.codechef.com/users/adgaur_saiyan",
     img: "https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg",
   },
   {
@@ -29,7 +29,7 @@ const skills = [
   },
   {
     name: "LeetCode",
-    url: "https://www.leetcode.com/aditya027_",
+    url: "https://leetcode.com/u/Adgaur027",
     img: "icon/lc.png",
   },
   //   {

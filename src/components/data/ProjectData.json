@@ -435,6 +435,36 @@
       "Vite"
     ]
   },
+   {
+    "title": "LOVE CALCULATOR (EJS)",
+    "description": "An interactive tool that calculates the compatibility between two people based on their names.",
+    "image": "images/img/love-calculator.png",
+    "link": "https://love-calculator-by-adgaur.vercel.app/",
+    "client": "Personal Project",
+    "date": "August 2023-September 2023",
+    "tags": [
+      "EJS",
+      "Node.js",
+      "Express",
+      "CSS",
+      "Entertainment"
+    ],
+    "longDescription": "The Love Calculator is a fun and engaging web application that uses name compatibility algorithms to determine potential romantic matches. It provides users with an entertaining way to explore relationships through name analysis.",
+    "features": [
+      "Name compatibility calculation",
+      "Interactive user interface",
+      "Result visualization",
+      "Share results functionality",
+      "Custom animation effects"
+    ],
+    "technologies": [
+      "EJS templating",
+      "Node.js",
+      "Express",
+      "CSS3 animations",
+      "JavaScript"
+    ]
+  },
   {
     "title": "FLYTIUMDRONE",
     "description": "A comprehensive e-commerce platform with dynamic content management capabilities.",
@@ -470,36 +500,7 @@
       "Payment Gateway APIs"
     ]
   },
-  {
-    "title": "LOVE CALCULATOR (EJS)",
-    "description": "An interactive tool that calculates the compatibility between two people based on their names.",
-    "image": "images/img/love-calculator.png",
-    "link": "https://love-calculator-by-adgaur.vercel.app/",
-    "client": "Personal Project",
-    "date": "August 2023-September 2023",
-    "tags": [
-      "EJS",
-      "Node.js",
-      "Express",
-      "CSS",
-      "Entertainment"
-    ],
-    "longDescription": "The Love Calculator is a fun and engaging web application that uses name compatibility algorithms to determine potential romantic matches. It provides users with an entertaining way to explore relationships through name analysis.",
-    "features": [
-      "Name compatibility calculation",
-      "Interactive user interface",
-      "Result visualization",
-      "Share results functionality",
-      "Custom animation effects"
-    ],
-    "technologies": [
-      "EJS templating",
-      "Node.js",
-      "Express",
-      "CSS3 animations",
-      "JavaScript"
-    ]
-  },
+ 
   {
     "title": "SOCIAPP (EJS)",
     "description": "A social media application developed with Express and MongoDB.",
